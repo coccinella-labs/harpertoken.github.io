@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/harpertoken/harpertoken.github.io/main/.github/assets/thumbnail.png" alt="harpertokengithubio" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/harpertoken.github.io/main/.github/assets/thumbnail.png" alt="harpertokengithubio" width="100%">
 </p>
 
 # harpertoken public site
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https%3A%2F%2Fharpertoken.github.io)](https://harpertoken.github.io)
 [![License](https://img.shields.io/github/license/harpertoken/harpertoken.github.io)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/harpertoken/harpertoken.github.io)](https://github.com/harpertoken/harpertoken.github.io/commits/main)
+[![Last Commit](https://img.shields.io/github/last-commit/harpertoken/harpertoken.github.io)](https://github.com/Coccinella-Labs/harpertoken.github.io/commits/main)
 
 This repository hosts the public website for Harpertoken. It is the landing page for the organization and includes the main profile experience, legal and contributor pages, and the welcome flow for new contributors.
 
