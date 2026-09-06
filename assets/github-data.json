@@ -7,6 +7,13 @@
     "forks_count": 0
   },
   {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
@@ -131,13 +138,6 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 1
-  },
-  {
-    "name": "homebrew-kit",
-    "html_url": "https://github.com/coccinella-labs/homebrew-kit",
-    "language": "Ruby",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
