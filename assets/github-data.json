@@ -7,8 +7,8 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
+    "name": "hautofix",
+    "html_url": "https://github.com/coccinella-labs/hautofix",
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
@@ -17,6 +17,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,20 +138,22 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "palmshed",
-    "html_url": "https://github.com/coccinella-labs/palmshed",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 1
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 150,
+  "total_count": 149,
   "items": [
+    {
+      "repo": "hautofix",
+      "number": 61,
+      "title": "chore(deps): bump the npm_and_yarn group across 1 directory with 16 updates",
+      "html_url": "https://github.com/coccinella-labs/hautofix/pull/61",
+      "updated_at": "2026-09-06T23:40:24Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 750,
@@ -224,15 +233,6 @@
       "html_url": "https://github.com/coccinella-labs/collab-hub/pull/137",
       "updated_at": "2026-09-06T12:13:29Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 152,
-      "title": "[docs] move thumbnail to coccinella-labs",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/152",
-      "updated_at": "2026-09-06T12:09:51Z",
-      "user": "bniladridas",
       "comments": 0
     }
   ]
