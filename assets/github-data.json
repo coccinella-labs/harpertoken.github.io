@@ -1,8 +1,8 @@
 {"repos": [
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -17,6 +17,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -129,13 +136,6 @@
     "name": "forkcheck",
     "html_url": "https://github.com/coccinella-labs/forkcheck",
     "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "hbadges",
-    "html_url": "https://github.com/coccinella-labs/hbadges",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   }
