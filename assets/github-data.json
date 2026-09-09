@@ -1,8 +1,29 @@
 {"repos": [
   {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "press",
+    "html_url": "https://github.com/coccinella-labs/press",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -28,13 +49,6 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
@@ -52,13 +66,6 @@
     "name": "bniladridas.github.io",
     "html_url": "https://github.com/coccinella-labs/bniladridas.github.io",
     "language": "HTML",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,13 +138,6 @@
     "language": "Lean",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "welcomeissues",
-    "html_url": "https://github.com/coccinella-labs/welcomeissues",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 1
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
@@ -145,6 +145,15 @@
 }, "open_prs": {
   "total_count": 149,
   "items": [
+    {
+      "repo": "press",
+      "number": 2,
+      "title": "Bump the npm_and_yarn group across 1 directory with 5 updates",
+      "html_url": "https://github.com/coccinella-labs/press/pull/2",
+      "updated_at": "2026-09-09T04:19:31Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "and",
       "number": 4,
@@ -225,15 +234,6 @@
       "updated_at": "2026-09-07T09:09:05Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-09-07T09:07:59Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
