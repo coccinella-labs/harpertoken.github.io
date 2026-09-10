@@ -7,6 +7,13 @@
     "forks_count": 0
   },
   {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
@@ -31,13 +38,6 @@
     "name": "press",
     "html_url": "https://github.com/coccinella-labs/press",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
