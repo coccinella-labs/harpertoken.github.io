@@ -3,8 +3,8 @@ main = "src/index.js"
 compatibility_date = "2026-04-12"
 
 [vars]
-ORG = "harpertoken"
-RELEASE_REPO = "harpertoken/harper"
-SITE_REPO = "harpertoken/harpertoken.github.io"
-DISCUSSION_REPO = "harpertoken/harpertoken.github.io"
+ORG = "coccinella-labs"
+RELEASE_REPO = "coccinella-labs/harper"
+SITE_REPO = "coccinella-labs/harpertoken.github.io"
+DISCUSSION_REPO = "coccinella-labs/harpertoken.github.io"
 

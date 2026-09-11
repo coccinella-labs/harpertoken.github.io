@@ -5,8 +5,8 @@
 # harpertoken public site
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https%3A%2F%2Fharpertoken.github.io)](https://harpertoken.github.io)
-[![License](https://img.shields.io/github/license/harpertoken/harpertoken.github.io)](LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/harpertoken/harpertoken.github.io)](https://github.com/Coccinella-Labs/harpertoken.github.io/commits/main)
+[![License](https://img.shields.io/github/license/coccinella-labs/harpertoken.github.io)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/coccinella-labs/harpertoken.github.io)](https://github.com/Coccinella-Labs/harpertoken.github.io/commits/main)
 
 This repository hosts the public website for Harpertoken. It is the landing page for the organization and includes the main profile experience, legal and contributor pages, and the welcome flow for new contributors.
 
