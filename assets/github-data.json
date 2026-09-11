@@ -1,5 +1,12 @@
 {"repos": [
   {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -128,13 +135,6 @@
   {
     "name": "rust-fix",
     "html_url": "https://github.com/coccinella-labs/rust-fix",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "lock",
-    "html_url": "https://github.com/coccinella-labs/lock",
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
