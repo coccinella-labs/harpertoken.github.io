@@ -1,5 +1,19 @@
 {"repos": [
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "mcporg",
     "html_url": "https://github.com/coccinella-labs/mcporg",
     "language": "Swift",
@@ -45,13 +59,6 @@
     "name": "pathutils",
     "html_url": "https://github.com/coccinella-labs/pathutils",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -128,13 +135,6 @@
   {
     "name": "lock",
     "html_url": "https://github.com/coccinella-labs/lock",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "auto-merge",
-    "html_url": "https://github.com/coccinella-labs/auto-merge",
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
