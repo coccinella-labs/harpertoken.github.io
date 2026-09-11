@@ -1,15 +1,22 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
+    "name": "palmshed",
+    "html_url": "https://github.com/coccinella-labs/palmshed",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -21,16 +28,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,20 +138,31 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "hwhcore",
-    "html_url": "https://github.com/coccinella-labs/hwhcore",
-    "language": "Lean",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 149,
+  "total_count": 150,
   "items": [
+    {
+      "repo": "palmshed",
+      "number": 13,
+      "title": "Bump @types/react-dom from 19.2.5 to 19.2.7",
+      "html_url": "https://github.com/coccinella-labs/palmshed/pull/13",
+      "updated_at": "2026-09-11T02:34:14Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "palmshed",
+      "number": 12,
+      "title": "Bump @types/node from 26.3.0 to 26.5.0",
+      "html_url": "https://github.com/coccinella-labs/palmshed/pull/12",
+      "updated_at": "2026-09-11T02:34:08Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "press",
       "number": 2,
@@ -216,24 +234,6 @@
       "updated_at": "2026-09-07T09:09:14Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.0 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-09-07T09:09:07Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-09-07T09:09:05Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
