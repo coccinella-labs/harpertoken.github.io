@@ -454,7 +454,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const handleError = () => {
         if (sidebarRepos) {
-            sidebarRepos.innerHTML = '<a href="https://github.com/harpertoken">harpertoken</a>';
+            sidebarRepos.innerHTML = '<a href="https://github.com/coccinella-labs">harpertoken</a>';
         }
         if (mainRelease) {
             mainRelease.textContent = 'v1.27.0';
