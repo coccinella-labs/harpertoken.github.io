@@ -1,17 +1,10 @@
 {"repos": [
   {
-    "name": "palmshed",
-    "html_url": "https://github.com/coccinella-labs/palmshed",
-    "language": "TypeScript",
-    "stargazers_count": 0,
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
     "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
   },
   {
     "name": ".github",
@@ -21,9 +14,23 @@
     "forks_count": 0
   },
   {
+    "name": "palmshed",
+    "html_url": "https://github.com/coccinella-labs/palmshed",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 1
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -112,13 +119,6 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
     "name": "harperbot",
     "html_url": "https://github.com/coccinella-labs/harperbot",
     "language": "Python",
@@ -145,6 +145,24 @@
 }, "open_prs": {
   "total_count": 150,
   "items": [
+    {
+      "repo": "harper",
+      "number": 749,
+      "title": "[deps] bump chrono from 0.4.44 to 0.4.45",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/749",
+      "updated_at": "2026-09-11T06:38:34Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "palmshed",
+      "number": 14,
+      "title": "Bump next from 16.3.2 to 16.3.3 in the npm_and_yarn group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/palmshed/pull/14",
+      "updated_at": "2026-09-11T03:10:10Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "palmshed",
       "number": 13,
@@ -209,29 +227,11 @@
       "comments": 1
     },
     {
-      "repo": "harper",
-      "number": 761,
-      "title": "[chore] point commercial licensor at coccinella-labs",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/761",
-      "updated_at": "2026-09-07T09:47:09Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
       "repo": "benchmark",
       "number": 103,
       "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
       "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
       "updated_at": "2026-09-07T09:09:22Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-09-07T09:09:14Z",
       "user": "dependabot[bot]",
       "comments": 1
     }
