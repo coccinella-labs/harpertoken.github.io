@@ -1,12 +1,5 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -17,6 +10,27 @@
     "name": "vesper",
     "html_url": "https://github.com/coccinella-labs/vesper",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "l2",
+    "html_url": "https://github.com/coccinella-labs/l2",
+    "language": "Ruby",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -52,13 +66,6 @@
     "name": "thread",
     "html_url": "https://github.com/coccinella-labs/thread",
     "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,27 +138,38 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "mcporg",
-    "html_url": "https://github.com/coccinella-labs/mcporg",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 137,
+  "total_count": 139,
   "items": [
     {
+      "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-09-14T15:41:25Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "l2",
+      "number": 2,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
+      "updated_at": "2026-09-14T15:32:28Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
       "repo": "agentware",
-      "number": 153,
-      "title": "build(deps): bump ubuntu from 22.04 to 26.04",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/153",
-      "updated_at": "2026-09-14T10:13:31Z",
-      "user": "dependabot[bot]",
+      "number": 154,
+      "title": "chore: bump version to 0.1.7",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/154",
+      "updated_at": "2026-09-14T12:03:46Z",
+      "user": "github-actions[bot]",
       "comments": 0
     },
     {
@@ -216,24 +234,6 @@
       "updated_at": "2026-09-14T09:00:06Z",
       "user": "github-actions[bot]",
       "comments": 0
-    },
-    {
-      "repo": "organictyping",
-      "number": 108,
-      "title": "chore(deps): bump @octokit/app from 14.1.0 to 16.1.4",
-      "html_url": "https://github.com/coccinella-labs/organictyping/pull/108",
-      "updated_at": "2026-09-14T04:38:50Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "organictyping",
-      "number": 107,
-      "title": "chore(deps-dev): bump @types/node from 25.0.3 to 26.5.1",
-      "html_url": "https://github.com/coccinella-labs/organictyping/pull/107",
-      "updated_at": "2026-09-14T04:38:27Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
