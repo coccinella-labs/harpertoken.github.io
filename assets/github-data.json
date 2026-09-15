@@ -1,5 +1,12 @@
 {"repos": [
   {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -7,16 +14,23 @@
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -56,13 +70,6 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "dotfiles",
     "html_url": "https://github.com/coccinella-labs/dotfiles",
     "language": "Shell",
@@ -96,13 +103,6 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "palmshed-org",
@@ -143,8 +143,53 @@
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 139,
+  "total_count": 144,
   "items": [
+    {
+      "repo": "harper",
+      "number": 790,
+      "title": "[deps] bump jsonwebtoken from 10.4.0 to 11.0.0",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/790",
+      "updated_at": "2026-09-15T06:35:44Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 789,
+      "title": "[deps] bump turul-mcp-client from 0.3.47 to 0.4.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/789",
+      "updated_at": "2026-09-15T06:35:10Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 788,
+      "title": "[deps] bump rustyline from 17.0.2 to 18.0.1",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/788",
+      "updated_at": "2026-09-15T06:34:13Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 787,
+      "title": "[deps] bump async-trait from 0.1.89 to 0.1.92",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/787",
+      "updated_at": "2026-09-15T05:54:11Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 786,
+      "title": "[deps] bump hashlink from 0.11.0 to 0.12.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/786",
+      "updated_at": "2026-09-15T05:54:01Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "vesper",
       "number": 191,
@@ -188,51 +233,6 @@
       "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
       "updated_at": "2026-09-14T09:09:28Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-09-14T09:09:19Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-09-14T09:09:17Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.0 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-09-14T09:09:15Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-09-14T09:08:13Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "dotfiles",
-      "number": 20,
-      "title": "chore: bump version to 1.5.28 at Mon Sep 14 09:00:04 UTC 2026",
-      "html_url": "https://github.com/coccinella-labs/dotfiles/pull/20",
-      "updated_at": "2026-09-14T09:00:06Z",
-      "user": "github-actions[bot]",
       "comments": 0
     }
   ]
