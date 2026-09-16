@@ -1,40 +1,5 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
@@ -42,109 +7,153 @@
     "forks_count": 1
   },
   {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "l2",
-    "html_url": "https://github.com/coccinella-labs/l2",
-    "language": "Ruby",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "benchmark",
-    "html_url": "https://github.com/coccinella-labs/benchmark",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "dotfiles",
-    "html_url": "https://github.com/coccinella-labs/dotfiles",
-    "language": "Shell",
-    "stargazers_count": 1,
-    "forks_count": 0
-  },
-  {
-    "name": "hello",
-    "html_url": "https://github.com/coccinella-labs/hello",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "thread",
-    "html_url": "https://github.com/coccinella-labs/thread",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "organictyping",
-    "html_url": "https://github.com/coccinella-labs/organictyping",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "coccinella-labs.github.io",
-    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "palmshed-org",
-    "html_url": "https://github.com/coccinella-labs/palmshed-org",
+    "name": "welcome-issues",
+    "html_url": "https://github.com/coccinella-labs/welcome-issues",
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "browser",
-    "html_url": "https://github.com/coccinella-labs/browser",
-    "language": "Dart",
-    "stargazers_count": 2,
-    "forks_count": 0
-  },
-  {
-    "name": "rag",
-    "html_url": "https://github.com/coccinella-labs/rag",
-    "language": "Python",
+    "name": "forkcheck",
+    "html_url": "https://github.com/coccinella-labs/forkcheck",
+    "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "bot-identity",
-    "html_url": "https://github.com/coccinella-labs/bot-identity",
-    "language": "Shell",
+    "name": "rust-nightly",
+    "html_url": "https://github.com/coccinella-labs/rust-nightly",
+    "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "mlapi",
-    "html_url": "https://github.com/coccinella-labs/mlapi",
-    "language": "Python",
+    "name": "auto-merge",
+    "html_url": "https://github.com/coccinella-labs/auto-merge",
+    "language": null,
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "rust-fix",
+    "html_url": "https://github.com/coccinella-labs/rust-fix",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "title",
+    "html_url": "https://github.com/coccinella-labs/title",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "cancel",
+    "html_url": "https://github.com/coccinella-labs/cancel",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "release",
+    "html_url": "https://github.com/coccinella-labs/release",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "nightly",
+    "html_url": "https://github.com/coccinella-labs/nightly",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "lock",
+    "html_url": "https://github.com/coccinella-labs/lock",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "auto-label",
+    "html_url": "https://github.com/coccinella-labs/auto-label",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "stale",
+    "html_url": "https://github.com/coccinella-labs/stale",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "commitfix",
+    "html_url": "https://github.com/coccinella-labs/commitfix",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "skills",
+    "html_url": "https://github.com/coccinella-labs/skills",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "json-repo",
+    "html_url": "https://github.com/coccinella-labs/json-repo",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "warnings",
+    "html_url": "https://github.com/coccinella-labs/warnings",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "gitkeep",
+    "html_url": "https://github.com/coccinella-labs/gitkeep",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "license",
+    "html_url": "https://github.com/coccinella-labs/license",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "welcomeissues",
+    "html_url": "https://github.com/coccinella-labs/welcomeissues",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 1
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 144,
+  "total_count": 145,
   "items": [
+    {
+      "repo": "harper",
+      "number": 795,
+      "title": "[lib] release",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/795",
+      "updated_at": "2026-09-16T11:55:01Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 790,
@@ -225,15 +234,6 @@
       "updated_at": "2026-09-14T10:07:17Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-09-14T09:09:28Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
