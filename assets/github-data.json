@@ -1,10 +1,24 @@
 {"repos": [
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "welcome-issues",
@@ -124,27 +138,22 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "license",
-    "html_url": "https://github.com/coccinella-labs/license",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "welcomeissues",
-    "html_url": "https://github.com/coccinella-labs/welcomeissues",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 1
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 145,
+  "total_count": 146,
   "items": [
+    {
+      "repo": "harper",
+      "number": 797,
+      "title": "[feat] deterministic replay harness for agent tool loop",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/797",
+      "updated_at": "2026-09-16T16:33:45Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 795,
@@ -225,20 +234,47 @@
       "updated_at": "2026-09-14T12:03:46Z",
       "user": "github-actions[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 188,
-      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
-      "updated_at": "2026-09-14T10:07:17Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 7,
+  "total_count": 11,
   "items": [
+    {
+      "repo": "harper",
+      "number": 800,
+      "title": "[fix] forced_tool_retry never resets, capping consecutive tool rounds at 2",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/800",
+      "updated_at": "2026-09-16T16:42:13Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 799,
+      "title": "[fix] write-file placeholder clarification unreachable for OpenAI-family providers",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/799",
+      "updated_at": "2026-09-16T16:42:12Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 798,
+      "title": "[fix] agents-guidance gate checks tool_signature but inserts dedupe_key, re-injecting every round",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/798",
+      "updated_at": "2026-09-16T16:42:12Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 796,
+      "title": "[feat] Phase 3: deterministic replay harness for the agent tool loop",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/796",
+      "updated_at": "2026-09-16T16:31:27Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "dotfiles",
       "number": 5,
@@ -292,15 +328,6 @@
       "updated_at": "2026-03-22T10:33:18Z",
       "user": "bniladridas",
       "comments": 7
-    },
-    {
-      "repo": "gpucomm-bot",
-      "number": 13,
-      "title": "Verify labels on GPU-related Issues",
-      "html_url": "https://github.com/coccinella-labs/gpucomm-bot/issues/13",
-      "updated_at": "2026-03-19T10:28:01Z",
-      "user": "bniladridas",
-      "comments": 1
     }
   ]
 }}
