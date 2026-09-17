@@ -7,13 +7,6 @@
     "forks_count": 1
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -21,9 +14,79 @@
     "forks_count": 0
   },
   {
+    "name": "homebrew-tap",
+    "html_url": "https://github.com/coccinella-labs/homebrew-tap",
+    "language": "Ruby",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "release-notes",
+    "html_url": "https://github.com/coccinella-labs/release-notes",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "cancel",
+    "html_url": "https://github.com/coccinella-labs/cancel",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "title",
+    "html_url": "https://github.com/coccinella-labs/title",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "rust-fix",
+    "html_url": "https://github.com/coccinella-labs/rust-fix",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "rust-nightly",
+    "html_url": "https://github.com/coccinella-labs/rust-nightly",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "release-assets",
+    "html_url": "https://github.com/coccinella-labs/release-assets",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "auto-merge",
+    "html_url": "https://github.com/coccinella-labs/auto-merge",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "release",
+    "html_url": "https://github.com/coccinella-labs/release",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -63,48 +126,6 @@
     "forks_count": 0
   },
   {
-    "name": "rust-nightly",
-    "html_url": "https://github.com/coccinella-labs/rust-nightly",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "auto-merge",
-    "html_url": "https://github.com/coccinella-labs/auto-merge",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "rust-fix",
-    "html_url": "https://github.com/coccinella-labs/rust-fix",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "title",
-    "html_url": "https://github.com/coccinella-labs/title",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "cancel",
-    "html_url": "https://github.com/coccinella-labs/cancel",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "release",
-    "html_url": "https://github.com/coccinella-labs/release",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "nightly",
     "html_url": "https://github.com/coccinella-labs/nightly",
     "language": null,
@@ -117,49 +138,55 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "auto-label",
-    "html_url": "https://github.com/coccinella-labs/auto-label",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "stale",
-    "html_url": "https://github.com/coccinella-labs/stale",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "commitfix",
-    "html_url": "https://github.com/coccinella-labs/commitfix",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 148,
+  "total_count": 144,
   "items": [
     {
       "repo": "harper",
-      "number": 786,
-      "title": "[deps] bump hashlink from 0.11.0 to 0.12.2",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/786",
-      "updated_at": "2026-09-17T09:37:14Z",
-      "user": "dependabot[bot]",
-      "comments": 1
+      "number": 813,
+      "title": "[fix] bump quinn-proto to 0.11.18 for memory-exhaustion advisory",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/813",
+      "updated_at": "2026-09-17T15:53:55Z",
+      "user": "bniladridas",
+      "comments": 0
     },
     {
       "repo": "harper",
-      "number": 790,
-      "title": "[deps] bump jsonwebtoken from 10.4.0 to 11.0.0",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/790",
-      "updated_at": "2026-09-17T09:32:17Z",
+      "number": 812,
+      "title": "deps: bump rusqlite from 0.37.0 to 0.40.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/812",
+      "updated_at": "2026-09-17T15:53:38Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 811,
+      "title": "[deps] bump syn from 2.0.117 to 3.0.5",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/811",
+      "updated_at": "2026-09-17T15:49:32Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 810,
+      "title": "[deps] bump dirs from 6.0.0 to 7.0.0",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/810",
+      "updated_at": "2026-09-17T15:49:12Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 809,
+      "title": "[deps] bump the cargo-minor-patch group with 16 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/809",
+      "updated_at": "2026-09-17T15:49:00Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -168,44 +195,17 @@
       "number": 789,
       "title": "[deps] bump turul-mcp-client from 0.3.47 to 0.4.2",
       "html_url": "https://github.com/coccinella-labs/harper/pull/789",
-      "updated_at": "2026-09-17T09:17:11Z",
+      "updated_at": "2026-09-17T15:10:03Z",
       "user": "dependabot[bot]",
-      "comments": 0
+      "comments": 2
     },
     {
-      "repo": "harper",
-      "number": 788,
-      "title": "[deps] bump rustyline from 17.0.2 to 18.0.1",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/788",
-      "updated_at": "2026-09-17T09:15:19Z",
+      "repo": "release-notes",
+      "number": 7,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.5.1",
+      "html_url": "https://github.com/coccinella-labs/release-notes/pull/7",
+      "updated_at": "2026-09-17T11:14:11Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 807,
-      "title": "[ci] group minor and patch dependabot updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/807",
-      "updated_at": "2026-09-17T07:49:29Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 806,
-      "title": "[docs] refresh website copy, branding, favicons, and harness post",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/806",
-      "updated_at": "2026-09-17T07:46:30Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 805,
-      "title": "[docs] rewrite readme to describe the agent runtime accurately",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/805",
-      "updated_at": "2026-09-17T07:46:25Z",
-      "user": "bniladridas",
       "comments": 0
     },
     {
@@ -218,27 +218,63 @@
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 797,
-      "title": "[feat] deterministic replay harness for agent tool loop",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/797",
-      "updated_at": "2026-09-16T16:33:45Z",
-      "user": "bniladridas",
+      "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-09-14T15:41:25Z",
+      "user": "github-actions[bot]",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 795,
-      "title": "[lib] release",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/795",
-      "updated_at": "2026-09-16T11:55:01Z",
-      "user": "coccinella-labs-harper[bot]",
+      "repo": "l2",
+      "number": 2,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
+      "updated_at": "2026-09-14T15:32:28Z",
+      "user": "github-actions[bot]",
       "comments": 0
     }
   ]
 }, "open_issues": {
   "total_count": 13,
   "items": [
+    {
+      "repo": "harper",
+      "number": 800,
+      "title": "[fix] forced_tool_retry never resets, capping consecutive tool rounds at 2",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/800",
+      "updated_at": "2026-09-17T14:59:37Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 799,
+      "title": "[fix] write-file placeholder clarification unreachable for OpenAI-family providers",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/799",
+      "updated_at": "2026-09-17T14:59:34Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 798,
+      "title": "[fix] agents-guidance gate checks tool_signature but inserts dedupe_key, re-injecting every round",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/798",
+      "updated_at": "2026-09-17T14:59:31Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 345,
+      "title": "Tracked roadmap",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/345",
+      "updated_at": "2026-09-17T14:57:38Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
     {
       "repo": "harper",
       "number": 804,
@@ -254,42 +290,6 @@
       "title": "[fix] CEREBRAS_API_KEY sets provider \"Cerebras\" which config validation rejects",
       "html_url": "https://github.com/coccinella-labs/harper/issues/803",
       "updated_at": "2026-09-17T07:44:43Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 800,
-      "title": "[fix] forced_tool_retry never resets, capping consecutive tool rounds at 2",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/800",
-      "updated_at": "2026-09-16T16:42:13Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 799,
-      "title": "[fix] write-file placeholder clarification unreachable for OpenAI-family providers",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/799",
-      "updated_at": "2026-09-16T16:42:12Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 798,
-      "title": "[fix] agents-guidance gate checks tool_signature but inserts dedupe_key, re-injecting every round",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/798",
-      "updated_at": "2026-09-16T16:42:12Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 796,
-      "title": "[feat] Phase 3: deterministic replay harness for the agent tool loop",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/796",
-      "updated_at": "2026-09-16T16:31:27Z",
       "user": "bniladridas",
       "comments": 0
     },
