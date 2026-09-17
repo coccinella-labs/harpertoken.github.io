@@ -1,24 +1,17 @@
 {"repos": [
   {
-    "name": "gh-tag",
-    "html_url": "https://github.com/coccinella-labs/gh-tag",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": ".github",
@@ -31,6 +24,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "gh-tag",
+    "html_url": "https://github.com/coccinella-labs/gh-tag",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,20 +138,76 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "skills",
-    "html_url": "https://github.com/coccinella-labs/skills",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
 }, "open_prs": {
-  "total_count": 146,
+  "total_count": 148,
   "items": [
+    {
+      "repo": "harper",
+      "number": 786,
+      "title": "[deps] bump hashlink from 0.11.0 to 0.12.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/786",
+      "updated_at": "2026-09-17T09:37:14Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
+      "number": 790,
+      "title": "[deps] bump jsonwebtoken from 10.4.0 to 11.0.0",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/790",
+      "updated_at": "2026-09-17T09:32:17Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 789,
+      "title": "[deps] bump turul-mcp-client from 0.3.47 to 0.4.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/789",
+      "updated_at": "2026-09-17T09:17:11Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 788,
+      "title": "[deps] bump rustyline from 17.0.2 to 18.0.1",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/788",
+      "updated_at": "2026-09-17T09:15:19Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 807,
+      "title": "[ci] group minor and patch dependabot updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/807",
+      "updated_at": "2026-09-17T07:49:29Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 806,
+      "title": "[docs] refresh website copy, branding, favicons, and harness post",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/806",
+      "updated_at": "2026-09-17T07:46:30Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 805,
+      "title": "[docs] rewrite readme to describe the agent runtime accurately",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/805",
+      "updated_at": "2026-09-17T07:46:25Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "gh-tag",
       "number": 7,
@@ -171,74 +234,29 @@
       "updated_at": "2026-09-16T11:55:01Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 790,
-      "title": "[deps] bump jsonwebtoken from 10.4.0 to 11.0.0",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/790",
-      "updated_at": "2026-09-15T06:35:44Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 789,
-      "title": "[deps] bump turul-mcp-client from 0.3.47 to 0.4.2",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/789",
-      "updated_at": "2026-09-15T06:35:10Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 788,
-      "title": "[deps] bump rustyline from 17.0.2 to 18.0.1",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/788",
-      "updated_at": "2026-09-15T06:34:13Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 787,
-      "title": "[deps] bump async-trait from 0.1.89 to 0.1.92",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/787",
-      "updated_at": "2026-09-15T05:54:11Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 786,
-      "title": "[deps] bump hashlink from 0.11.0 to 0.12.2",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/786",
-      "updated_at": "2026-09-15T05:54:01Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 191,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
-      "updated_at": "2026-09-14T15:41:25Z",
-      "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "l2",
-      "number": 2,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
-      "updated_at": "2026-09-14T15:32:28Z",
-      "user": "github-actions[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
-  "total_count": 11,
+  "total_count": 13,
   "items": [
+    {
+      "repo": "harper",
+      "number": 804,
+      "title": "[fix] Dual license declared in Cargo.toml but LICENSE files are missing",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/804",
+      "updated_at": "2026-09-17T07:44:50Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 803,
+      "title": "[fix] CEREBRAS_API_KEY sets provider \"Cerebras\" which config validation rejects",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/803",
+      "updated_at": "2026-09-17T07:44:43Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 800,
@@ -310,24 +328,6 @@
       "updated_at": "2026-03-23T13:28:11Z",
       "user": "bniladridas",
       "comments": 16
-    },
-    {
-      "repo": "gpucomm-fs",
-      "number": 1,
-      "title": "v0 roadmap: CAS CLI → FUSE + GPU artifacts",
-      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/1",
-      "updated_at": "2026-03-22T10:48:28Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "gpucomm-bot",
-      "number": 1,
-      "title": "Decide next track: GitHub App auth vs real GPU CI",
-      "html_url": "https://github.com/coccinella-labs/gpucomm-bot/issues/1",
-      "updated_at": "2026-03-22T10:33:18Z",
-      "user": "bniladridas",
-      "comments": 7
     }
   ]
 }}
