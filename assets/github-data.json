@@ -1,15 +1,29 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
+    "name": "gh-tag",
+    "html_url": "https://github.com/coccinella-labs/gh-tag",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -21,11 +35,11 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "welcome-issues",
@@ -124,20 +138,6 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "json-repo",
-    "html_url": "https://github.com/coccinella-labs/json-repo",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "warnings",
-    "html_url": "https://github.com/coccinella-labs/warnings",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.20.1",
@@ -145,6 +145,15 @@
 }, "open_prs": {
   "total_count": 146,
   "items": [
+    {
+      "repo": "gh-tag",
+      "number": 7,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.5.1",
+      "html_url": "https://github.com/coccinella-labs/gh-tag/pull/7",
+      "updated_at": "2026-09-17T04:13:45Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 797,
@@ -223,15 +232,6 @@
       "title": "chore: update dependencies",
       "html_url": "https://github.com/coccinella-labs/l2/pull/2",
       "updated_at": "2026-09-14T15:32:28Z",
-      "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 154,
-      "title": "chore: bump version to 0.1.7",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/154",
-      "updated_at": "2026-09-14T12:03:46Z",
       "user": "github-actions[bot]",
       "comments": 0
     }
