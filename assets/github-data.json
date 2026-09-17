@@ -1,10 +1,10 @@
 {"repos": [
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": ".github",
@@ -19,6 +19,13 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "homebrew-tap",
@@ -101,13 +108,6 @@
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
