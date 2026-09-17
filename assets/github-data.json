@@ -14,6 +14,13 @@
     "forks_count": 0
   },
   {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "homebrew-tap",
     "html_url": "https://github.com/coccinella-labs/homebrew-tap",
     "language": "Ruby",
@@ -77,13 +84,6 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
@@ -140,35 +140,44 @@
     "forks_count": 0
   }
 ], "latest_release": {
-  "tag_name": "harper-0.20.1",
-  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.20.1"
+  "tag_name": "harper-0.21.0",
+  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.21.0"
 }, "open_prs": {
-  "total_count": 144,
+  "total_count": 145,
   "items": [
+    {
+      "repo": "harper",
+      "number": 814,
+      "title": "[lib] release harper-workspace 0.23.0, harper-core 0.22.0, harper-ui 0.22.0",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/814",
+      "updated_at": "2026-09-17T17:09:52Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 813,
       "title": "[fix] bump quinn-proto to 0.11.18 for memory-exhaustion advisory",
       "html_url": "https://github.com/coccinella-labs/harper/pull/813",
-      "updated_at": "2026-09-17T15:53:55Z",
+      "updated_at": "2026-09-17T17:08:50Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
       "repo": "harper",
-      "number": 812,
-      "title": "deps: bump rusqlite from 0.37.0 to 0.40.2",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/812",
-      "updated_at": "2026-09-17T15:53:38Z",
+      "number": 809,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 16 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/809",
+      "updated_at": "2026-09-17T16:38:31Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
       "repo": "harper",
-      "number": 811,
-      "title": "[deps] bump syn from 2.0.117 to 3.0.5",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/811",
-      "updated_at": "2026-09-17T15:49:32Z",
+      "number": 812,
+      "title": "[deps] bump rusqlite from 0.37.0 to 0.40.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/812",
+      "updated_at": "2026-09-17T16:35:37Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -177,16 +186,16 @@
       "number": 810,
       "title": "[deps] bump dirs from 6.0.0 to 7.0.0",
       "html_url": "https://github.com/coccinella-labs/harper/pull/810",
-      "updated_at": "2026-09-17T15:49:12Z",
+      "updated_at": "2026-09-17T16:23:10Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
       "repo": "harper",
-      "number": 809,
-      "title": "[deps] bump the cargo-minor-patch group with 16 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/809",
-      "updated_at": "2026-09-17T15:49:00Z",
+      "number": 811,
+      "title": "[deps] bump syn from 2.0.117 to 3.0.5",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/811",
+      "updated_at": "2026-09-17T16:20:11Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -195,7 +204,7 @@
       "number": 789,
       "title": "[deps] bump turul-mcp-client from 0.3.47 to 0.4.2",
       "html_url": "https://github.com/coccinella-labs/harper/pull/789",
-      "updated_at": "2026-09-17T15:10:03Z",
+      "updated_at": "2026-09-17T16:05:19Z",
       "user": "dependabot[bot]",
       "comments": 2
     },
@@ -223,15 +232,6 @@
       "title": "chore: update dependencies",
       "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
       "updated_at": "2026-09-14T15:41:25Z",
-      "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "l2",
-      "number": 2,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
-      "updated_at": "2026-09-14T15:32:28Z",
       "user": "github-actions[bot]",
       "comments": 0
     }
