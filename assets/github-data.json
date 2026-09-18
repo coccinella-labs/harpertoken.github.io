@@ -1,5 +1,26 @@
 {"repos": [
   {
+    "name": "palmshed",
+    "html_url": "https://github.com/coccinella-labs/palmshed",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -19,13 +40,6 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "homebrew-tap",
@@ -105,13 +119,6 @@
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "welcome-issues",
     "html_url": "https://github.com/coccinella-labs/welcome-issues",
     "language": null,
@@ -131,20 +138,49 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "lock",
-    "html_url": "https://github.com/coccinella-labs/lock",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.21.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.21.0"
 }, "open_prs": {
-  "total_count": 145,
+  "total_count": 146,
   "items": [
+    {
+      "repo": "palmshed",
+      "number": 18,
+      "title": "Bump react-dom and @types/react-dom",
+      "html_url": "https://github.com/coccinella-labs/palmshed/pull/18",
+      "updated_at": "2026-09-18T02:34:39Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "palmshed",
+      "number": 17,
+      "title": "Bump @types/node from 26.3.0 to 26.5.1",
+      "html_url": "https://github.com/coccinella-labs/palmshed/pull/17",
+      "updated_at": "2026-09-18T02:34:30Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "palmshed",
+      "number": 16,
+      "title": "Bump next from 16.3.2 to 16.3.5",
+      "html_url": "https://github.com/coccinella-labs/palmshed/pull/16",
+      "updated_at": "2026-09-18T02:34:25Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "palmshed",
+      "number": 15,
+      "title": "Bump react and @types/react",
+      "html_url": "https://github.com/coccinella-labs/palmshed/pull/15",
+      "updated_at": "2026-09-18T02:34:03Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 814,
@@ -197,42 +233,6 @@
       "html_url": "https://github.com/coccinella-labs/harper/pull/811",
       "updated_at": "2026-09-17T16:20:11Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 789,
-      "title": "[deps] bump turul-mcp-client from 0.3.47 to 0.4.2",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/789",
-      "updated_at": "2026-09-17T16:05:19Z",
-      "user": "dependabot[bot]",
-      "comments": 2
-    },
-    {
-      "repo": "release-notes",
-      "number": 7,
-      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.5.1",
-      "html_url": "https://github.com/coccinella-labs/release-notes/pull/7",
-      "updated_at": "2026-09-17T11:14:11Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "gh-tag",
-      "number": 7,
-      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.5.1",
-      "html_url": "https://github.com/coccinella-labs/gh-tag/pull/7",
-      "updated_at": "2026-09-17T04:13:45Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 191,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
-      "updated_at": "2026-09-14T15:41:25Z",
-      "user": "github-actions[bot]",
       "comments": 0
     }
   ]
