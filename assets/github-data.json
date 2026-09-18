@@ -7,6 +7,20 @@
     "forks_count": 0
   },
   {
+    "name": "benchmark",
+    "html_url": "https://github.com/coccinella-labs/benchmark",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
@@ -47,13 +61,6 @@
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   },
   {
     "name": "homebrew-tap",
@@ -131,20 +138,22 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "forkcheck",
-    "html_url": "https://github.com/coccinella-labs/forkcheck",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.21.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.21.0"
 }, "open_prs": {
-  "total_count": 146,
+  "total_count": 147,
   "items": [
+    {
+      "repo": "benchmark",
+      "number": 149,
+      "title": "deps(deps): bump anyio from 4.12.1 to 4.14.2",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/149",
+      "updated_at": "2026-09-18T21:49:35Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 809,
@@ -223,15 +232,6 @@
       "title": "[deps] bump dirs from 6.0.0 to 7.0.0",
       "html_url": "https://github.com/coccinella-labs/harper/pull/810",
       "updated_at": "2026-09-17T16:23:10Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 811,
-      "title": "[deps] bump syn from 2.0.117 to 3.0.5",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/811",
-      "updated_at": "2026-09-17T16:20:11Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
