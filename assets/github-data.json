@@ -1,5 +1,33 @@
 {"repos": [
   {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "coccinella-labs.github.io",
+    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "palmshed",
     "html_url": "https://github.com/coccinella-labs/palmshed",
     "language": "TypeScript",
@@ -19,20 +47,6 @@
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
-  },
-  {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   },
   {
     "name": "diff",
@@ -105,13 +119,6 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "gh-tag",
     "html_url": "https://github.com/coccinella-labs/gh-tag",
     "language": "TypeScript",
@@ -131,13 +138,6 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "nightly",
-    "html_url": "https://github.com/coccinella-labs/nightly",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.21.0",
@@ -145,6 +145,15 @@
 }, "open_prs": {
   "total_count": 146,
   "items": [
+    {
+      "repo": "harper",
+      "number": 809,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 16 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/809",
+      "updated_at": "2026-09-18T05:57:57Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "palmshed",
       "number": 18,
@@ -197,15 +206,6 @@
       "html_url": "https://github.com/coccinella-labs/harper/pull/813",
       "updated_at": "2026-09-17T17:08:50Z",
       "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 809,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 16 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/809",
-      "updated_at": "2026-09-17T16:38:31Z",
-      "user": "dependabot[bot]",
       "comments": 0
     },
     {
