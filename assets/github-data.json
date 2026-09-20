@@ -1,10 +1,24 @@
 {"repos": [
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "release",
@@ -16,20 +30,6 @@
   {
     "name": "mlapi",
     "html_url": "https://github.com/coccinella-labs/mlapi",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -150,7 +150,7 @@
       "number": 834,
       "title": "[lib] release harper-workspace 0.23.1, harper-core 0.22.1, harper-ui 0.22.1",
       "html_url": "https://github.com/coccinella-labs/harper/pull/834",
-      "updated_at": "2026-09-20T14:15:21Z",
+      "updated_at": "2026-09-20T15:12:27Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 0
     },
