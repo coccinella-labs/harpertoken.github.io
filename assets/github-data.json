@@ -7,6 +7,20 @@
     "forks_count": 0
   },
   {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
@@ -24,13 +38,6 @@
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -53,13 +60,6 @@
     "html_url": "https://github.com/coccinella-labs/palmshed",
     "language": "TypeScript",
     "stargazers_count": 0,
-    "forks_count": 1
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
     "forks_count": 1
   },
   {
@@ -143,8 +143,26 @@
   "tag_name": "harper-0.21.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.21.0"
 }, "open_prs": {
-  "total_count": 147,
+  "total_count": 148,
   "items": [
+    {
+      "repo": "harper",
+      "number": 815,
+      "title": "[chore] update rust lockfiles",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/815",
+      "updated_at": "2026-09-20T03:19:16Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "organictyping",
+      "number": 103,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
+      "updated_at": "2026-09-20T02:41:58Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
     {
       "repo": "benchmark",
       "number": 149,
@@ -215,24 +233,6 @@
       "html_url": "https://github.com/coccinella-labs/harper/pull/813",
       "updated_at": "2026-09-17T17:08:50Z",
       "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 812,
-      "title": "[deps] bump rusqlite from 0.37.0 to 0.40.2",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/812",
-      "updated_at": "2026-09-17T16:35:37Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 810,
-      "title": "[deps] bump dirs from 6.0.0 to 7.0.0",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/810",
-      "updated_at": "2026-09-17T16:23:10Z",
-      "user": "dependabot[bot]",
       "comments": 0
     }
   ]
