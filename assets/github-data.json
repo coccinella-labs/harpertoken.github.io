@@ -1,12 +1,5 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
@@ -14,9 +7,16 @@
     "forks_count": 1
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -28,16 +28,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -140,18 +140,18 @@
     "forks_count": 0
   }
 ], "latest_release": {
-  "tag_name": "harper-0.21.0",
-  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.21.0"
+  "tag_name": "harper-0.22.0",
+  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.0"
 }, "open_prs": {
-  "total_count": 148,
+  "total_count": 141,
   "items": [
     {
       "repo": "harper",
-      "number": 815,
-      "title": "[chore] update rust lockfiles",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/815",
-      "updated_at": "2026-09-20T03:19:16Z",
-      "user": "coccinella-labs-harper[bot]",
+      "number": 825,
+      "title": "[deps] rollup syn 3, rusqlite 0.40, turul 0.4 with migrations",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/825",
+      "updated_at": "2026-09-20T09:58:59Z",
+      "user": "bniladridas",
       "comments": 0
     },
     {
@@ -169,15 +169,6 @@
       "title": "deps(deps): bump anyio from 4.12.1 to 4.14.2",
       "html_url": "https://github.com/coccinella-labs/benchmark/pull/149",
       "updated_at": "2026-09-18T21:49:35Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 809,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 16 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/809",
-      "updated_at": "2026-09-18T05:57:57Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -218,21 +209,30 @@
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 814,
-      "title": "[lib] release harper-workspace 0.23.0, harper-core 0.22.0, harper-ui 0.22.0",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/814",
-      "updated_at": "2026-09-17T17:09:52Z",
-      "user": "coccinella-labs-harper[bot]",
+      "repo": "release-notes",
+      "number": 7,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.5.1",
+      "html_url": "https://github.com/coccinella-labs/release-notes/pull/7",
+      "updated_at": "2026-09-17T11:14:11Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 813,
-      "title": "[fix] bump quinn-proto to 0.11.18 for memory-exhaustion advisory",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/813",
-      "updated_at": "2026-09-17T17:08:50Z",
-      "user": "bniladridas",
+      "repo": "gh-tag",
+      "number": 7,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.5.1",
+      "html_url": "https://github.com/coccinella-labs/gh-tag/pull/7",
+      "updated_at": "2026-09-17T04:13:45Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-09-14T15:41:25Z",
+      "user": "github-actions[bot]",
       "comments": 0
     }
   ]
