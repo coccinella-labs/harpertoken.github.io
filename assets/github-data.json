@@ -1,7 +1,21 @@
 {"repos": [
   {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -21,13 +35,6 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
     "name": "release",
     "html_url": "https://github.com/coccinella-labs/release",
     "language": null,
@@ -45,13 +52,6 @@
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,35 @@
   "tag_name": "harper-0.22.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.0"
 }, "open_prs": {
-  "total_count": 141,
+  "total_count": 144,
   "items": [
+    {
+      "repo": "harper",
+      "number": 837,
+      "title": "[deps] bump aes from 0.8.4 to 0.9.3",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/837",
+      "updated_at": "2026-09-21T05:56:29Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 836,
+      "title": "[deps] bump base64 from 0.22.1 to 0.23.1",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/836",
+      "updated_at": "2026-09-21T05:56:21Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 835,
+      "title": "[deps] bump the cargo-minor-patch group with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/835",
+      "updated_at": "2026-09-21T05:56:13Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 834,
@@ -205,33 +232,6 @@
       "title": "Bump @types/node from 26.3.0 to 26.5.1",
       "html_url": "https://github.com/coccinella-labs/palmshed/pull/17",
       "updated_at": "2026-09-18T02:34:30Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "palmshed",
-      "number": 16,
-      "title": "Bump next from 16.3.2 to 16.3.5",
-      "html_url": "https://github.com/coccinella-labs/palmshed/pull/16",
-      "updated_at": "2026-09-18T02:34:25Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "palmshed",
-      "number": 15,
-      "title": "Bump react and @types/react",
-      "html_url": "https://github.com/coccinella-labs/palmshed/pull/15",
-      "updated_at": "2026-09-18T02:34:03Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "release-notes",
-      "number": 7,
-      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.5.1",
-      "html_url": "https://github.com/coccinella-labs/release-notes/pull/7",
-      "updated_at": "2026-09-17T11:14:11Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
