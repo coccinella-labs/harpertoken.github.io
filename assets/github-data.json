@@ -7,6 +7,20 @@
     "forks_count": 1
   },
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "coccinella-labs.github.io",
+    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "proof",
     "html_url": "https://github.com/coccinella-labs/proof",
     "language": null,
@@ -14,16 +28,16 @@
     "forks_count": 0
   },
   {
-    "name": "lock",
-    "html_url": "https://github.com/coccinella-labs/lock",
-    "language": null,
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
+    "name": "lock",
+    "html_url": "https://github.com/coccinella-labs/lock",
+    "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -112,13 +126,6 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
@@ -131,37 +138,21 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "release",
-    "html_url": "https://github.com/coccinella-labs/release",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
-  "tag_name": "harper-0.22.0",
-  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.0"
+  "tag_name": "harper-0.22.1",
+  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.1"
 }, "open_prs": {
-  "total_count": 143,
+  "total_count": 142,
   "items": [
     {
       "repo": "harper",
-      "number": 837,
-      "title": "[deps] bump aes from 0.8.4 to 0.9.3",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/837",
-      "updated_at": "2026-09-21T13:26:57Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 834,
-      "title": "[lib] release harper-workspace 0.23.1, harper-core 0.22.1, harper-ui 0.22.1",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/834",
-      "updated_at": "2026-09-21T13:08:37Z",
+      "number": 866,
+      "title": "[lib] release harper-workspace 0.23.2, harper-core 0.22.2, harper-ui 0.22.2, harper-mcp-server 0.1.6",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/866",
+      "updated_at": "2026-09-21T15:42:40Z",
       "user": "coccinella-labs-harper[bot]",
-      "comments": 0
+      "comments": 1
     },
     {
       "repo": "vesper",
@@ -232,6 +223,15 @@
       "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=1.32.0",
       "html_url": "https://github.com/coccinella-labs/mlapi/pull/116",
       "updated_at": "2026-09-20T10:49:31Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 115,
+      "title": "deps(deps): bump uvicorn from 0.49.0 to 0.53.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/115",
+      "updated_at": "2026-09-20T10:49:27Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
