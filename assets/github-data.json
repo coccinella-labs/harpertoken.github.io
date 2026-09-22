@@ -7,6 +7,20 @@
     "forks_count": 0
   },
   {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "metal",
+    "html_url": "https://github.com/coccinella-labs/metal",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
@@ -38,13 +52,6 @@
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,13 +138,6 @@
     "language": "Jupyter Notebook",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "darwin-xnu",
-    "html_url": "https://github.com/coccinella-labs/darwin-xnu",
-    "language": "C",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.22.2",
@@ -145,6 +145,15 @@
 }, "open_prs": {
   "total_count": 142,
   "items": [
+    {
+      "repo": "metal",
+      "number": 18,
+      "title": "chore(deps)(deps): bump swift from 5.9 to 6.4",
+      "html_url": "https://github.com/coccinella-labs/metal/pull/18",
+      "updated_at": "2026-09-22T21:13:12Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
     {
       "repo": "harper",
       "number": 868,
@@ -223,15 +232,6 @@
       "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=1.32.0",
       "html_url": "https://github.com/coccinella-labs/mlapi/pull/116",
       "updated_at": "2026-09-20T10:49:31Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 115,
-      "title": "deps(deps): bump uvicorn from 0.49.0 to 0.53.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/115",
-      "updated_at": "2026-09-20T10:49:27Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
