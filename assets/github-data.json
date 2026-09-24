@@ -1,66 +1,10 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
-  },
-  {
-    "name": "gh-tag",
-    "html_url": "https://github.com/coccinella-labs/gh-tag",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "metal",
-    "html_url": "https://github.com/coccinella-labs/metal",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "second",
-    "html_url": "https://github.com/coccinella-labs/second",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   },
   {
     "name": "coccinella-labs.github.io",
@@ -70,8 +14,99 @@
     "forks_count": 0
   },
   {
-    "name": "proof",
-    "html_url": "https://github.com/coccinella-labs/proof",
+    "name": "gpucomm-fs",
+    "html_url": "https://github.com/coccinella-labs/gpucomm-fs",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "gpucomm-bot",
+    "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "core",
+    "html_url": "https://github.com/coccinella-labs/core",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "gh-tag",
+    "html_url": "https://github.com/coccinella-labs/gh-tag",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "startkit",
+    "html_url": "https://github.com/coccinella-labs/startkit",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "nightly",
+    "html_url": "https://github.com/coccinella-labs/nightly",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "mini",
+    "html_url": "https://github.com/coccinella-labs/mini",
+    "language": "Go",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "fmtcheck",
+    "html_url": "https://github.com/coccinella-labs/fmtcheck",
+    "language": "Go",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "echo",
+    "html_url": "https://github.com/coccinella-labs/echo",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "dotenv-keep",
+    "html_url": "https://github.com/coccinella-labs/dotenv-keep",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "craft",
+    "html_url": "https://github.com/coccinella-labs/craft",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "clipb",
+    "html_url": "https://github.com/coccinella-labs/clipb",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "stale",
+    "html_url": "https://github.com/coccinella-labs/stale",
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
@@ -84,58 +119,23 @@
     "forks_count": 0
   },
   {
-    "name": "gh-pin-repo",
-    "html_url": "https://github.com/coccinella-labs/gh-pin-repo",
-    "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "license",
-    "html_url": "https://github.com/coccinella-labs/license",
+    "name": "gon",
+    "html_url": "https://github.com/coccinella-labs/gon",
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "hub",
-    "html_url": "https://github.com/coccinella-labs/hub",
+    "name": "bump",
+    "html_url": "https://github.com/coccinella-labs/bump",
     "language": "Shell",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "skills",
-    "html_url": "https://github.com/coccinella-labs/skills",
+    "name": "auto-label",
+    "html_url": "https://github.com/coccinella-labs/auto-label",
     "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "cli",
-    "html_url": "https://github.com/coccinella-labs/cli",
-    "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "config",
-    "html_url": "https://github.com/coccinella-labs/config",
-    "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "swe-agent",
-    "html_url": "https://github.com/coccinella-labs/swe-agent",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   }
@@ -143,14 +143,59 @@
   "tag_name": "harper-0.22.2",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.2"
 }, "open_prs": {
-  "total_count": 143,
+  "total_count": 146,
   "items": [
     {
       "repo": "harper",
+      "number": 890,
+      "title": "[lib] release harper-workspace 0.23.3, harper-core 0.22.3, harper-ui 0.22.3",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/890",
+      "updated_at": "2026-09-24T15:49:35Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 882,
+      "title": "[lib] release harper-workspace 0.23.3, harper-core 0.22.3",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/882",
+      "updated_at": "2026-09-24T15:38:09Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
       "number": 869,
-      "title": "[deps] bump rand from 0.10.2 to 0.10.3 in the cargo-minor-patch group",
+      "title": "[deps] bump rand from 0.10.2 to 0.10.3 in the cargo-minor-patch group across 1 directory",
       "html_url": "https://github.com/coccinella-labs/harper/pull/869",
-      "updated_at": "2026-09-24T05:55:57Z",
+      "updated_at": "2026-09-24T13:56:15Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "release-notes",
+      "number": 9,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.2",
+      "html_url": "https://github.com/coccinella-labs/release-notes/pull/9",
+      "updated_at": "2026-09-24T13:10:05Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 868,
+      "title": "[lib] release harper-workspace 0.23.3, harper-core 0.22.3, harper-ui 0.22.3, harper-mcp-server 0.1.7",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/868",
+      "updated_at": "2026-09-24T12:59:10Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "craft",
+      "number": 1,
+      "title": "build(deps): bump clap from 4.6.6 to 4.6.7",
+      "html_url": "https://github.com/coccinella-labs/craft/pull/1",
+      "updated_at": "2026-09-24T10:37:55Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -173,15 +218,6 @@
       "comments": 1
     },
     {
-      "repo": "harper",
-      "number": 868,
-      "title": "[lib] release harper-workspace 0.23.3, harper-core 0.22.3, harper-ui 0.22.3, harper-mcp-server 0.1.7",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/868",
-      "updated_at": "2026-09-22T06:07:21Z",
-      "user": "coccinella-labs-harper[bot]",
-      "comments": 1
-    },
-    {
       "repo": "vesper",
       "number": 188,
       "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
@@ -198,136 +234,82 @@
       "updated_at": "2026-09-21T09:19:17Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.0 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-09-21T09:19:10Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-09-21T09:17:12Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 192,
-      "title": "deps(deps): bump bigdecimal from 4.1.2 to 4.1.3 in the production-dependencies group",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/192",
-      "updated_at": "2026-09-21T09:07:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-09-21T09:19:47Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 19,
+  "total_count": 8,
   "items": [
     {
       "repo": "harper",
-      "number": 853,
-      "title": "[maintenance] Evaluate edition 2024 migration",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/853",
-      "updated_at": "2026-09-21T07:39:34Z",
+      "number": 345,
+      "title": "Tracked roadmap",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/345",
+      "updated_at": "2026-09-24T15:01:23Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "dotfiles",
+      "number": 5,
+      "title": "Tracking",
+      "html_url": "https://github.com/coccinella-labs/dotfiles/issues/5",
+      "updated_at": "2026-09-14T08:59:50Z",
+      "user": "bniladridas",
+      "comments": 25
+    },
+    {
+      "repo": "collab-hub",
+      "number": 138,
+      "title": "Auto Improvement Report - 2026-09-11",
+      "html_url": "https://github.com/coccinella-labs/collab-hub/issues/138",
+      "updated_at": "2026-09-11T12:05:40Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "appsdk",
+      "number": 116,
+      "title": "Auto-created: chore(deps-dev): bump lodash from 4.17.21 to 4.18.1",
+      "html_url": "https://github.com/coccinella-labs/appsdk/issues/116",
+      "updated_at": "2026-07-25T01:35:54Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 1,
+      "title": "v0 roadmap: metal runtime → comm benchmarks + kernels",
+      "html_url": "https://github.com/coccinella-labs/core/issues/1",
+      "updated_at": "2026-03-23T13:28:11Z",
+      "user": "bniladridas",
+      "comments": 16
+    },
+    {
+      "repo": "gpucomm-fs",
+      "number": 1,
+      "title": "v0 roadmap: CAS CLI → FUSE + GPU artifacts",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/1",
+      "updated_at": "2026-03-22T10:48:28Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 852,
-      "title": "[feature] Grow the MCP server beyond echo and get_time",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/852",
-      "updated_at": "2026-09-21T07:39:32Z",
+      "repo": "gpucomm-bot",
+      "number": 1,
+      "title": "Decide next track: GitHub App auth vs real GPU CI",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-bot/issues/1",
+      "updated_at": "2026-03-22T10:33:18Z",
       "user": "bniladridas",
-      "comments": 0
+      "comments": 7
     },
     {
-      "repo": "harper",
-      "number": 851,
-      "title": "[observability] Persist typed termination reasons",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/851",
-      "updated_at": "2026-09-21T07:39:24Z",
+      "repo": "gpucomm-bot",
+      "number": 13,
+      "title": "Verify labels on GPU-related Issues",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-bot/issues/13",
+      "updated_at": "2026-03-19T10:28:01Z",
       "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 850,
-      "title": "[reliability] Persist the dedup set across resumed sessions",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/850",
-      "updated_at": "2026-09-21T07:39:20Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 849,
-      "title": "[refactor] Type policy, approval, and sandbox decisions with reasons",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/849",
-      "updated_at": "2026-09-21T07:39:13Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 848,
-      "title": "[hygiene] Route library prints through the event pipeline",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/848",
-      "updated_at": "2026-09-21T07:39:10Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 846,
-      "title": "[ux] Re-clamp scroll on terminal resize",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/846",
-      "updated_at": "2026-09-21T07:38:21Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 845,
-      "title": "[perf] Drain worker updates per tick instead of one recv",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/845",
-      "updated_at": "2026-09-21T07:38:11Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 844,
-      "title": "[ux] Bind Ctrl-C to cancel the in-flight operation",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/844",
-      "updated_at": "2026-09-21T07:37:54Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 843,
-      "title": "[robustness] Log plan-persistence failures instead of silently dropping them",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/843",
-      "updated_at": "2026-09-21T07:36:18Z",
-      "user": "bniladridas",
-      "comments": 0
+      "comments": 1
     }
   ]
 }}
