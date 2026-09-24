@@ -1,17 +1,17 @@
 {"repos": [
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "harpertoken.github.io",
@@ -143,14 +143,23 @@
   "tag_name": "harper-0.22.2",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.2"
 }, "open_prs": {
-  "total_count": 148,
+  "total_count": 149,
   "items": [
+    {
+      "repo": "harper",
+      "number": 903,
+      "title": "[lib] release harper-workspace 0.24.0, harper-core 0.23.0, harper-ui 0.22.3, harper-firmware 0.1.4, harper-mcp-server 0.1.7, harper-sandbox 0.3.3",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/903",
+      "updated_at": "2026-09-24T19:10:52Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 1
+    },
     {
       "repo": "harper",
       "number": 902,
       "title": "[lib] release harper-workspace 0.23.3, harper-core 0.22.3, harper-ui 0.22.3, harper-firmware 0.1.4, harper-mcp-server 0.1.7, harper-sandbox 0.3.3",
       "html_url": "https://github.com/coccinella-labs/harper/pull/902",
-      "updated_at": "2026-09-24T18:42:52Z",
+      "updated_at": "2026-09-24T19:10:20Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 1
     },
@@ -225,15 +234,6 @@
       "updated_at": "2026-09-24T04:11:40Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "metal",
-      "number": 18,
-      "title": "chore(deps)(deps): bump swift from 5.9 to 6.4",
-      "html_url": "https://github.com/coccinella-labs/metal/pull/18",
-      "updated_at": "2026-09-22T21:13:12Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
