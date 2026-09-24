@@ -7,23 +7,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "gh-tag",
+    "html_url": "https://github.com/coccinella-labs/gh-tag",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -35,11 +28,25 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "metal",
@@ -131,20 +138,31 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "patchcore",
-    "html_url": "https://github.com/coccinella-labs/patchcore",
-    "language": "Jupyter Notebook",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.22.2",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.2"
 }, "open_prs": {
-  "total_count": 142,
+  "total_count": 143,
   "items": [
+    {
+      "repo": "harper",
+      "number": 869,
+      "title": "[deps] bump rand from 0.10.2 to 0.10.3 in the cargo-minor-patch group",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/869",
+      "updated_at": "2026-09-24T05:55:57Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "gh-tag",
+      "number": 8,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.2",
+      "html_url": "https://github.com/coccinella-labs/gh-tag/pull/8",
+      "updated_at": "2026-09-24T04:11:40Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "metal",
       "number": 18,
@@ -216,24 +234,6 @@
       "updated_at": "2026-09-21T09:19:47Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-09-21T09:19:26Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 116,
-      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=1.32.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/116",
-      "updated_at": "2026-09-20T10:49:31Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
