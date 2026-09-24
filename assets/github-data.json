@@ -7,6 +7,27 @@
     "forks_count": 1
   },
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "clipb",
+    "html_url": "https://github.com/coccinella-labs/clipb",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "coccinella-labs.github.io",
     "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
     "language": "TypeScript",
@@ -31,13 +52,6 @@
     "name": "core",
     "html_url": "https://github.com/coccinella-labs/core",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -98,13 +112,6 @@
     "forks_count": 0
   },
   {
-    "name": "clipb",
-    "html_url": "https://github.com/coccinella-labs/clipb",
-    "language": "Rust",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "stale",
     "html_url": "https://github.com/coccinella-labs/stale",
     "language": null,
@@ -131,27 +138,38 @@
     "language": "Shell",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "auto-label",
-    "html_url": "https://github.com/coccinella-labs/auto-label",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.22.2",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.2"
 }, "open_prs": {
-  "total_count": 146,
+  "total_count": 148,
   "items": [
+    {
+      "repo": "harper",
+      "number": 902,
+      "title": "[lib] release harper-workspace 0.23.3, harper-core 0.22.3, harper-ui 0.22.3, harper-firmware 0.1.4, harper-mcp-server 0.1.7, harper-sandbox 0.3.3",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/902",
+      "updated_at": "2026-09-24T18:42:52Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 1
+    },
     {
       "repo": "harper",
       "number": 890,
       "title": "[lib] release harper-workspace 0.23.3, harper-core 0.22.3, harper-ui 0.22.3",
       "html_url": "https://github.com/coccinella-labs/harper/pull/890",
-      "updated_at": "2026-09-24T15:49:35Z",
+      "updated_at": "2026-09-24T18:05:30Z",
       "user": "coccinella-labs-harper[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "clipb",
+      "number": 1,
+      "title": "build(deps): bump clap from 4.6.6 to 4.6.7",
+      "html_url": "https://github.com/coccinella-labs/clipb/pull/1",
+      "updated_at": "2026-09-24T17:22:22Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
@@ -214,24 +232,6 @@
       "title": "chore(deps)(deps): bump swift from 5.9 to 6.4",
       "html_url": "https://github.com/coccinella-labs/metal/pull/18",
       "updated_at": "2026-09-22T21:13:12Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 188,
-      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
-      "updated_at": "2026-09-21T10:06:59Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-09-21T09:19:17Z",
       "user": "dependabot[bot]",
       "comments": 1
     }
