@@ -7,9 +7,30 @@
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
+    "name": "rag",
+    "html_url": "https://github.com/coccinella-labs/rag",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "config",
+    "html_url": "https://github.com/coccinella-labs/config",
+    "language": "Shell",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "cli",
+    "html_url": "https://github.com/coccinella-labs/cli",
+    "language": "Shell",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -24,6 +45,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -110,34 +138,6 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "dotenv-keep",
-    "html_url": "https://github.com/coccinella-labs/dotenv-keep",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "craft",
-    "html_url": "https://github.com/coccinella-labs/craft",
-    "language": "Rust",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "stale",
-    "html_url": "https://github.com/coccinella-labs/stale",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "lock",
-    "html_url": "https://github.com/coccinella-labs/lock",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.22.2",
@@ -145,6 +145,15 @@
 }, "open_prs": {
   "total_count": 149,
   "items": [
+    {
+      "repo": "harper",
+      "number": 869,
+      "title": "[deps] bump rand from 0.10.2 to 0.10.3 in the cargo-minor-patch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/869",
+      "updated_at": "2026-09-25T05:55:53Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 903,
@@ -188,15 +197,6 @@
       "html_url": "https://github.com/coccinella-labs/harper/pull/882",
       "updated_at": "2026-09-24T15:38:09Z",
       "user": "coccinella-labs-harper[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 869,
-      "title": "[deps] bump rand from 0.10.2 to 0.10.3 in the cargo-minor-patch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/869",
-      "updated_at": "2026-09-24T13:56:15Z",
-      "user": "dependabot[bot]",
       "comments": 0
     },
     {
