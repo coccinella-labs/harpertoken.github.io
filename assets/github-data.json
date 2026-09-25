@@ -7,11 +7,11 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "harpertoken.github.io",
@@ -19,6 +19,13 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "clipb",
@@ -129,13 +136,6 @@
     "name": "gon",
     "html_url": "https://github.com/coccinella-labs/gon",
     "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bump",
-    "html_url": "https://github.com/coccinella-labs/bump",
-    "language": "Shell",
     "stargazers_count": 0,
     "forks_count": 0
   }
