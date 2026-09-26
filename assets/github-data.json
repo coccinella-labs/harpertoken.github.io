@@ -1,8 +1,22 @@
 {"repos": [
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "rust-nightly",
+    "html_url": "https://github.com/coccinella-labs/rust-nightly",
+    "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -17,6 +31,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -117,34 +138,31 @@
     "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "prtemplate",
-    "html_url": "https://github.com/coccinella-labs/prtemplate",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "press",
-    "html_url": "https://github.com/coccinella-labs/press",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "dot",
-    "html_url": "https://github.com/coccinella-labs/dot",
-    "language": "CSS",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.22.2",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.22.2"
 }, "open_prs": {
-  "total_count": 151,
+  "total_count": 147,
   "items": [
+    {
+      "repo": "harper",
+      "number": 908,
+      "title": "[ci] generate lockfile summary from structured lock diffs",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/908",
+      "updated_at": "2026-09-26T10:04:43Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 904,
+      "title": "[chore] update rust lockfiles (aho-corasick 1.1.4->1.1.5, android_system_properties 0.1.5->0.1.6, anyhow 1.0.102->1.0.104, arrayvec 0.7.6->0.7.8, aws-lc-rs 1.17.0->1.18.1, aws-lc-sys 0.41.0->0.45.0, b",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/904",
+      "updated_at": "2026-09-26T09:38:01Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 1
+    },
     {
       "repo": "molplatform",
       "number": 53,
@@ -216,29 +234,20 @@
       "updated_at": "2026-09-25T18:03:53Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "molplatform",
-      "number": 58,
-      "title": "chore(deps): bump python-dotenv from 1.0.0 to 1.2.3 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/58",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 40,
-      "title": "chore(deps): bump the npm_and_yarn group across 1 directory with 6 updates",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/40",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 8,
+  "total_count": 9,
   "items": [
+    {
+      "repo": "harper",
+      "number": 907,
+      "title": "read_file resolves relative paths against the process working directory",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/907",
+      "updated_at": "2026-09-26T07:52:09Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 345,
