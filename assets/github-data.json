@@ -1,17 +1,17 @@
 {"repos": [
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "harpertoken.github.io",
@@ -140,17 +140,17 @@
     "forks_count": 0
   }
 ], "latest_release": {
-  "tag_name": "harper-sandbox-0.3.3",
-  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-sandbox-0.3.3"
+  "tag_name": "harper-0.24.0",
+  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
   "total_count": 146,
   "items": [
     {
       "repo": "harper",
-      "number": 918,
-      "title": "[lib] release harper-workspace 0.25.0, harper-core 0.24.0, harper-ui 0.22.4, harper-firmware 0.1.5, harper-mcp-server 0.1.8, harper-sandbox 0.3.4",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/918",
-      "updated_at": "2026-09-26T16:12:24Z",
+      "number": 919,
+      "title": "[lib] release harper-workspace 0.25.1, harper-core 0.24.1, harper-ui 0.22.5, harper-firmware 0.1.6, harper-mcp-server 0.1.9, harper-sandbox 0.3.5",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/919",
+      "updated_at": "2026-09-26T18:31:51Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 1
     },
