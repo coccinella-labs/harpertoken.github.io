@@ -7,18 +7,25 @@
     "forks_count": 0
   },
   {
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
   },
   {
     "name": "harpertoken.github.io",
@@ -28,16 +35,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,26 +138,28 @@
     "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "ml",
-    "html_url": "https://github.com/coccinella-labs/ml",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 147,
+  "total_count": 146,
   "items": [
     {
+      "repo": "mlapi",
+      "number": 117,
+      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=1.33.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/117",
+      "updated_at": "2026-09-27T10:42:48Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
       "repo": "harper",
-      "number": 920,
-      "title": "[chore] update rust lockfiles",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/920",
-      "updated_at": "2026-09-27T03:35:27Z",
+      "number": 919,
+      "title": "[lib] release harper-workspace 0.25.1, harper-core 0.24.1, harper-ui 0.22.5, harper-firmware 0.1.6, harper-mcp-server 0.1.9, harper-sandbox 0.3.5",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/919",
+      "updated_at": "2026-09-27T08:50:02Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 1
     },
@@ -161,15 +170,6 @@
       "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
       "updated_at": "2026-09-27T02:52:22Z",
       "user": "github-actions[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 919,
-      "title": "[lib] release harper-workspace 0.25.1, harper-core 0.24.1, harper-ui 0.22.5, harper-firmware 0.1.6, harper-mcp-server 0.1.9, harper-sandbox 0.3.5",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/919",
-      "updated_at": "2026-09-26T18:31:51Z",
-      "user": "coccinella-labs-harper[bot]",
       "comments": 1
     },
     {
@@ -244,7 +244,7 @@
       "number": 917,
       "title": "[packaging] both Homebrew formula surfaces are behind; the served one is pinned to 0.20.1",
       "html_url": "https://github.com/coccinella-labs/harper/issues/917",
-      "updated_at": "2026-09-26T13:25:11Z",
+      "updated_at": "2026-09-27T09:06:26Z",
       "user": "bniladridas",
       "comments": 0
     },
@@ -253,7 +253,7 @@
       "number": 914,
       "title": "website/server.html /health example shows version 0.20.1 but harper-core is 0.23.0",
       "html_url": "https://github.com/coccinella-labs/harper/issues/914",
-      "updated_at": "2026-09-26T13:12:38Z",
+      "updated_at": "2026-09-27T09:03:52Z",
       "user": "bniladridas",
       "comments": 0
     },
