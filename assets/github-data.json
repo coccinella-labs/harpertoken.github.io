@@ -1,17 +1,24 @@
 {"repos": [
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
+    "name": "vesper",
+    "html_url": "https://github.com/coccinella-labs/vesper",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "benchmark",
+    "html_url": "https://github.com/coccinella-labs/benchmark",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": ".github",
@@ -28,6 +35,20 @@
     "forks_count": 0
   },
   {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
@@ -38,13 +59,6 @@
     "name": "mlapi",
     "html_url": "https://github.com/coccinella-labs/mlapi",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -124,20 +138,6 @@
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "rag",
-    "html_url": "https://github.com/coccinella-labs/rag",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
@@ -145,6 +145,69 @@
 }, "open_prs": {
   "total_count": 146,
   "items": [
+    {
+      "repo": "vesper",
+      "number": 188,
+      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
+      "updated_at": "2026-09-28T10:07:42Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 121,
+      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
+      "updated_at": "2026-09-28T09:08:43Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 122,
+      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
+      "updated_at": "2026-09-28T09:08:41Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "benchmark",
+      "number": 138,
+      "title": "deps(deps): bump torch from 2.9.0 to 2.14.0 in the pytorch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
+      "updated_at": "2026-09-28T09:08:39Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "benchmark",
+      "number": 103,
+      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
+      "updated_at": "2026-09-28T09:08:26Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-09-28T09:07:03Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "vesper",
+      "number": 192,
+      "title": "deps(deps): bump bigdecimal from 4.1.2 to 4.1.3 in the production-dependencies group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/192",
+      "updated_at": "2026-09-28T09:06:23Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "mlapi",
       "number": 117,
@@ -171,69 +234,6 @@
       "updated_at": "2026-09-27T02:52:22Z",
       "user": "github-actions[bot]",
       "comments": 1
-    },
-    {
-      "repo": "molplatform",
-      "number": 53,
-      "title": "chore(deps): bump python-multipart from 0.0.6 to 0.0.32 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/53",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 52,
-      "title": "chore(deps): bump pytest from 7.4.4 to 9.1.1 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/52",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 50,
-      "title": "chore(deps): bump the pip group across 1 directory with 6 updates",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/50",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "molplatform",
-      "number": 59,
-      "title": "chore(deps): bump sentry-sdk from 1.38.0 to 2.68.1 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/59",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 61,
-      "title": "chore(deps): bump axios from 1.13.2 to 1.20.0 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/61",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 47,
-      "title": "chore(deps): bump react-toastify from 10.0.6 to 11.1.0 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/47",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "molplatform",
-      "number": 57,
-      "title": "chore(deps): bump python from 3.12-slim to 3.13-slim in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/57",
-      "updated_at": "2026-09-25T18:03:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
