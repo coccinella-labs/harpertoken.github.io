@@ -7,16 +7,9 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "benchmark",
-    "html_url": "https://github.com/coccinella-labs/benchmark",
-    "language": "Python",
+    "name": "l2",
+    "html_url": "https://github.com/coccinella-labs/l2",
+    "language": "Ruby",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -31,6 +24,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "benchmark",
+    "html_url": "https://github.com/coccinella-labs/benchmark",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -105,13 +112,6 @@
     "forks_count": 0
   },
   {
-    "name": "l2",
-    "html_url": "https://github.com/coccinella-labs/l2",
-    "language": "Ruby",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "xnubuild",
     "html_url": "https://github.com/coccinella-labs/xnubuild",
     "language": "Shell",
@@ -145,6 +145,24 @@
 }, "open_prs": {
   "total_count": 146,
   "items": [
+    {
+      "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-09-28T17:23:07Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "l2",
+      "number": 2,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
+      "updated_at": "2026-09-28T17:14:17Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
     {
       "repo": "vesper",
       "number": 188,
@@ -216,24 +234,6 @@
       "updated_at": "2026-09-27T10:42:48Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 919,
-      "title": "[lib] release harper-workspace 0.25.1, harper-core 0.24.1, harper-ui 0.22.5, harper-firmware 0.1.6, harper-mcp-server 0.1.9, harper-sandbox 0.3.5",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/919",
-      "updated_at": "2026-09-27T08:50:02Z",
-      "user": "coccinella-labs-harper[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "organictyping",
-      "number": 103,
-      "title": "chore: bump version to 0.1.8",
-      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
-      "updated_at": "2026-09-27T02:52:22Z",
-      "user": "github-actions[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
