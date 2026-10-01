@@ -1,19 +1,5 @@
 {"repos": [
   {
-    "name": "rl",
-    "html_url": "https://github.com/coccinella-labs/rl",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken",
-    "html_url": "https://github.com/coccinella-labs/harpertoken",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -24,6 +10,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "rl",
+    "html_url": "https://github.com/coccinella-labs/rl",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken",
+    "html_url": "https://github.com/coccinella-labs/harpertoken",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
