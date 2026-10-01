@@ -1,5 +1,33 @@
 {"repos": [
   {
+    "name": "rl",
+    "html_url": "https://github.com/coccinella-labs/rl",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken",
+    "html_url": "https://github.com/coccinella-labs/harpertoken",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "release-notes",
     "html_url": "https://github.com/coccinella-labs/release-notes",
     "language": "TypeScript",
@@ -10,13 +38,6 @@
     "name": "gpucomm-bot",
     "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
     "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken",
-    "html_url": "https://github.com/coccinella-labs/harpertoken",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -58,13 +79,6 @@
   {
     "name": "benchmark",
     "html_url": "https://github.com/coccinella-labs/benchmark",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "rl",
-    "html_url": "https://github.com/coccinella-labs/rl",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -112,23 +126,9 @@
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "gh-tag",
     "html_url": "https://github.com/coccinella-labs/gh-tag",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
