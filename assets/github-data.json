@@ -1,63 +1,77 @@
 {"repos": [
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
+    "name": "release-notes",
+    "html_url": "https://github.com/coccinella-labs/release-notes",
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "gpucomm-bot",
+    "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
+    "name": "harpertoken",
+    "html_url": "https://github.com/coccinella-labs/harpertoken",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "l2",
-    "html_url": "https://github.com/coccinella-labs/l2",
-    "language": "Ruby",
+    "name": "ml",
+    "html_url": "https://github.com/coccinella-labs/ml",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "gpucomm-fs",
+    "html_url": "https://github.com/coccinella-labs/gpucomm-fs",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "core",
+    "html_url": "https://github.com/coccinella-labs/core",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harperbot",
+    "html_url": "https://github.com/coccinella-labs/harperbot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "vision",
+    "html_url": "https://github.com/coccinella-labs/vision",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
     "name": "benchmark",
     "html_url": "https://github.com/coccinella-labs/benchmark",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "rl",
+    "html_url": "https://github.com/coccinella-labs/rl",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "and",
+    "html_url": "https://github.com/coccinella-labs/and",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -70,72 +84,58 @@
     "forks_count": 0
   },
   {
-    "name": "rust-nightly",
-    "html_url": "https://github.com/coccinella-labs/rust-nightly",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bniladridas-profile",
-    "html_url": "https://github.com/coccinella-labs/bniladridas-profile",
-    "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "tokensdk",
-    "html_url": "https://github.com/coccinella-labs/tokensdk",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "molplatform",
-    "html_url": "https://github.com/coccinella-labs/molplatform",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "palmshed-org",
-    "html_url": "https://github.com/coccinella-labs/palmshed-org",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bniladridas",
-    "html_url": "https://github.com/coccinella-labs/bniladridas",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "xnubuild",
-    "html_url": "https://github.com/coccinella-labs/xnubuild",
-    "language": "Shell",
-    "stargazers_count": 1,
-    "forks_count": 0
-  },
-  {
-    "name": "coccinella-labs.github.io",
-    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken",
-    "html_url": "https://github.com/coccinella-labs/harpertoken",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "mcporg",
-    "html_url": "https://github.com/coccinella-labs/mcporg",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "models",
+    "html_url": "https://github.com/coccinella-labs/models",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "mlxlm",
+    "html_url": "https://github.com/coccinella-labs/mlxlm",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "hi",
+    "html_url": "https://github.com/coccinella-labs/hi",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "gh-tag",
+    "html_url": "https://github.com/coccinella-labs/gh-tag",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   }
@@ -143,8 +143,44 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 146,
+  "total_count": 148,
   "items": [
+    {
+      "repo": "release-notes",
+      "number": 10,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.3",
+      "html_url": "https://github.com/coccinella-labs/release-notes/pull/10",
+      "updated_at": "2026-10-01T11:20:40Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "benchmark",
+      "number": 150,
+      "title": "chore(deps): bump the uv group across 1 directory with 8 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/150",
+      "updated_at": "2026-10-01T10:38:20Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "rl",
+      "number": 3,
+      "title": "chore(deps): bump the uv group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/rl/pull/3",
+      "updated_at": "2026-10-01T10:36:36Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "gh-tag",
+      "number": 9,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.3",
+      "html_url": "https://github.com/coccinella-labs/gh-tag/pull/9",
+      "updated_at": "2026-10-01T04:21:31Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "vesper",
       "number": 191,
@@ -196,42 +232,6 @@
       "title": "deps(deps): bump torch from 2.9.0 to 2.14.0 in the pytorch group across 1 directory",
       "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
       "updated_at": "2026-09-28T09:08:39Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-09-28T09:08:26Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-09-28T09:07:03Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 192,
-      "title": "deps(deps): bump bigdecimal from 4.1.2 to 4.1.3 in the production-dependencies group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/192",
-      "updated_at": "2026-09-28T09:06:23Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 117,
-      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=1.33.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/117",
-      "updated_at": "2026-09-27T10:42:48Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
