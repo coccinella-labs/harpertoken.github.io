@@ -1,28 +1,7 @@
 {"repos": [
   {
-    "name": "l2",
-    "html_url": "https://github.com/coccinella-labs/l2",
-    "language": "Ruby",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "benchmark",
-    "html_url": "https://github.com/coccinella-labs/benchmark",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -38,6 +17,27 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "l2",
+    "html_url": "https://github.com/coccinella-labs/l2",
+    "language": "Ruby",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "benchmark",
+    "html_url": "https://github.com/coccinella-labs/benchmark",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,6 +146,15 @@
   "total_count": 147,
   "items": [
     {
+      "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-10-05T17:57:15Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
       "repo": "l2",
       "number": 2,
       "title": "chore: update dependencies",
@@ -223,15 +232,6 @@
       "title": "deps(deps): bump torch from 2.9.1 to 2.14.1",
       "html_url": "https://github.com/coccinella-labs/mlapi/pull/122",
       "updated_at": "2026-10-04T10:42:57Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 121,
-      "title": "deps(deps): bump fastapi from 0.138.0 to 0.142.2",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/121",
-      "updated_at": "2026-10-04T10:42:55Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
