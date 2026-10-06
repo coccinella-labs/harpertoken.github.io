@@ -69,7 +69,7 @@ export default {
     const org = env.ORG || 'coccinella-labs';
     const releaseRepo = env.RELEASE_REPO || `${org}/harpertoken`;
     const siteRepo = env.SITE_REPO || `${org}/harpertoken.github.io`;
-    const discussionRepo = env.DISCUSSION_REPO || releaseRepo;
+    const discussionRepo = env.DISCUSSION_REPO || `${org}/harper`;
     const teamMembers = ['bniladridas', 'gpucomm-hq'];
 
     const cacheKey = new Request(url.toString(), request);
