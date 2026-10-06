@@ -24,7 +24,7 @@ To deploy changes to the live site, push to the main branch. GitHub Pages automa
 
 The repository is organized into five main areas. The root contains static HTML pages: `index.html` is the landing page shown when visitors arrive at the site, `legal.html` contains terms of service and privacy policy, `cla.html` is the Contributor License Agreement page, and `welcome.html` is the welcome flow for first-time contributors. The `assets/` directory holds shared CSS, JavaScript, and image files used across all pages. The `cf-worker/` directory contains a Cloudflare Worker that powers dynamic features like API proxying, activity feeds, and real-time content updates. The `linter/` directory is a simple HTML validation script run as a pre-commit check. The `scripts/` directory holds utility scripts for site maintenance and deployment.
 
-Configuration files include `.pre-commit-config.yaml` for pre-commit hooks, `release-please-config.json` for automated release notes, `POLICY.md` and `COMMAND_POLICY.md` defining organizational policies, and `CHANGELOG.md` tracking changes over time. The `signed.json` file exports the current repository settings for version control and auditing.
+Configuration files include `.pre-commit-config.yaml` for pre-commit hooks, `POLICY.md` and `COMMAND_POLICY.md` defining organizational policies, and `CHANGELOG.md` tracking changes over time. The `signed.json` file exports the current repository settings for version control and auditing.
 
 ## Building the Site
 
