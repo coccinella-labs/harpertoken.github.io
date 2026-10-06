@@ -4,7 +4,7 @@
 
 # harpertoken public site
 
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https%3A%2F%2Fharpertoken.github.io)](https://harpertoken.github.io)
+[![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https%3A%2F%2Fcoccinella-labs.github.io%2Fharpertoken.github.io%2F)](https://coccinella-labs.github.io/harpertoken.github.io/)
 [![License](https://img.shields.io/github/license/coccinella-labs/harpertoken.github.io)](LICENSE)
 [![Last Commit](https://img.shields.io/github/last-commit/coccinella-labs/harpertoken.github.io)](https://github.com/Coccinella-Labs/harpertoken.github.io/commits/main)
 
