@@ -1,6 +1,6 @@
 # Changelog
 
-## [1.27.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.26.0...main) (2026-08-02)
+## [1.27.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.26.0...main) (2026-08-02)
 
 ### Features
 
@@ -13,249 +13,249 @@
 * clean up stale references in policy, worker, and signed metadata files
 * fix favicon URL escaping so the HTML linter passes cleanly
 
-## [1.26.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.25.0...v1.26.0) (2026-04-15)
+## [1.26.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.25.0...v1.26.0) (2026-04-15)
 
 ### Features
 
-* create docker, gitlab, npm cards ([c79ef50](https://github.com/harpertoken/harpertoken.github.io/commit/c79ef5061dcbb44943172b177c5120ff6f8b5bed))
-* implement 3-theme toggle ([859f85a](https://github.com/harpertoken/harpertoken.github.io/commit/859f85a72c8f09b8d4f515f58086bfc2c9e25e35))
-* include discussions card ([9e54f7b](https://github.com/harpertoken/harpertoken.github.io/commit/9e54f7b138a58f19bc42a1a33122e563896a43e5))
-* include hide/show toggle for dots ([9672329](https://github.com/harpertoken/harpertoken.github.io/commit/967232964464eae39cd6d9bd9a8d116837fa3b7e))
-* include site release in worker ([185a2f5](https://github.com/harpertoken/harpertoken.github.io/commit/185a2f569da7bf1d2a8e630bda41483b5fe03a48))
-* include site version card ([9f5c36c](https://github.com/harpertoken/harpertoken.github.io/commit/9f5c36c2cd790dcbc528f7db8822d5ac8ef17bb9))
-* include team status dots ([c5f83cb](https://github.com/harpertoken/harpertoken.github.io/commit/c5f83cbd5549928a3ea7708f5d6fe61029dee05f))
-* replace emoji with css info icon ([6e343b4](https://github.com/harpertoken/harpertoken.github.io/commit/6e343b429727c5ffaa3e50a85848364b259d90c6))
-* wire realtime github status ([bc98cb3](https://github.com/harpertoken/harpertoken.github.io/commit/bc98cb31702182452ff96abd4f3b4d539c91d3f0))
+* create docker, gitlab, npm cards ([c79ef50](https://github.com/coccinella-labs/harpertoken.github.io/commit/c79ef5061dcbb44943172b177c5120ff6f8b5bed))
+* implement 3-theme toggle ([859f85a](https://github.com/coccinella-labs/harpertoken.github.io/commit/859f85a72c8f09b8d4f515f58086bfc2c9e25e35))
+* include discussions card ([9e54f7b](https://github.com/coccinella-labs/harpertoken.github.io/commit/9e54f7b138a58f19bc42a1a33122e563896a43e5))
+* include hide/show toggle for dots ([9672329](https://github.com/coccinella-labs/harpertoken.github.io/commit/967232964464eae39cd6d9bd9a8d116837fa3b7e))
+* include site release in worker ([185a2f5](https://github.com/coccinella-labs/harpertoken.github.io/commit/185a2f569da7bf1d2a8e630bda41483b5fe03a48))
+* include site version card ([9f5c36c](https://github.com/coccinella-labs/harpertoken.github.io/commit/9f5c36c2cd790dcbc528f7db8822d5ac8ef17bb9))
+* include team status dots ([c5f83cb](https://github.com/coccinella-labs/harpertoken.github.io/commit/c5f83cbd5549928a3ea7708f5d6fe61029dee05f))
+* replace emoji with css info icon ([6e343b4](https://github.com/coccinella-labs/harpertoken.github.io/commit/6e343b429727c5ffaa3e50a85848364b259d90c6))
+* wire realtime github status ([bc98cb3](https://github.com/coccinella-labs/harpertoken.github.io/commit/bc98cb31702182452ff96abd4f3b4d539c91d3f0))
 
 
 ### Bug Fixes
 
-* bump script version ([a81d8c7](https://github.com/harpertoken/harpertoken.github.io/commit/a81d8c7410d01479abca638e1e1015d1f4fb35f0))
-* enable theme toggle shortcut ([2ce6c0e](https://github.com/harpertoken/harpertoken.github.io/commit/2ce6c0ece8445465581768827155b73ee4dfe4d3))
-* make rightbar cards fit ([1f27195](https://github.com/harpertoken/harpertoken.github.io/commit/1f271953848256afc0a7c3adecd2bd75ab8eed77))
-* persist dots visibility ([b6d9906](https://github.com/harpertoken/harpertoken.github.io/commit/b6d990628ecd468cff68617c87bb25f78714a059))
-* rename release to library ([0d7065f](https://github.com/harpertoken/harpertoken.github.io/commit/0d7065fc82623e729d1917374f4b0bb6ed73a956))
-* update docker proxy for cors ([96ac695](https://github.com/harpertoken/harpertoken.github.io/commit/96ac695eafdc57a3141294c9e223e7e156596725))
+* bump script version ([a81d8c7](https://github.com/coccinella-labs/harpertoken.github.io/commit/a81d8c7410d01479abca638e1e1015d1f4fb35f0))
+* enable theme toggle shortcut ([2ce6c0e](https://github.com/coccinella-labs/harpertoken.github.io/commit/2ce6c0ece8445465581768827155b73ee4dfe4d3))
+* make rightbar cards fit ([1f27195](https://github.com/coccinella-labs/harpertoken.github.io/commit/1f271953848256afc0a7c3adecd2bd75ab8eed77))
+* persist dots visibility ([b6d9906](https://github.com/coccinella-labs/harpertoken.github.io/commit/b6d990628ecd468cff68617c87bb25f78714a059))
+* rename release to library ([0d7065f](https://github.com/coccinella-labs/harpertoken.github.io/commit/0d7065fc82623e729d1917374f4b0bb6ed73a956))
+* update docker proxy for cors ([96ac695](https://github.com/coccinella-labs/harpertoken.github.io/commit/96ac695eafdc57a3141294c9e223e7e156596725))
 
-## [1.25.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.24.0...v1.25.0) (2026-04-12)
+## [1.25.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.24.0...v1.25.0) (2026-04-12)
 ### Features
 
-* include activity card ([3c19146](https://github.com/harpertoken/harpertoken.github.io/commit/3c19146295b31ccbf56350b407ef6034119113f0))
-* include graph viz ([1a04ffb](https://github.com/harpertoken/harpertoken.github.io/commit/1a04ffbfffbd26bc9ef0dce77f4c7bc9a88e7f4d))
+* include activity card ([3c19146](https://github.com/coccinella-labs/harpertoken.github.io/commit/3c19146295b31ccbf56350b407ef6034119113f0))
+* include graph viz ([1a04ffb](https://github.com/coccinella-labs/harpertoken.github.io/commit/1a04ffbfffbd26bc9ef0dce77f4c7bc9a88e7f4d))
 
-## [1.24.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.23.0...v1.24.0) (2026-04-06)
+## [1.24.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.23.0...v1.24.0) (2026-04-06)
 ### Features
 
-* refine dashboard ui ([c4fbc5c](https://github.com/harpertoken/harpertoken.github.io/commit/c4fbc5c8405dc56b89f4346f86889001d6e89553))
+* refine dashboard ui ([c4fbc5c](https://github.com/coccinella-labs/harpertoken.github.io/commit/c4fbc5c8405dc56b89f4346f86889001d6e89553))
 
 
 ### Bug Fixes
 
-* restore welcome link ([b7ba0eb](https://github.com/harpertoken/harpertoken.github.io/commit/b7ba0eb9a8183486096a93e5242728d2866360e3))
+* restore welcome link ([b7ba0eb](https://github.com/coccinella-labs/harpertoken.github.io/commit/b7ba0eb9a8183486096a93e5242728d2866360e3))
 
-## [1.23.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.22.1...v1.23.0) (2026-03-28)
+## [1.23.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.22.1...v1.23.0) (2026-03-28)
 ### Features
 
-* include homepage hero image ([2cd4ca6](https://github.com/harpertoken/harpertoken.github.io/commit/2cd4ca67244c7fbc381f32b34f997c7065f7cbab))
+* include homepage hero image ([2cd4ca6](https://github.com/coccinella-labs/harpertoken.github.io/commit/2cd4ca67244c7fbc381f32b34f997c7065f7cbab))
 
 
 ### Bug Fixes
 
-* prevent scroll jump and dedupe hero ([49edd87](https://github.com/harpertoken/harpertoken.github.io/commit/49edd873ff5b7a1539e18c03c4a478bd9ee0745c))
+* prevent scroll jump and dedupe hero ([49edd87](https://github.com/coccinella-labs/harpertoken.github.io/commit/49edd873ff5b7a1539e18c03c4a478bd9ee0745c))
 
-## [1.22.1](https://github.com/harpertoken/harpertoken.github.io/compare/v1.22.0...v1.22.1) (2026-03-14)
+## [1.22.1](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.22.0...v1.22.1) (2026-03-14)
 ### Bug Fixes
 
-* allow manual deploy from any branch ([4c5f03b](https://github.com/harpertoken/harpertoken.github.io/commit/4c5f03bdb239b6b910f2fe4b369749715c3632cb))
-* deploy after fetch completes ([bd2b117](https://github.com/harpertoken/harpertoken.github.io/commit/bd2b11725affb994d0b392af95195c652c9d0d09))
-* preserve gh-pages repo when syncing ([a82cdd1](https://github.com/harpertoken/harpertoken.github.io/commit/a82cdd1b08c728a55437a04873d042e39316cf90))
-* use github token for gh-pages push ([6309506](https://github.com/harpertoken/harpertoken.github.io/commit/630950604a7f8c9b195920cdb8d67929c3a3e36b))
+* allow manual deploy from any branch ([4c5f03b](https://github.com/coccinella-labs/harpertoken.github.io/commit/4c5f03bdb239b6b910f2fe4b369749715c3632cb))
+* deploy after fetch completes ([bd2b117](https://github.com/coccinella-labs/harpertoken.github.io/commit/bd2b11725affb994d0b392af95195c652c9d0d09))
+* preserve gh-pages repo when syncing ([a82cdd1](https://github.com/coccinella-labs/harpertoken.github.io/commit/a82cdd1b08c728a55437a04873d042e39316cf90))
+* use github token for gh-pages push ([6309506](https://github.com/coccinella-labs/harpertoken.github.io/commit/630950604a7f8c9b195920cdb8d67929c3a3e36b))
 
-## [1.22.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.21.0...v1.22.0) (2026-03-11)
+## [1.22.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.21.0...v1.22.0) (2026-03-11)
 ### Features
 
-* add welcome issue flow ([0bb3d44](https://github.com/harpertoken/harpertoken.github.io/commit/0bb3d449a9eadfd78de9d5c7ac6c86f83157d578))
-
-
-### Bug Fixes
-
-* trigger deploy via repo dispatch ([9988cf2](https://github.com/harpertoken/harpertoken.github.io/commit/9988cf28306c40b295acf478e6f205f1e0212d18))
-
-## [1.21.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.20.0...v1.21.0) (2026-03-10)
-### Features
-
-* add workflow_dispatch to deploy ([3f7c1a8](https://github.com/harpertoken/harpertoken.github.io/commit/3f7c1a8dd55c8a820691364308166825ec8bf276))
-* auto trigger deploy after fetch ([e388693](https://github.com/harpertoken/harpertoken.github.io/commit/e388693837e120c52f8471f52d488f69308398ad))
-
-## [1.20.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.19.1...v1.20.0) (2026-03-10)
-### Features
-
-* add github link to legal modal ([e95e30a](https://github.com/harpertoken/harpertoken.github.io/commit/e95e30a9f958092c54e8d506fe20afa87282e383))
+* add welcome issue flow ([0bb3d44](https://github.com/coccinella-labs/harpertoken.github.io/commit/0bb3d449a9eadfd78de9d5c7ac6c86f83157d578))
 
 
 ### Bug Fixes
 
-* add xss protection ([826880c](https://github.com/harpertoken/harpertoken.github.io/commit/826880c4894cbf6689a2954cc87153dae3ec8372))
-* add XSS protection and URL validation ([0185aa6](https://github.com/harpertoken/harpertoken.github.io/commit/0185aa6d4cb94aa5b77a3814147fb4ca76d55a43))
-* default modal link text to go ([82862c3](https://github.com/harpertoken/harpertoken.github.io/commit/82862c3e835c125ea3a6c2277d09837ceb9fcb54))
-* use GitHub Action to fetch data, remove token from client ([#41](https://github.com/harpertoken/harpertoken.github.io/issues/41)) ([7c17b1a](https://github.com/harpertoken/harpertoken.github.io/commit/7c17b1af30a266c121e9a3f41c690837a82fbc27))
+* trigger deploy via repo dispatch ([9988cf2](https://github.com/coccinella-labs/harpertoken.github.io/commit/9988cf28306c40b295acf478e6f205f1e0212d18))
 
-## [1.19.1](https://github.com/harpertoken/harpertoken.github.io/compare/v1.19.0...v1.19.1) (2026-03-10)
-### Bug Fixes
-
-* sort github repos by pushed date instead of updated ([#40](https://github.com/harpertoken/harpertoken.github.io/issues/40)) ([d3c552d](https://github.com/harpertoken/harpertoken.github.io/commit/d3c552d0b2aff9b82044ed710c3bbc6f2ac927a6))
-
-## [1.19.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.18.0...v1.19.0) (2026-02-15)
+## [1.21.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.20.0...v1.21.0) (2026-03-10)
 ### Features
 
-* add cla page and link from legal ([f44fb81](https://github.com/harpertoken/harpertoken.github.io/commit/f44fb81679d7937e06f8c3c52a3a1ce6e719956a))
-* add harper-release-bot to signed ([e13fd8b](https://github.com/harpertoken/harpertoken.github.io/commit/e13fd8b11dbafacfc8a676066702f23925c771f6))
-* add how it works section to cla ([8f0ef6b](https://github.com/harpertoken/harpertoken.github.io/commit/8f0ef6b822bc125b1617d19d796da8f873ef2cc2))
-* add sticky blur to footer ([6cc4f6c](https://github.com/harpertoken/harpertoken.github.io/commit/6cc4f6c70d777a31d916c28eca6598dbc22205ea))
+* add workflow_dispatch to deploy ([3f7c1a8](https://github.com/coccinella-labs/harpertoken.github.io/commit/3f7c1a8dd55c8a820691364308166825ec8bf276))
+* auto trigger deploy after fetch ([e388693](https://github.com/coccinella-labs/harpertoken.github.io/commit/e388693837e120c52f8471f52d488f69308398ad))
+
+## [1.20.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.19.1...v1.20.0) (2026-03-10)
+### Features
+
+* add github link to legal modal ([e95e30a](https://github.com/coccinella-labs/harpertoken.github.io/commit/e95e30a9f958092c54e8d506fe20afa87282e383))
 
 
 ### Bug Fixes
 
-* enable grid toggle on mobile ([9e0398b](https://github.com/harpertoken/harpertoken.github.io/commit/9e0398ba57a0b74fe284c584a3321bae49bfdbef))
-* remove duplicate footer.scrolled ([e1729dd](https://github.com/harpertoken/harpertoken.github.io/commit/e1729dd767f03863824f761b55ae2c0909a7fa6a))
+* add xss protection ([826880c](https://github.com/coccinella-labs/harpertoken.github.io/commit/826880c4894cbf6689a2954cc87153dae3ec8372))
+* add XSS protection and URL validation ([0185aa6](https://github.com/coccinella-labs/harpertoken.github.io/commit/0185aa6d4cb94aa5b77a3814147fb4ca76d55a43))
+* default modal link text to go ([82862c3](https://github.com/coccinella-labs/harpertoken.github.io/commit/82862c3e835c125ea3a6c2277d09837ceb9fcb54))
+* use GitHub Action to fetch data, remove token from client (#41) ([7c17b1a](https://github.com/coccinella-labs/harpertoken.github.io/commit/7c17b1af30a266c121e9a3f41c690837a82fbc27))
 
-## [1.18.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.17.0...v1.18.0) (2026-02-15)
+## [1.19.1](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.19.0...v1.19.1) (2026-03-10)
+### Bug Fixes
+
+* sort github repos by pushed date instead of updated (#40) ([d3c552d](https://github.com/coccinella-labs/harpertoken.github.io/commit/d3c552d0b2aff9b82044ed710c3bbc6f2ac927a6))
+
+## [1.19.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.18.0...v1.19.0) (2026-02-15)
 ### Features
 
-* add bluesky to legal menu ([e4bb8de](https://github.com/harpertoken/harpertoken.github.io/commit/e4bb8defaed31555e7dffa6b60a2ee4bfadf15f2))
-* add dotfiles, gitlab and npm ([8551c5b](https://github.com/harpertoken/harpertoken.github.io/commit/8551c5ba2e1620999f04b1a2095cc92ead576125))
-* add github api integration for repos and releases ([#32](https://github.com/harpertoken/harpertoken.github.io/issues/32)) ([820b78b](https://github.com/harpertoken/harpertoken.github.io/commit/820b78b48ae70271709036733227789ebf5d6cc8))
-* add patreon to legal menu ([7d31781](https://github.com/harpertoken/harpertoken.github.io/commit/7d31781a877b45d6b2b72924460f0fb67d454497))
-* add skeleton loading animation for repos ([#35](https://github.com/harpertoken/harpertoken.github.io/issues/35)) ([a9b7a0f](https://github.com/harpertoken/harpertoken.github.io/commit/a9b7a0ff3032635bc1151c695532773c1170ed69))
-* add sticky header blur on scroll ([#34](https://github.com/harpertoken/harpertoken.github.io/issues/34)) ([c97dfb5](https://github.com/harpertoken/harpertoken.github.io/commit/c97dfb5830b97a0a145518973931b32afcc21352))
-* fetch latest release from github api ([#31](https://github.com/harpertoken/harpertoken.github.io/issues/31)) ([e663bb6](https://github.com/harpertoken/harpertoken.github.io/commit/e663bb66339d04f6c0c37eabae6a76340f8d9d9e))
-* headings ([#29](https://github.com/harpertoken/harpertoken.github.io/issues/29)) ([fb6f081](https://github.com/harpertoken/harpertoken.github.io/commit/fb6f081120e1504c487c2ec62111293429953c86))
-* update mobile grid and legal menu ([8d59552](https://github.com/harpertoken/harpertoken.github.io/commit/8d59552d9b0dc3aba8ac89ad97f3c36176858df5))
-* update npm link to testapp-sdk ([e6f2ac0](https://github.com/harpertoken/harpertoken.github.io/commit/e6f2ac0e7783f034d062ba09dbe30b0ce59c644c))
+* add cla page and link from legal ([f44fb81](https://github.com/coccinella-labs/harpertoken.github.io/commit/f44fb81679d7937e06f8c3c52a3a1ce6e719956a))
+* add harper-release-bot to signed ([e13fd8b](https://github.com/coccinella-labs/harpertoken.github.io/commit/e13fd8b11dbafacfc8a676066702f23925c771f6))
+* add how it works section to cla ([8f0ef6b](https://github.com/coccinella-labs/harpertoken.github.io/commit/8f0ef6b822bc125b1617d19d796da8f873ef2cc2))
+* add sticky blur to footer ([6cc4f6c](https://github.com/coccinella-labs/harpertoken.github.io/commit/6cc4f6c70d777a31d916c28eca6598dbc22205ea))
 
 
 ### Bug Fixes
 
-* add cache busting to stylesheet ([3112366](https://github.com/harpertoken/harpertoken.github.io/commit/3112366c5f153f90fd7391b070122a429c9deea0))
-* disable grid toggle on mobile ([c57aacb](https://github.com/harpertoken/harpertoken.github.io/commit/c57aacbd9fdad964d83f59d5dcc05f8b8d557c3b))
+* enable grid toggle on mobile ([9e0398b](https://github.com/coccinella-labs/harpertoken.github.io/commit/9e0398ba57a0b74fe284c584a3321bae49bfdbef))
+* remove duplicate footer.scrolled ([e1729dd](https://github.com/coccinella-labs/harpertoken.github.io/commit/e1729dd767f03863824f761b55ae2c0909a7fa6a))
 
-## [1.17.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.16.0...v1.17.0) (2026-01-22)
+## [1.18.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.17.0...v1.18.0) (2026-02-15)
 ### Features
 
-* improve profile layout and add interactive features ([#27](https://github.com/harpertoken/harpertoken.github.io/issues/27)) ([2836759](https://github.com/harpertoken/harpertoken.github.io/commit/2836759c118a05557adf462a4c7b96b1d01fe572))
+* add bluesky to legal menu ([e4bb8de](https://github.com/coccinella-labs/harpertoken.github.io/commit/e4bb8defaed31555e7dffa6b60a2ee4bfadf15f2))
+* add dotfiles, gitlab and npm ([8551c5b](https://github.com/coccinella-labs/harpertoken.github.io/commit/8551c5ba2e1620999f04b1a2095cc92ead576125))
+* add github api integration for repos and releases (#32) ([820b78b](https://github.com/coccinella-labs/harpertoken.github.io/commit/820b78b48ae70271709036733227789ebf5d6cc8))
+* add patreon to legal menu ([7d31781](https://github.com/coccinella-labs/harpertoken.github.io/commit/7d31781a877b45d6b2b72924460f0fb67d454497))
+* add skeleton loading animation for repos (#35) ([a9b7a0f](https://github.com/coccinella-labs/harpertoken.github.io/commit/a9b7a0ff3032635bc1151c695532773c1170ed69))
+* add sticky header blur on scroll (#34) ([c97dfb5](https://github.com/coccinella-labs/harpertoken.github.io/commit/c97dfb5830b97a0a145518973931b32afcc21352))
+* fetch latest release from github api (#31) ([e663bb6](https://github.com/coccinella-labs/harpertoken.github.io/commit/e663bb66339d04f6c0c37eabae6a76340f8d9d9e))
+* headings (#29) ([fb6f081](https://github.com/coccinella-labs/harpertoken.github.io/commit/fb6f081120e1504c487c2ec62111293429953c86))
+* update mobile grid and legal menu ([8d59552](https://github.com/coccinella-labs/harpertoken.github.io/commit/8d59552d9b0dc3aba8ac89ad97f3c36176858df5))
+* update npm link to testapp-sdk ([e6f2ac0](https://github.com/coccinella-labs/harpertoken.github.io/commit/e6f2ac0e7783f034d062ba09dbe30b0ce59c644c))
 
-## [1.16.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.15.0...v1.16.0) (2026-01-21)
-### Features
 
-* add subtle hover animations to avatar images ([#25](https://github.com/harpertoken/harpertoken.github.io/issues/25)) ([5918ba6](https://github.com/harpertoken/harpertoken.github.io/commit/5918ba6abeecf05edf812c8272f422f221897c50))
-
-## [1.15.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.14.0...v1.15.0) (2026-01-18)
-### Features
-
-* add legal defence and liability sections ([#23](https://github.com/harpertoken/harpertoken.github.io/issues/23)) ([7156080](https://github.com/harpertoken/harpertoken.github.io/commit/715608069f817afc826c07820d3c373394844634))
-* bump version and add bot ([a809bad](https://github.com/harpertoken/harpertoken.github.io/commit/a809bad5a1f7dbfa252dd6977fa354d3b1dab5d1))
-
-## [1.14.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.13.0...v1.14.0) (2026-01-05)
-### Features
-
-* add testapp-sdk to repositories ([351b295](https://github.com/harpertoken/harpertoken.github.io/commit/351b295a301d36d735583a24ee1fddd169d25107))
-
-## [1.13.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.12.1...v1.13.0) (2026-01-05)
-### Features
-
-* add modals and discussions guide ([eb264de](https://github.com/harpertoken/harpertoken.github.io/commit/eb264de45047e82309f1bc6effcf49ac0d2a5f0c))
-
-## [1.12.1](https://github.com/harpertoken/harpertoken.github.io/compare/v1.12.0...v1.12.1) (2026-01-03)
 ### Bug Fixes
 
-* consolidate modal js ([ccc0885](https://github.com/harpertoken/harpertoken.github.io/commit/ccc0885cd33e3fc08ad28d64ef5166509a67f5d0))
-* consolidate modal styles for pages ([4990c86](https://github.com/harpertoken/harpertoken.github.io/commit/4990c86e67516914649fc4c73834f3b4f4b47e9c))
+* add cache busting to stylesheet ([3112366](https://github.com/coccinella-labs/harpertoken.github.io/commit/3112366c5f153f90fd7391b070122a429c9deea0))
+* disable grid toggle on mobile ([c57aacb](https://github.com/coccinella-labs/harpertoken.github.io/commit/c57aacbd9fdad964d83f59d5dcc05f8b8d557c3b))
 
-## [1.12.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.11.0...v1.12.0) (2025-12-30)
+## [1.17.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.16.0...v1.17.0) (2026-01-22)
 ### Features
 
-* improve ui and legal ([270f526](https://github.com/harpertoken/harpertoken.github.io/commit/270f5261fd34a472e8cd0528d306a5cab76bd48f))
+* improve profile layout and add interactive features (#27) ([2836759](https://github.com/coccinella-labs/harpertoken.github.io/commit/2836759c118a05557adf462a4c7b96b1d01fe572))
 
+## [1.16.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.15.0...v1.16.0) (2026-01-21)
 ### Features
 
-* update release to 0.3.2 ([ed1676c](https://github.com/harpertoken/harpertoken.github.io/commit/ed1676c1f71782521b942d1d3680ffa194b1568a))
+* add subtle hover animations to avatar images (#25) ([5918ba6](https://github.com/coccinella-labs/harpertoken.github.io/commit/5918ba6abeecf05edf812c8272f422f221897c50))
 
-## [1.10.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.9.0...v1.10.0) (2025-12-15)
+## [1.15.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.14.0...v1.15.0) (2026-01-18)
 ### Features
 
-* update release to 0.3.0 ([e54d4e6](https://github.com/harpertoken/harpertoken.github.io/commit/e54d4e61f9feca2b483c911e17b829b06d1bfffc))
+* add legal defence and liability sections (#23) ([7156080](https://github.com/coccinella-labs/harpertoken.github.io/commit/715608069f817afc826c07820d3c373394844634))
+* bump version and add bot ([a809bad](https://github.com/coccinella-labs/harpertoken.github.io/commit/a809bad5a1f7dbfa252dd6977fa354d3b1dab5d1))
 
-## [1.9.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.8.0...v1.9.0) (2025-12-13)
+## [1.14.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.13.0...v1.14.0) (2026-01-05)
 ### Features
 
-* update releases list with 0.2.0 ([3641480](https://github.com/harpertoken/harpertoken.github.io/commit/36414802138be545814f9ca832de14c0447c7984))
+* add testapp-sdk to repositories ([351b295](https://github.com/coccinella-labs/harpertoken.github.io/commit/351b295a301d36d735583a24ee1fddd169d25107))
 
-## [1.8.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.7.0...v1.8.0) (2025-11-23)
+## [1.13.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.12.1...v1.13.0) (2026-01-05)
 ### Features
 
-* allow backticks in hooks ([9c3ccbe](https://github.com/harpertoken/harpertoken.github.io/commit/9c3ccbe1875cc9e0e2d4d46549ea0825b0294e85))
+* add modals and discussions guide ([eb264de](https://github.com/coccinella-labs/harpertoken.github.io/commit/eb264de45047e82309f1bc6effcf49ac0d2a5f0c))
 
-## [1.7.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.6.0...v1.7.0) (2025-11-23)
-### Features
-
-* improve readme ([94acb06](https://github.com/harpertoken/harpertoken.github.io/commit/94acb06e267f3f1a980b4190cf19dc49d203f978))
-
-## [1.6.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.5.1...v1.6.0) (2025-11-23)
-### Features
-
-* refine typography and add footer ([7ceb2e7](https://github.com/harpertoken/harpertoken.github.io/commit/7ceb2e7cf32d03a18274296320631d4e1accfa8c))
-
-## [1.5.1](https://github.com/harpertoken/harpertoken.github.io/compare/v1.5.0...v1.5.1) (2025-11-17)
+## [1.12.1](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.12.0...v1.12.1) (2026-01-03)
 ### Bug Fixes
 
-* update pipeline link ([e1ae4fe](https://github.com/harpertoken/harpertoken.github.io/commit/e1ae4fe9fbf48468e44682339d6f2fdeb1ee1f81))
+* consolidate modal js (ccc0885 (ccc0885))
+* consolidate modal styles for pages (4990c86 (4990c86))
 
-## [1.5.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.4.0...v1.5.0) (2025-11-16)
+## [1.12.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.11.0...v1.12.0) (2025-12-30)
 ### Features
 
-* [Please describe the update here] ([39973f9](https://github.com/harpertoken/harpertoken.github.io/commit/39973f915b84f7e34be0074357e938bb914c7ac9))
+* improve ui and legal ([270f526](https://github.com/coccinella-labs/harpertoken.github.io/commit/270f5261fd34a472e8cd0528d306a5cab76bd48f))
 
-## [1.4.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.3.0...v1.4.0) (2025-11-08)
 ### Features
 
-* update profile page layout and content ([38a00c9](https://github.com/harpertoken/harpertoken.github.io/commit/38a00c96857575f02fe075142282c044a7bfc8f6))
+* update release to 0.3.2 ([ed1676c](https://github.com/coccinella-labs/harpertoken.github.io/commit/ed1676c1f71782521b942d1d3680ffa194b1568a))
 
-## [1.3.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.2.0...v1.3.0) (2025-11-01)
+## [1.10.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.9.0...v1.10.0) (2025-12-15)
 ### Features
 
-* add contrast theme ([106aab6](https://github.com/harpertoken/harpertoken.github.io/commit/106aab6d589b8197f6bafa885508bf508b0e7495))
-* add linter and fix HTML ([f7e373f](https://github.com/harpertoken/harpertoken.github.io/commit/f7e373f703715fa2727d81799b77e9d1ed1c34fb))
+* update release to 0.3.0 ([e54d4e6](https://github.com/coccinella-labs/harpertoken.github.io/commit/e54d4e61f9feca2b483c911e17b829b06d1bfffc))
 
-## [1.2.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.1.0...v1.2.0) (2025-10-31)
+## [1.9.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.8.0...v1.9.0) (2025-12-13)
 ### Features
 
-* add back automatic dark mode ([0652e24](https://github.com/harpertoken/harpertoken.github.io/commit/0652e24cf3b037661844a05829e84ccb98bff50d))
-* add contact card with email ([eaae4a7](https://github.com/harpertoken/harpertoken.github.io/commit/eaae4a7a74823d667085cd2cfd235d33de7e353b))
-* add full installation instructions ([2a9883c](https://github.com/harpertoken/harpertoken.github.io/commit/2a9883c205af889f96d461be27e44f0e580526e5))
-* add harperbot link ([b0cc9e3](https://github.com/harpertoken/harpertoken.github.io/commit/b0cc9e3ccab3126da97ac7e47375398e8b9d3e3f))
-* update about description ([b058e9b](https://github.com/harpertoken/harpertoken.github.io/commit/b058e9b00702ddbaea3e50408c4e995ee3a7d1bd))
+* update releases list with 0.2.0 ([3641480](https://github.com/coccinella-labs/harpertoken.github.io/commit/36414802138be545814f9ca832de14c0447c7984))
 
-## [1.1.0](https://github.com/harpertoken/harpertoken.github.io/compare/v1.0.0...v1.1.0) (2025-10-20)
+## [1.8.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.7.0...v1.8.0) (2025-11-23)
 ### Features
 
-* add gitignore ([db38a19](https://github.com/harpertoken/harpertoken.github.io/commit/db38a196cf923d79adaf22d1ad44f42662415257))
+* allow backticks in hooks ([9c3ccbe](https://github.com/coccinella-labs/harpertoken.github.io/commit/9c3ccbe1875cc9e0e2d4d46549ea0825b0294e85))
+
+## [1.7.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.6.0...v1.7.0) (2025-11-23)
+### Features
+
+* improve readme (94acb06 (94acb06))
+
+## [1.6.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.5.1...v1.6.0) (2025-11-23)
+### Features
+
+* refine typography and add footer (7ceb2e7 (7ceb2e7))
+
+## [1.5.1](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.5.0...v1.5.1) (2025-11-17)
+### Bug Fixes
+
+* update pipeline link (e1ae4fe (e1ae4fe))
+
+## [1.5.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.4.0...v1.5.0) (2025-11-16)
+### Features
+
+* [Please describe the update here] (39973f9 (39973f9))
+
+## [1.4.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.3.0...v1.4.0) (2025-11-08)
+### Features
+
+* update profile page layout and content (38a00c9 (38a00c9))
+
+## [1.3.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.2.0...v1.3.0) (2025-11-01)
+### Features
+
+* add contrast theme (106aab6 (106aab6))
+* add linter and fix HTML (f7e373f (f7e373f))
+
+## [1.2.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.1.0...v1.2.0) (2025-10-31)
+### Features
+
+* add back automatic dark mode (0652e24 (0652e24))
+* add contact card with email (eaae4a7 (eaae4a7))
+* add full installation instructions (2a9883c (2a9883c))
+* add harperbot link (b0cc9e3 (b0cc9e3))
+* update about description (b058e9b (b058e9b))
+
+## [1.1.0](https://github.com/coccinella-labs/harpertoken.github.io/compare/v1.0.0...v1.1.0) (2025-10-20)
+### Features
+
+* add gitignore (db38a19 (db38a19))
 
 ## 1.0.0 (2025-10-19)
 
 ### Features
 
-* add conventional commit scripts and setup ([7f55335](https://github.com/harpertoken/harpertoken.github.io/commit/7f55335e129fe016f00f4921cc4236244517272c))
-* add mit license ([58ae876](https://github.com/harpertoken/harpertoken.github.io/commit/58ae8761a48ad1d539e6ff9edb8eabf5d2a7410b))
-* add packages section ([09f2627](https://github.com/harpertoken/harpertoken.github.io/commit/09f2627b1e4dbc85276860f0b31a26191a46a030))
-* add see more link to repositories list ([f7c9cad](https://github.com/harpertoken/harpertoken.github.io/commit/f7c9cad1416ff064b9cbaaaafaff5be0cf03dc0a))
-* add three-dots toggle button ([dc6f4fa](https://github.com/harpertoken/harpertoken.github.io/commit/dc6f4fa8417e1a153b0d36b7536a73d89c4ba31a))
-* remove v0.1.6 from releases list ([4f7296e](https://github.com/harpertoken/harpertoken.github.io/commit/4f7296e4d473f6fcdf37808a2ebce48d80d6ad8b))
-* update releases list with v0.1.6 ([a60c48e](https://github.com/harpertoken/harpertoken.github.io/commit/a60c48ed3767f72d51f0b45e64bb8c1a1c47da8b))
-* update team, footer, and repositories ([3eaa1f4](https://github.com/harpertoken/harpertoken.github.io/commit/3eaa1f429253f23793273c262712728b809c6d9d))
+* add conventional commit scripts and setup (7f55335 (7f55335))
+* add mit license (58ae876 (58ae876))
+* add packages section (09f2627 (09f2627))
+* add see more link to repositories list (f7c9cad (f7c9cad))
+* add three-dots toggle button (dc6f4fa (dc6f4fa))
+* remove v0.1.6 from releases list (4f7296e (4f7296e))
+* update releases list with v0.1.6 (a60c48e (a60c48e))
+* update team, footer, and repositories (3eaa1f4 (3eaa1f4))
 
 ### Bug Fixes
 
-* make three-dots button visible in dark mode ([e8f9809](https://github.com/harpertoken/harpertoken.github.io/commit/e8f98099b38ae8b2460be883a92f8c57be197ea4))
-* remove duplicated css in index.html ([8ee6b52](https://github.com/harpertoken/harpertoken.github.io/commit/8ee6b525920010af6049c460d8082a113dcc3e85))
-* update release workflow to use correct action ([96eb45a](https://github.com/harpertoken/harpertoken.github.io/commit/96eb45a055d1a3408199c6c0166a06d291eb8125))
-* use pat for release workflow permissions ([915e508](https://github.com/harpertoken/harpertoken.github.io/commit/915e50871e7af9846d1c9ade6e06deab178e3088))
+* make three-dots button visible in dark mode (e8f9809 (e8f9809))
+* remove duplicated css in index.html (8ee6b52 (8ee6b52))
+* update release workflow to use correct action (96eb45a (96eb45a))
+* use pat for release workflow permissions (915e508 (915e508))
