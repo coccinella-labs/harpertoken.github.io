@@ -1,5 +1,96 @@
 {"repos": [
   {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "l2",
+    "html_url": "https://github.com/coccinella-labs/l2",
+    "language": "Ruby",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "vesper",
+    "html_url": "https://github.com/coccinella-labs/vesper",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "fix",
+    "html_url": "https://github.com/coccinella-labs/fix",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "userstring",
+    "html_url": "https://github.com/coccinella-labs/userstring",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "swe-agent",
+    "html_url": "https://github.com/coccinella-labs/swe-agent",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harperbot",
+    "html_url": "https://github.com/coccinella-labs/harperbot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bitinfer",
+    "html_url": "https://github.com/coccinella-labs/bitinfer",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "jupyterml",
+    "html_url": "https://github.com/coccinella-labs/jupyterml",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "clabot",
+    "html_url": "https://github.com/coccinella-labs/clabot",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
@@ -21,50 +112,8 @@
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "l2",
-    "html_url": "https://github.com/coccinella-labs/l2",
-    "language": "Ruby",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "benchmark",
     "html_url": "https://github.com/coccinella-labs/benchmark",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "mlapi",
-    "html_url": "https://github.com/coccinella-labs/mlapi",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -89,55 +138,6 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "gpucomm-bot",
-    "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "ml",
-    "html_url": "https://github.com/coccinella-labs/ml",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "gpucomm-fs",
-    "html_url": "https://github.com/coccinella-labs/gpucomm-fs",
-    "language": "Rust",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "core",
-    "html_url": "https://github.com/coccinella-labs/core",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harperbot",
-    "html_url": "https://github.com/coccinella-labs/harperbot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "vision",
-    "html_url": "https://github.com/coccinella-labs/vision",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "and",
-    "html_url": "https://github.com/coccinella-labs/and",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
@@ -145,6 +145,24 @@
 }, "open_prs": {
   "total_count": 147,
   "items": [
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-10-06T08:39:54Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "vesper",
+      "number": 190,
+      "title": "deps-dev(deps-dev): bump webmock from 3.26.2 to 3.26.4",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/190",
+      "updated_at": "2026-10-06T08:39:53Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "vesper",
       "number": 191,
@@ -214,24 +232,6 @@
       "title": "deps(deps): bump the production-dependencies group across 1 directory with 2 updates",
       "html_url": "https://github.com/coccinella-labs/vesper/pull/193",
       "updated_at": "2026-10-05T09:06:33Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-10-05T09:06:29Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "mlapi",
-      "number": 122,
-      "title": "deps(deps): bump torch from 2.9.1 to 2.14.1",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/122",
-      "updated_at": "2026-10-04T10:42:57Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
