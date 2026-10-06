@@ -1,5 +1,12 @@
 {"repos": [
   {
+    "name": "sandbox-lifecycle",
+    "html_url": "https://github.com/coccinella-labs/sandbox-lifecycle",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -129,13 +136,6 @@
     "name": "harpertoken",
     "html_url": "https://github.com/coccinella-labs/harpertoken",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "release-notes",
-    "html_url": "https://github.com/coccinella-labs/release-notes",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   }
