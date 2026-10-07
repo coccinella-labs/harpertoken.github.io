@@ -1,12 +1,5 @@
 {"repos": [
   {
-    "name": "sandbox-lifecycle",
-    "html_url": "https://github.com/coccinella-labs/sandbox-lifecycle",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -14,9 +7,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "sandbox-lifecycle",
+    "html_url": "https://github.com/coccinella-labs/sandbox-lifecycle",
+    "language": "Python",
+    "stargazers_count": 1,
+    "forks_count": 0
+  },
+  {
+    "name": "coccinella-labs.github.io",
+    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -24,6 +24,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -129,13 +136,6 @@
     "name": "mlapi",
     "html_url": "https://github.com/coccinella-labs/mlapi",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bitinfer",
-    "html_url": "https://github.com/coccinella-labs/bitinfer",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   }
