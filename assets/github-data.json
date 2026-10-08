@@ -1,8 +1,50 @@
 {"repos": [
   {
+    "name": "hello",
+    "html_url": "https://github.com/coccinella-labs/hello",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "coccinella-labs.github.io",
+    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bitinfer",
+    "html_url": "https://github.com/coccinella-labs/bitinfer",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "kernels",
+    "html_url": "https://github.com/coccinella-labs/kernels",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -24,13 +66,6 @@
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -59,13 +94,6 @@
     "name": "benchmark",
     "html_url": "https://github.com/coccinella-labs/benchmark",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "kernels",
-    "html_url": "https://github.com/coccinella-labs/kernels",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -105,37 +133,9 @@
     "forks_count": 0
   },
   {
-    "name": "coccinella-labs.github.io",
-    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "gpucomm-bot",
     "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
     "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harperbot",
-    "html_url": "https://github.com/coccinella-labs/harperbot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "vision",
-    "html_url": "https://github.com/coccinella-labs/vision",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "l2",
-    "html_url": "https://github.com/coccinella-labs/l2",
-    "language": "Ruby",
     "stargazers_count": 0,
     "forks_count": 0
   }
@@ -237,95 +237,95 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 23,
+  "total_count": 12,
   "items": [
     {
-      "repo": "benchmark",
-      "number": 162,
-      "title": "CI failed on 3.9",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/162",
-      "updated_at": "2026-10-07T23:46:30Z",
+      "repo": "harper",
+      "number": 924,
+      "title": "Cancellation can be lost when a new command is queued within one poll cycle of Ctrl+C",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/924",
+      "updated_at": "2026-10-08T21:26:39Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "benchmark",
-      "number": 161,
-      "title": "CI failed on 3.8",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/161",
-      "updated_at": "2026-10-07T23:46:15Z",
+      "repo": "harper",
+      "number": 917,
+      "title": "[packaging] both Homebrew formula surfaces are behind; the served one is pinned to 0.20.1",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/917",
+      "updated_at": "2026-09-27T09:06:26Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "benchmark",
-      "number": 160,
-      "title": "CI failed on 3.10",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/160",
-      "updated_at": "2026-10-07T23:46:13Z",
+      "repo": "harper",
+      "number": 914,
+      "title": "website/server.html /health example shows version 0.20.1 but harper-core is 0.23.0",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/914",
+      "updated_at": "2026-09-27T09:03:52Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "benchmark",
-      "number": 159,
-      "title": "CI failed on 3.12",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/159",
-      "updated_at": "2026-10-07T23:46:07Z",
+      "repo": "harper",
+      "number": 345,
+      "title": "Tracked roadmap",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/345",
+      "updated_at": "2026-09-26T12:51:27Z",
       "user": "bniladridas",
+      "comments": 2
+    },
+    {
+      "repo": "harper",
+      "number": 907,
+      "title": "read_file resolves relative paths against the process working directory",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/907",
+      "updated_at": "2026-09-26T12:11:35Z",
+      "user": "bniladridas",
+      "comments": 2
+    },
+    {
+      "repo": "dotfiles",
+      "number": 5,
+      "title": "Tracking",
+      "html_url": "https://github.com/coccinella-labs/dotfiles/issues/5",
+      "updated_at": "2026-09-14T08:59:50Z",
+      "user": "bniladridas",
+      "comments": 25
+    },
+    {
+      "repo": "collab-hub",
+      "number": 138,
+      "title": "Auto Improvement Report - 2026-09-11",
+      "html_url": "https://github.com/coccinella-labs/collab-hub/issues/138",
+      "updated_at": "2026-09-11T12:05:40Z",
+      "user": "github-actions[bot]",
       "comments": 0
     },
     {
-      "repo": "benchmark",
-      "number": 158,
-      "title": "CI failed on 3.11",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/158",
-      "updated_at": "2026-10-07T23:46:02Z",
-      "user": "bniladridas",
+      "repo": "appsdk",
+      "number": 116,
+      "title": "Auto-created: chore(deps-dev): bump lodash from 4.17.21 to 4.18.1",
+      "html_url": "https://github.com/coccinella-labs/appsdk/issues/116",
+      "updated_at": "2026-07-25T01:35:54Z",
+      "user": "github-actions[bot]",
       "comments": 0
     },
     {
-      "repo": "benchmark",
-      "number": 157,
-      "title": "CI failed on 3.9",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/157",
-      "updated_at": "2026-10-07T23:44:10Z",
+      "repo": "core",
+      "number": 1,
+      "title": "v0 roadmap: metal runtime → comm benchmarks + kernels",
+      "html_url": "https://github.com/coccinella-labs/core/issues/1",
+      "updated_at": "2026-03-23T13:28:11Z",
       "user": "bniladridas",
-      "comments": 0
+      "comments": 16
     },
     {
-      "repo": "benchmark",
-      "number": 156,
-      "title": "CI failed on 3.11",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/156",
-      "updated_at": "2026-10-07T23:44:08Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 155,
-      "title": "CI failed on 3.12",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/155",
-      "updated_at": "2026-10-07T23:44:00Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 153,
-      "title": "CI failed on 3.12",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/153",
-      "updated_at": "2026-10-07T23:43:37Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 154,
-      "title": "CI failed on 3.10",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/154",
-      "updated_at": "2026-10-07T23:43:37Z",
+      "repo": "gpucomm-fs",
+      "number": 1,
+      "title": "v0 roadmap: CAS CLI → FUSE + GPU artifacts",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/1",
+      "updated_at": "2026-03-22T10:48:28Z",
       "user": "bniladridas",
       "comments": 0
     }
