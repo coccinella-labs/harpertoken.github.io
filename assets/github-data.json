@@ -1,5 +1,19 @@
 {"repos": [
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "release-notes",
+    "html_url": "https://github.com/coccinella-labs/release-notes",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "ml",
     "html_url": "https://github.com/coccinella-labs/ml",
     "language": "C++",
@@ -7,9 +21,16 @@
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -33,13 +54,6 @@
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   },
   {
     "name": "benchmark",
@@ -98,13 +112,6 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "gpucomm-bot",
     "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
     "language": "JavaScript",
@@ -131,13 +138,6 @@
     "language": "Ruby",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
@@ -145,6 +145,24 @@
 }, "open_prs": {
   "total_count": 147,
   "items": [
+    {
+      "repo": "release-notes",
+      "number": 3,
+      "title": "build(deps-dev): bump typescript from 5.9.3 to 7.0.2",
+      "html_url": "https://github.com/coccinella-labs/release-notes/pull/3",
+      "updated_at": "2026-10-08T12:39:29Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "release-notes",
+      "number": 11,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.4",
+      "html_url": "https://github.com/coccinella-labs/release-notes/pull/11",
+      "updated_at": "2026-10-08T11:15:01Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "gh-tag",
       "number": 10,
@@ -216,24 +234,6 @@
       "updated_at": "2026-10-05T09:07:34Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-10-05T09:07:29Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-10-05T09:07:19Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
