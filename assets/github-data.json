@@ -7,16 +7,30 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -33,20 +47,6 @@
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "hello",
@@ -237,14 +237,32 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 10,
+  "total_count": 12,
   "items": [
     {
       "repo": "harper",
       "number": 924,
       "title": "Cancellation can be lost when a new command is queued within one poll cycle of Ctrl+C",
       "html_url": "https://github.com/coccinella-labs/harper/issues/924",
-      "updated_at": "2026-10-08T21:26:39Z",
+      "updated_at": "2026-10-10T06:25:13Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
+      "number": 926,
+      "title": "sandbox-exec narrow deny profiles abort on macOS 27; cause undetermined",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/926",
+      "updated_at": "2026-10-10T06:02:20Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 925,
+      "title": "Sandbox-exec profile omits ARM Homebrew prefix",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/925",
+      "updated_at": "2026-10-10T05:31:15Z",
       "user": "bniladridas",
       "comments": 0
     },
@@ -309,24 +327,6 @@
       "html_url": "https://github.com/coccinella-labs/appsdk/issues/116",
       "updated_at": "2026-07-25T01:35:54Z",
       "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "core",
-      "number": 1,
-      "title": "v0 roadmap: metal runtime → comm benchmarks + kernels",
-      "html_url": "https://github.com/coccinella-labs/core/issues/1",
-      "updated_at": "2026-03-23T13:28:11Z",
-      "user": "bniladridas",
-      "comments": 16
-    },
-    {
-      "repo": "gpucomm-fs",
-      "number": 1,
-      "title": "v0 roadmap: CAS CLI → FUSE + GPU artifacts",
-      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/1",
-      "updated_at": "2026-03-22T10:48:28Z",
-      "user": "bniladridas",
       "comments": 0
     }
   ]
