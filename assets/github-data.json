@@ -7,13 +7,6 @@
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
@@ -21,9 +14,23 @@
     "forks_count": 1
   },
   {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -38,13 +45,6 @@
     "name": "gpucomm-bot",
     "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
     "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,17 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 147,
+  "total_count": 148,
   "items": [
+    {
+      "repo": "harper",
+      "number": 927,
+      "title": "[fix] allow the arm homebrew prefix in the sandbox-exec profile",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/927",
+      "updated_at": "2026-10-10T10:53:46Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
     {
       "repo": "release-notes",
       "number": 3,
@@ -223,15 +232,6 @@
       "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
       "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
       "updated_at": "2026-10-05T09:07:48Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-10-05T09:07:34Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
