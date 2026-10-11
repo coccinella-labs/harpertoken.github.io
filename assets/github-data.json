@@ -1,8 +1,8 @@
 {"repos": [
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -14,9 +14,23 @@
     "forks_count": 0
   },
   {
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -59,13 +73,6 @@
     "name": "coccinella-labs.github.io",
     "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "mlapi",
-    "html_url": "https://github.com/coccinella-labs/mlapi",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,20 +138,49 @@
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "sandbox-lifecycle",
-    "html_url": "https://github.com/coccinella-labs/sandbox-lifecycle",
-    "language": "Python",
-    "stargazers_count": 1,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 149,
+  "total_count": 148,
   "items": [
+    {
+      "repo": "mlapi",
+      "number": 126,
+      "title": "deps(deps): bump datasets from 5.0.0 to 5.1.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/126",
+      "updated_at": "2026-10-11T10:43:12Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 125,
+      "title": "deps(deps): bump fastapi from 0.138.0 to 0.142.4",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/125",
+      "updated_at": "2026-10-11T10:43:06Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 124,
+      "title": "deps(deps): bump transformers from 5.12.1 to 5.19.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/124",
+      "updated_at": "2026-10-11T10:43:00Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 123,
+      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=2.1.1",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/123",
+      "updated_at": "2026-10-11T10:42:54Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 929,
@@ -197,42 +233,6 @@
       "html_url": "https://github.com/coccinella-labs/gh-tag/pull/10",
       "updated_at": "2026-10-08T04:12:33Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-10-06T08:39:54Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 190,
-      "title": "deps-dev(deps-dev): bump webmock from 3.26.2 to 3.26.4",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/190",
-      "updated_at": "2026-10-06T08:39:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 191,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
-      "updated_at": "2026-10-05T17:57:15Z",
-      "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "l2",
-      "number": 2,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
-      "updated_at": "2026-10-05T17:39:58Z",
-      "user": "github-actions[bot]",
       "comments": 0
     }
   ]
