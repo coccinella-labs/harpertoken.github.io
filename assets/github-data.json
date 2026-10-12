@@ -1,17 +1,24 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "vesper",
+    "html_url": "https://github.com/coccinella-labs/vesper",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "l2",
+    "html_url": "https://github.com/coccinella-labs/l2",
+    "language": "Ruby",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": ".github",
@@ -28,18 +35,25 @@
     "forks_count": 0
   },
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "diff",
@@ -124,27 +138,49 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "gpucomm-fs",
-    "html_url": "https://github.com/coccinella-labs/gpucomm-fs",
-    "language": "Rust",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "core",
-    "html_url": "https://github.com/coccinella-labs/core",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 151,
+  "total_count": 153,
   "items": [
+    {
+      "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-10-12T18:38:18Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "l2",
+      "number": 2,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
+      "updated_at": "2026-10-12T18:27:23Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 931,
+      "title": "[deps] bump zip from 8.6.0 to 9.0.0",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/931",
+      "updated_at": "2026-10-12T17:33:11Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 930,
+      "title": "[deps] bump the cargo-minor-patch group with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/930",
+      "updated_at": "2026-10-12T17:32:30Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 157,
@@ -198,42 +234,6 @@
       "updated_at": "2026-10-11T10:43:00Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 123,
-      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=2.1.1",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/123",
-      "updated_at": "2026-10-11T10:42:54Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 929,
-      "title": "[chore] update rust lockfiles",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/929",
-      "updated_at": "2026-10-11T03:51:06Z",
-      "user": "coccinella-labs-harper[bot]",
-      "comments": 2
-    },
-    {
-      "repo": "organictyping",
-      "number": 103,
-      "title": "chore: bump version to 0.1.8",
-      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
-      "updated_at": "2026-10-11T03:12:56Z",
-      "user": "github-actions[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 927,
-      "title": "[fix] allow the arm homebrew prefix in the sandbox-exec profile",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/927",
-      "updated_at": "2026-10-10T10:53:46Z",
-      "user": "bniladridas",
-      "comments": 1
     }
   ]
 }, "open_issues": {
