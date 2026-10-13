@@ -7,6 +7,20 @@
     "forks_count": 0
   },
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "simengine",
     "html_url": "https://github.com/coccinella-labs/simengine",
     "language": "Makefile",
@@ -31,13 +45,6 @@
     "name": "organictyping",
     "html_url": "https://github.com/coccinella-labs/organictyping",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -80,13 +87,6 @@
     "name": "l2",
     "html_url": "https://github.com/coccinella-labs/l2",
     "language": "Ruby",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,17 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 154,
+  "total_count": 155,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 161,
+      "title": "Add optional Vim-style editing to the interactive REPL",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/161",
+      "updated_at": "2026-10-13T15:05:56Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "simengine",
       "number": 23,
@@ -225,108 +234,99 @@
       "updated_at": "2026-10-13T01:59:41Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 191,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
-      "updated_at": "2026-10-12T18:38:18Z",
-      "user": "github-actions[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
-  "total_count": 12,
+  "total_count": 23,
   "items": [
     {
-      "repo": "harper",
-      "number": 924,
-      "title": "Cancellation can be lost when a new command is queued within one poll cycle of Ctrl+C",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/924",
-      "updated_at": "2026-10-10T06:25:13Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 926,
-      "title": "sandbox-exec narrow deny profiles abort on macOS 27; cause undetermined",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/926",
-      "updated_at": "2026-10-10T06:02:20Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 925,
-      "title": "Sandbox-exec profile omits ARM Homebrew prefix",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/925",
-      "updated_at": "2026-10-10T05:31:15Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 917,
-      "title": "[packaging] both Homebrew formula surfaces are behind; the served one is pinned to 0.20.1",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/917",
-      "updated_at": "2026-09-27T09:06:26Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 914,
-      "title": "website/server.html /health example shows version 0.20.1 but harper-core is 0.23.0",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/914",
-      "updated_at": "2026-09-27T09:03:52Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 345,
-      "title": "Tracked roadmap",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/345",
-      "updated_at": "2026-09-26T12:51:27Z",
-      "user": "bniladridas",
-      "comments": 2
-    },
-    {
-      "repo": "harper",
-      "number": 907,
-      "title": "read_file resolves relative paths against the process working directory",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/907",
-      "updated_at": "2026-09-26T12:11:35Z",
-      "user": "bniladridas",
-      "comments": 2
-    },
-    {
-      "repo": "dotfiles",
+      "repo": "gpucomm-fs",
       "number": 5,
-      "title": "Tracking",
-      "html_url": "https://github.com/coccinella-labs/dotfiles/issues/5",
-      "updated_at": "2026-09-14T08:59:50Z",
+      "title": "Filesystem layer: read-only FUSE mount (optional)",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/5",
+      "updated_at": "2026-10-13T15:49:49Z",
       "user": "bniladridas",
-      "comments": 25
-    },
-    {
-      "repo": "collab-hub",
-      "number": 138,
-      "title": "Auto Improvement Report - 2026-09-11",
-      "html_url": "https://github.com/coccinella-labs/collab-hub/issues/138",
-      "updated_at": "2026-09-11T12:05:40Z",
-      "user": "github-actions[bot]",
       "comments": 0
     },
     {
-      "repo": "appsdk",
-      "number": 116,
-      "title": "Auto-created: chore(deps-dev): bump lodash from 4.17.21 to 4.18.1",
-      "html_url": "https://github.com/coccinella-labs/appsdk/issues/116",
-      "updated_at": "2026-07-25T01:35:54Z",
-      "user": "github-actions[bot]",
+      "repo": "gpucomm-fs",
+      "number": 4,
+      "title": "Sharing and transport: pack/unpack or push/pull",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/4",
+      "updated_at": "2026-10-13T15:49:48Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "gpucomm-fs",
+      "number": 3,
+      "title": "Integrity and lifecycle: verify, gc, prune",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/3",
+      "updated_at": "2026-10-13T15:49:46Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "gpucomm-fs",
+      "number": 2,
+      "title": "Artifact metadata schema and show command v0.2",
+      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/2",
+      "updated_at": "2026-10-13T15:49:44Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 6,
+      "title": "CI and benchmark methodology docs v0.5",
+      "html_url": "https://github.com/coccinella-labs/core/issues/6",
+      "updated_at": "2026-10-13T15:49:43Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 5,
+      "title": "Synchronization and threadgroup experiments v0.4",
+      "html_url": "https://github.com/coccinella-labs/core/issues/5",
+      "updated_at": "2026-10-13T15:49:41Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 4,
+      "title": "CPU/GPU transfer and residency benchmarks v0.3",
+      "html_url": "https://github.com/coccinella-labs/core/issues/4",
+      "updated_at": "2026-10-13T15:49:40Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 3,
+      "title": "Benchmark harness v0.2: warmup, repetitions, percentile stats, JSON output",
+      "html_url": "https://github.com/coccinella-labs/core/issues/3",
+      "updated_at": "2026-10-13T15:49:38Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 2,
+      "title": "Kernel suite v0.1: scan, matmul, and bandwidth kernels",
+      "html_url": "https://github.com/coccinella-labs/core/issues/2",
+      "updated_at": "2026-10-13T15:49:36Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 160,
+      "title": "Add optional Vim-style editing to the interactive REPL",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/160",
+      "updated_at": "2026-10-13T15:44:22Z",
+      "user": "bniladridas",
       "comments": 0
     }
   ]
