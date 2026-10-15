@@ -7,20 +7,6 @@
     "forks_count": 0
   },
   {
-    "name": "release-notes",
-    "html_url": "https://github.com/coccinella-labs/release-notes",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -31,6 +17,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "release-notes",
+    "html_url": "https://github.com/coccinella-labs/release-notes",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,17 +143,8 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 156,
+  "total_count": 155,
   "items": [
-    {
-      "repo": "harperbot",
-      "number": 15,
-      "title": "chore: move package under src/, tests to tests/, setup doc to docs/",
-      "html_url": "https://github.com/coccinella-labs/harperbot/pull/15",
-      "updated_at": "2026-10-15T13:55:10Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
     {
       "repo": "release-notes",
       "number": 12,
@@ -234,29 +225,20 @@
       "updated_at": "2026-10-13T02:03:57Z",
       "user": "dependabot[bot]",
       "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 122,
+      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
+      "updated_at": "2026-10-13T02:03:55Z",
+      "user": "dependabot[bot]",
+      "comments": 0
     }
   ]
 }, "open_issues": {
-  "total_count": 25,
+  "total_count": 23,
   "items": [
-    {
-      "repo": "harperbot",
-      "number": 10,
-      "title": "Sticky comment protocol and review output formatting",
-      "html_url": "https://github.com/coccinella-labs/harperbot/issues/10",
-      "updated_at": "2026-10-15T10:32:28Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harperbot",
-      "number": 11,
-      "title": "Providers and model discovery (OpenRouter, auto resolution)",
-      "html_url": "https://github.com/coccinella-labs/harperbot/issues/11",
-      "updated_at": "2026-10-15T09:51:50Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
     {
       "repo": "gpucomm-fs",
       "number": 5,
@@ -326,6 +308,24 @@
       "title": "Benchmark harness v0.2: warmup, repetitions, percentile stats, JSON output",
       "html_url": "https://github.com/coccinella-labs/core/issues/3",
       "updated_at": "2026-10-13T15:49:38Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 2,
+      "title": "Kernel suite v0.1: scan, matmul, and bandwidth kernels",
+      "html_url": "https://github.com/coccinella-labs/core/issues/2",
+      "updated_at": "2026-10-13T15:49:36Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 160,
+      "title": "Add optional Vim-style editing to the interactive REPL",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/160",
+      "updated_at": "2026-10-13T15:44:22Z",
       "user": "bniladridas",
       "comments": 0
     }
