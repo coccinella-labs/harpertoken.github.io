@@ -14,6 +14,13 @@
     "forks_count": 0
   },
   {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "lilt",
     "html_url": "https://github.com/coccinella-labs/lilt",
     "language": "Kotlin",
@@ -38,13 +45,6 @@
     "name": "discussions",
     "html_url": "https://github.com/coccinella-labs/discussions",
     "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,14 +143,23 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 152,
+  "total_count": 153,
   "items": [
     {
       "repo": "agentware",
-      "number": 163,
-      "title": "chore: bump version to 0.1.7",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/163",
-      "updated_at": "2026-10-16T13:13:04Z",
+      "number": 168,
+      "title": "fix: run the release Configure step under bash on every OS",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/168",
+      "updated_at": "2026-10-16T18:36:00Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 165,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/165",
+      "updated_at": "2026-10-16T16:37:59Z",
       "user": "github-actions[bot]",
       "comments": 0
     },
@@ -225,15 +234,6 @@
       "updated_at": "2026-10-13T02:03:57Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-10-13T02:03:55Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
@@ -242,11 +242,11 @@
     {
       "repo": "agentware",
       "number": 113,
-      "title": "Tracking Issue",
+      "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-16T14:14:50Z",
+      "updated_at": "2026-10-16T18:36:02Z",
       "user": "bniladridas",
-      "comments": 96
+      "comments": 105
     },
     {
       "repo": "gpucomm-fs",
