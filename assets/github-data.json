@@ -1,8 +1,29 @@
 {"repos": [
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "lilt",
+    "html_url": "https://github.com/coccinella-labs/lilt",
+    "language": "Kotlin",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bin",
+    "html_url": "https://github.com/coccinella-labs/bin",
+    "language": "Elixir",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -14,11 +35,11 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "discussions",
+    "html_url": "https://github.com/coccinella-labs/discussions",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "harpertoken.github.io",
@@ -26,6 +47,13 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "bot",
@@ -52,13 +80,6 @@
     "name": "release-notes",
     "html_url": "https://github.com/coccinella-labs/release-notes",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -117,34 +138,22 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "gpucomm-bot",
-    "html_url": "https://github.com/coccinella-labs/gpucomm-bot",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "hello",
-    "html_url": "https://github.com/coccinella-labs/hello",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "coccinella-labs.github.io",
-    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 155,
+  "total_count": 152,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 163,
+      "title": "chore: bump version to 0.1.7",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/163",
+      "updated_at": "2026-10-16T13:13:04Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 933,
@@ -170,15 +179,6 @@
       "html_url": "https://github.com/coccinella-labs/gh-tag/pull/11",
       "updated_at": "2026-10-15T04:11:32Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 161,
-      "title": "Add optional Vim-style editing to the interactive REPL",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/161",
-      "updated_at": "2026-10-13T15:05:56Z",
-      "user": "bniladridas",
       "comments": 0
     },
     {
@@ -237,8 +237,17 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 23,
+  "total_count": 22,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Tracking Issue",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-16T14:14:50Z",
+      "user": "bniladridas",
+      "comments": 96
+    },
     {
       "repo": "gpucomm-fs",
       "number": 5,
@@ -317,15 +326,6 @@
       "title": "Kernel suite v0.1: scan, matmul, and bandwidth kernels",
       "html_url": "https://github.com/coccinella-labs/core/issues/2",
       "updated_at": "2026-10-13T15:49:36Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 160,
-      "title": "Add optional Vim-style editing to the interactive REPL",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/160",
-      "updated_at": "2026-10-13T15:44:22Z",
       "user": "bniladridas",
       "comments": 0
     }
