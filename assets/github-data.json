@@ -1,8 +1,15 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "molplatform",
+    "html_url": "https://github.com/coccinella-labs/molplatform",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -10,6 +17,41 @@
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "ai",
+    "html_url": "https://github.com/coccinella-labs/ai",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "latexgen",
+    "html_url": "https://github.com/coccinella-labs/latexgen",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "resume",
+    "html_url": "https://github.com/coccinella-labs/resume",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "weight",
+    "html_url": "https://github.com/coccinella-labs/weight",
+    "language": "Dart",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -63,13 +105,6 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harperbot",
     "html_url": "https://github.com/coccinella-labs/harperbot",
     "language": "Python",
@@ -103,57 +138,13 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "organictyping",
-    "html_url": "https://github.com/coccinella-labs/organictyping",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "benchmark",
-    "html_url": "https://github.com/coccinella-labs/benchmark",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "l2",
-    "html_url": "https://github.com/coccinella-labs/l2",
-    "language": "Ruby",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "mlapi",
-    "html_url": "https://github.com/coccinella-labs/mlapi",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 153,
+  "total_count": 140,
   "items": [
-    {
-      "repo": "agentware",
-      "number": 168,
-      "title": "fix: run the release Configure step under bash on every OS",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/168",
-      "updated_at": "2026-10-16T18:36:00Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
     {
       "repo": "agentware",
       "number": 165,
@@ -234,6 +225,15 @@
       "updated_at": "2026-10-13T02:03:57Z",
       "user": "dependabot[bot]",
       "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 122,
+      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
+      "updated_at": "2026-10-13T02:03:55Z",
+      "user": "dependabot[bot]",
+      "comments": 0
     }
   ]
 }, "open_issues": {
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-16T18:36:02Z",
+      "updated_at": "2026-10-16T21:18:42Z",
       "user": "bniladridas",
-      "comments": 105
+      "comments": 110
     },
     {
       "repo": "gpucomm-fs",
