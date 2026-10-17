@@ -7,8 +7,8 @@
     "forks_count": 0
   },
   {
-    "name": "molplatform",
-    "html_url": "https://github.com/coccinella-labs/molplatform",
+    "name": "mole",
+    "html_url": "https://github.com/coccinella-labs/mole",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -146,19 +146,19 @@
   "total_count": 142,
   "items": [
     {
-      "repo": "molplatform",
-      "number": 94,
-      "title": "Report failed mutations instead of silently discarding them",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/94",
-      "updated_at": "2026-10-17T14:49:44Z",
+      "repo": "mole",
+      "number": 102,
+      "title": "Remove the unused Celery, Redis and PostgreSQL stack",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/102",
+      "updated_at": "2026-10-17T17:36:40Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "molplatform",
+      "repo": "mole",
       "number": 91,
       "title": "build(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/91",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/91",
       "updated_at": "2026-10-17T12:05:14Z",
       "user": "dependabot[bot]",
       "comments": 1
@@ -237,31 +237,40 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 25,
+  "total_count": 26,
   "items": [
     {
-      "repo": "molplatform",
-      "number": 95,
-      "title": "num_mutations has no upper bound, so total request cost is unbounded",
-      "html_url": "https://github.com/coccinella-labs/molplatform/issues/95",
-      "updated_at": "2026-10-17T14:49:51Z",
+      "repo": "mole",
+      "number": 101,
+      "title": "Decide whether Celery is intended functionality: the worker registers no application tasks, and tasks.py carries a divergent copy of the mutation code",
+      "html_url": "https://github.com/coccinella-labs/mole/issues/101",
+      "updated_at": "2026-10-17T17:37:52Z",
       "user": "bniladridas",
-      "comments": 0
+      "comments": 1
     },
     {
-      "repo": "molplatform",
+      "repo": "mole",
+      "number": 95,
+      "title": "num_mutations has no upper bound, so total request cost is unbounded",
+      "html_url": "https://github.com/coccinella-labs/mole/issues/95",
+      "updated_at": "2026-10-17T15:22:25Z",
+      "user": "bniladridas",
+      "comments": 3
+    },
+    {
+      "repo": "mole",
       "number": 93,
       "title": "Tailwind 4 is blocked by Create React App hardcoding Tailwind in its PostCSS pipeline",
-      "html_url": "https://github.com/coccinella-labs/molplatform/issues/93",
+      "html_url": "https://github.com/coccinella-labs/mole/issues/93",
       "updated_at": "2026-10-17T12:04:50Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "molplatform",
+      "repo": "mole",
       "number": 87,
       "title": "mutation helpers discard their own work silently and flood the log with RDKit warnings",
-      "html_url": "https://github.com/coccinella-labs/molplatform/issues/87",
+      "html_url": "https://github.com/coccinella-labs/mole/issues/87",
       "updated_at": "2026-10-17T00:26:19Z",
       "user": "bniladridas",
       "comments": 0
@@ -317,15 +326,6 @@
       "title": "CI and benchmark methodology docs v0.5",
       "html_url": "https://github.com/coccinella-labs/core/issues/6",
       "updated_at": "2026-10-13T15:49:43Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "core",
-      "number": 5,
-      "title": "Synchronization and threadgroup experiments v0.4",
-      "html_url": "https://github.com/coccinella-labs/core/issues/5",
-      "updated_at": "2026-10-13T15:49:41Z",
       "user": "bniladridas",
       "comments": 0
     }
