@@ -1,14 +1,14 @@
 {"repos": [
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
+    "name": "molplatform",
+    "html_url": "https://github.com/coccinella-labs/molplatform",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -21,9 +21,9 @@
     "forks_count": 0
   },
   {
-    "name": "molplatform",
-    "html_url": "https://github.com/coccinella-labs/molplatform",
-    "language": "Python",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,34 +143,25 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 143,
+  "total_count": 142,
   "items": [
+    {
+      "repo": "molplatform",
+      "number": 94,
+      "title": "Report failed mutations instead of silently discarding them",
+      "html_url": "https://github.com/coccinella-labs/molplatform/pull/94",
+      "updated_at": "2026-10-17T14:49:44Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "molplatform",
       "number": 91,
       "title": "build(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3 in /frontend",
       "html_url": "https://github.com/coccinella-labs/molplatform/pull/91",
-      "updated_at": "2026-10-17T05:32:44Z",
+      "updated_at": "2026-10-17T12:05:14Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 90,
-      "title": "build(deps): bump httpx from 0.25.2 to 0.28.1 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/90",
-      "updated_at": "2026-10-17T05:32:35Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 89,
-      "title": "build(deps): bump python-dotenv from 1.2.3 to 1.2.4 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/89",
-      "updated_at": "2026-10-17T05:32:30Z",
-      "user": "dependabot[bot]",
-      "comments": 0
+      "comments": 1
     },
     {
       "repo": "agentware",
@@ -234,11 +225,38 @@
       "updated_at": "2026-10-13T05:08:45Z",
       "user": "dependabot[bot]",
       "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 121,
+      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
+      "updated_at": "2026-10-13T02:04:01Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 23,
+  "total_count": 25,
   "items": [
+    {
+      "repo": "molplatform",
+      "number": 95,
+      "title": "num_mutations has no upper bound, so total request cost is unbounded",
+      "html_url": "https://github.com/coccinella-labs/molplatform/issues/95",
+      "updated_at": "2026-10-17T14:49:51Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "molplatform",
+      "number": 93,
+      "title": "Tailwind 4 is blocked by Create React App hardcoding Tailwind in its PostCSS pipeline",
+      "html_url": "https://github.com/coccinella-labs/molplatform/issues/93",
+      "updated_at": "2026-10-17T12:04:50Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "molplatform",
       "number": 87,
@@ -308,24 +326,6 @@
       "title": "Synchronization and threadgroup experiments v0.4",
       "html_url": "https://github.com/coccinella-labs/core/issues/5",
       "updated_at": "2026-10-13T15:49:41Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "core",
-      "number": 4,
-      "title": "CPU/GPU transfer and residency benchmarks v0.3",
-      "html_url": "https://github.com/coccinella-labs/core/issues/4",
-      "updated_at": "2026-10-13T15:49:40Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "core",
-      "number": 3,
-      "title": "Benchmark harness v0.2: warmup, repetitions, percentile stats, JSON output",
-      "html_url": "https://github.com/coccinella-labs/core/issues/3",
-      "updated_at": "2026-10-13T15:49:38Z",
       "user": "bniladridas",
       "comments": 0
     }
