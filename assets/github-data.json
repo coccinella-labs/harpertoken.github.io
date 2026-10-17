@@ -14,6 +14,20 @@
     "forks_count": 0
   },
   {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
@@ -91,20 +105,6 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harperbot",
     "html_url": "https://github.com/coccinella-labs/harperbot",
     "language": "Python",
@@ -143,97 +143,97 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 152,
+  "total_count": 143,
   "items": [
     {
       "repo": "molplatform",
-      "number": 88,
-      "title": "ci: run e2e on pull requests and in the merge queue",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/88",
-      "updated_at": "2026-10-17T00:53:12Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 86,
-      "title": "chore(deps): consolidate ten dependabot upgrades and move the frontend to Node 22",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/86",
-      "updated_at": "2026-10-17T00:45:33Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "molplatform",
-      "number": 84,
-      "title": "build(deps): bump react-tooltip from 5.30.0 to 6.0.8 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/84",
-      "updated_at": "2026-10-17T00:06:13Z",
+      "number": 91,
+      "title": "build(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3 in /frontend",
+      "html_url": "https://github.com/coccinella-labs/molplatform/pull/91",
+      "updated_at": "2026-10-17T05:32:44Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
       "repo": "molplatform",
-      "number": 83,
-      "title": "build(deps): bump react from 18.3.1 to 19.3.0 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/83",
-      "updated_at": "2026-10-17T00:06:07Z",
+      "number": 90,
+      "title": "build(deps): bump httpx from 0.25.2 to 0.28.1 in /backend",
+      "html_url": "https://github.com/coccinella-labs/molplatform/pull/90",
+      "updated_at": "2026-10-17T05:32:35Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
       "repo": "molplatform",
-      "number": 82,
-      "title": "build(deps): bump requests from 2.33.0 to 2.34.2 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/82",
-      "updated_at": "2026-10-17T00:05:56Z",
+      "number": 89,
+      "title": "build(deps): bump python-dotenv from 1.2.3 to 1.2.4 in /backend",
+      "html_url": "https://github.com/coccinella-labs/molplatform/pull/89",
+      "updated_at": "2026-10-17T05:32:30Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "molplatform",
-      "number": 81,
-      "title": "build(deps): bump react-dom from 18.3.1 to 19.3.0 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/81",
-      "updated_at": "2026-10-17T00:05:55Z",
+      "repo": "agentware",
+      "number": 165,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/165",
+      "updated_at": "2026-10-16T16:37:59Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 933,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 5 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/933",
+      "updated_at": "2026-10-16T05:56:19Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "molplatform",
-      "number": 80,
-      "title": "build(deps): bump email-validator from 2.1.1 to 2.3.0 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/80",
-      "updated_at": "2026-10-17T00:05:52Z",
+      "repo": "release-notes",
+      "number": 12,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.5",
+      "html_url": "https://github.com/coccinella-labs/release-notes/pull/12",
+      "updated_at": "2026-10-15T11:14:13Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "molplatform",
-      "number": 79,
-      "title": "build(deps): bump rdkit from 2025.9.3 to 2026.9.1 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/79",
-      "updated_at": "2026-10-17T00:05:48Z",
+      "repo": "gh-tag",
+      "number": 11,
+      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.5",
+      "html_url": "https://github.com/coccinella-labs/gh-tag/pull/11",
+      "updated_at": "2026-10-15T04:11:32Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "molplatform",
-      "number": 78,
-      "title": "build(deps-dev): bump autoprefixer from 10.4.23 to 10.6.1 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/78",
-      "updated_at": "2026-10-17T00:05:46Z",
+      "repo": "simengine",
+      "number": 23,
+      "title": "chore(deps): bump the cargo group across 1 directory with 6 updates",
+      "html_url": "https://github.com/coccinella-labs/simengine/pull/23",
+      "updated_at": "2026-10-13T12:33:38Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "molplatform",
-      "number": 77,
-      "title": "build(deps): bump redis from 5.0.1 to 8.1.0 in /backend",
-      "html_url": "https://github.com/coccinella-labs/molplatform/pull/77",
-      "updated_at": "2026-10-17T00:05:44Z",
+      "repo": "organictyping",
+      "number": 109,
+      "title": "chore(deps): bump ip-address from 10.7.0 to 10.7.4 in the npm_and_yarn group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/organictyping/pull/109",
+      "updated_at": "2026-10-13T06:10:00Z",
       "user": "dependabot[bot]",
-      "comments": 0
+      "comments": 1
+    },
+    {
+      "repo": "vesper",
+      "number": 188,
+      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
+      "updated_at": "2026-10-13T05:08:45Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
