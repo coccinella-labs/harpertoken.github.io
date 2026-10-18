@@ -1,14 +1,35 @@
 {"repos": [
   {
-    "name": "mole",
-    "html_url": "https://github.com/coccinella-labs/mole",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "mole",
+    "html_url": "https://github.com/coccinella-labs/mole",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -21,32 +42,11 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "agentware",
@@ -146,6 +146,15 @@
   "total_count": 145,
   "items": [
     {
+      "repo": "harper",
+      "number": 929,
+      "title": "[chore] update rust lockfiles",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/929",
+      "updated_at": "2026-10-18T02:58:50Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 2
+    },
+    {
       "repo": "mole",
       "number": 110,
       "title": "Migrate the frontend from Create React App to Vite with Tailwind CSS 4",
@@ -223,15 +232,6 @@
       "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.5",
       "html_url": "https://github.com/coccinella-labs/gh-tag/pull/11",
       "updated_at": "2026-10-15T04:11:32Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "simengine",
-      "number": 23,
-      "title": "chore(deps): bump the cargo group across 1 directory with 6 updates",
-      "html_url": "https://github.com/coccinella-labs/simengine/pull/23",
-      "updated_at": "2026-10-13T12:33:38Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
