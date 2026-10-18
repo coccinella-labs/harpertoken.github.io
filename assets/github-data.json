@@ -1,5 +1,12 @@
 {"repos": [
   {
+    "name": "mole",
+    "html_url": "https://github.com/coccinella-labs/mole",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -7,9 +14,9 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -17,6 +24,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -30,13 +44,6 @@
   {
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "mole",
-    "html_url": "https://github.com/coccinella-labs/mole",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -131,20 +138,40 @@
     "language": "Makefile",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "prune",
-    "html_url": "https://github.com/coccinella-labs/prune",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 145,
+  "total_count": 142,
   "items": [
+    {
+      "repo": "mole",
+      "number": 110,
+      "title": "Migrate the frontend from Create React App to Vite with Tailwind CSS 4",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/110",
+      "updated_at": "2026-10-18T14:12:32Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 128,
+      "title": "deps(deps): bump fastapi from 0.138.0 to 0.143.1",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/128",
+      "updated_at": "2026-10-18T10:42:47Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 127,
+      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=2.2.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/127",
+      "updated_at": "2026-10-18T10:42:40Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 929,
@@ -153,42 +180,6 @@
       "updated_at": "2026-10-18T02:58:50Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 2
-    },
-    {
-      "repo": "mole",
-      "number": 110,
-      "title": "Migrate the frontend from Create React App to Vite with Tailwind CSS 4",
-      "html_url": "https://github.com/coccinella-labs/mole/pull/110",
-      "updated_at": "2026-10-17T22:40:44Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "mole",
-      "number": 109,
-      "title": "Add a Coccinella Labs favicon",
-      "html_url": "https://github.com/coccinella-labs/mole/pull/109",
-      "updated_at": "2026-10-17T21:55:39Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "mole",
-      "number": 108,
-      "title": "Wrap long SMILES values so they cannot overflow the result grid",
-      "html_url": "https://github.com/coccinella-labs/mole/pull/108",
-      "updated_at": "2026-10-17T21:43:29Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "mole",
-      "number": 107,
-      "title": "Fix frontend input labelling, 422 messages and mutation-count validation",
-      "html_url": "https://github.com/coccinella-labs/mole/pull/107",
-      "updated_at": "2026-10-17T21:27:10Z",
-      "user": "bniladridas",
-      "comments": 0
     },
     {
       "repo": "mole",
@@ -232,6 +223,15 @@
       "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.5",
       "html_url": "https://github.com/coccinella-labs/gh-tag/pull/11",
       "updated_at": "2026-10-15T04:11:32Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "simengine",
+      "number": 23,
+      "title": "chore(deps): bump the cargo group across 1 directory with 6 updates",
+      "html_url": "https://github.com/coccinella-labs/simengine/pull/23",
+      "updated_at": "2026-10-13T12:33:38Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
