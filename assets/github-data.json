@@ -14,16 +14,16 @@
     "forks_count": 0
   },
   {
-    "name": "mlapi",
-    "html_url": "https://github.com/coccinella-labs/mlapi",
-    "language": "Python",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,17 +143,8 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 142,
+  "total_count": 140,
   "items": [
-    {
-      "repo": "mole",
-      "number": 110,
-      "title": "Migrate the frontend from Create React App to Vite with Tailwind CSS 4",
-      "html_url": "https://github.com/coccinella-labs/mole/pull/110",
-      "updated_at": "2026-10-18T14:12:32Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
     {
       "repo": "mlapi",
       "number": 128,
@@ -180,15 +171,6 @@
       "updated_at": "2026-10-18T02:58:50Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 2
-    },
-    {
-      "repo": "mole",
-      "number": 91,
-      "title": "build(deps-dev): bump tailwindcss from 3.4.19 to 4.3.3 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/mole/pull/91",
-      "updated_at": "2026-10-17T12:05:14Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     },
     {
       "repo": "agentware",
@@ -234,28 +216,37 @@
       "updated_at": "2026-10-13T12:33:38Z",
       "user": "dependabot[bot]",
       "comments": 0
+    },
+    {
+      "repo": "organictyping",
+      "number": 109,
+      "title": "chore(deps): bump ip-address from 10.7.0 to 10.7.4 in the npm_and_yarn group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/organictyping/pull/109",
+      "updated_at": "2026-10-13T06:10:00Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "vesper",
+      "number": 188,
+      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
+      "updated_at": "2026-10-13T05:08:45Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 24,
+  "total_count": 23,
   "items": [
     {
       "repo": "mole",
       "number": 95,
       "title": "num_mutations has no upper bound, so total request cost is unbounded",
       "html_url": "https://github.com/coccinella-labs/mole/issues/95",
-      "updated_at": "2026-10-17T20:05:47Z",
+      "updated_at": "2026-10-18T14:50:52Z",
       "user": "bniladridas",
       "comments": 5
-    },
-    {
-      "repo": "mole",
-      "number": 93,
-      "title": "Tailwind 4 is blocked by Create React App hardcoding Tailwind in its PostCSS pipeline",
-      "html_url": "https://github.com/coccinella-labs/mole/issues/93",
-      "updated_at": "2026-10-17T12:04:50Z",
-      "user": "bniladridas",
-      "comments": 0
     },
     {
       "repo": "agentware",
@@ -326,6 +317,15 @@
       "title": "CPU/GPU transfer and residency benchmarks v0.3",
       "html_url": "https://github.com/coccinella-labs/core/issues/4",
       "updated_at": "2026-10-13T15:49:40Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "core",
+      "number": 3,
+      "title": "Benchmark harness v0.2: warmup, repetitions, percentile stats, JSON output",
+      "html_url": "https://github.com/coccinella-labs/core/issues/3",
+      "updated_at": "2026-10-13T15:49:38Z",
       "user": "bniladridas",
       "comments": 0
     }
