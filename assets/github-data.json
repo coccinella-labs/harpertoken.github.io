@@ -1,14 +1,28 @@
 {"repos": [
   {
-    "name": "mole",
-    "html_url": "https://github.com/coccinella-labs/mole",
-    "language": "Python",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "rules",
+    "html_url": "https://github.com/coccinella-labs/rules",
+    "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "mole",
+    "html_url": "https://github.com/coccinella-labs/mole",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -52,13 +66,6 @@
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,20 +138,22 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "simengine",
-    "html_url": "https://github.com/coccinella-labs/simengine",
-    "language": "Makefile",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 140,
+  "total_count": 141,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 172,
+      "title": "Daily maintenance report 2026-10-18",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/172",
+      "updated_at": "2026-10-18T20:02:31Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
     {
       "repo": "mlapi",
       "number": 128,
@@ -225,20 +234,20 @@
       "updated_at": "2026-10-13T06:10:00Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 188,
-      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
-      "updated_at": "2026-10-13T05:08:45Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
   "total_count": 23,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-18T19:55:45Z",
+      "user": "bniladridas",
+      "comments": 112
+    },
     {
       "repo": "mole",
       "number": 95,
@@ -247,15 +256,6 @@
       "updated_at": "2026-10-18T14:50:52Z",
       "user": "bniladridas",
       "comments": 5
-    },
-    {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-16T21:18:42Z",
-      "user": "bniladridas",
-      "comments": 110
     },
     {
       "repo": "gpucomm-fs",
