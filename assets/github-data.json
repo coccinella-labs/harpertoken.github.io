@@ -1,7 +1,7 @@
 {"repos": [
   {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
+    "name": "swe-agent",
+    "html_url": "https://github.com/coccinella-labs/swe-agent",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -14,9 +14,9 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "vertex",
+    "html_url": "https://github.com/coccinella-labs/vertex",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -24,6 +24,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "vesper",
+    "html_url": "https://github.com/coccinella-labs/vesper",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -124,27 +138,31 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "harperbot",
-    "html_url": "https://github.com/coccinella-labs/harperbot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "release-notes",
-    "html_url": "https://github.com/coccinella-labs/release-notes",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 140,
+  "total_count": 142,
   "items": [
+    {
+      "repo": "swe-agent",
+      "number": 1,
+      "title": "MVP solve loop: model driver, search, and audited issue fixing",
+      "html_url": "https://github.com/coccinella-labs/swe-agent/pull/1",
+      "updated_at": "2026-10-19T22:50:49Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "vertex",
+      "number": 5,
+      "title": "build(deps-dev): bump brace-expansion from 1.1.18 to 1.1.21 in the npm_and_yarn group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/vertex/pull/5",
+      "updated_at": "2026-10-19T20:36:09Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "vesper",
       "number": 191,
@@ -214,24 +232,6 @@
       "title": "deps-dev(deps-dev): bump webmock from 3.26.2 to 3.34.0",
       "html_url": "https://github.com/coccinella-labs/vesper/pull/194",
       "updated_at": "2026-10-19T09:06:33Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 193,
-      "title": "deps(deps): bump the production-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/193",
-      "updated_at": "2026-10-19T09:06:31Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 934,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 7 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/934",
-      "updated_at": "2026-10-19T05:57:03Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
