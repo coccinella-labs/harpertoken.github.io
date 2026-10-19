@@ -7,13 +7,6 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "agentware",
     "html_url": "https://github.com/coccinella-labs/agentware",
     "language": "C++",
@@ -24,6 +17,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -150,7 +150,7 @@
       "number": 174,
       "title": "fix: establish the lease that --force-with-lease needs",
       "html_url": "https://github.com/coccinella-labs/agentware/pull/174",
-      "updated_at": "2026-10-18T21:12:24Z",
+      "updated_at": "2026-10-18T23:25:23Z",
       "user": "bniladridas",
       "comments": 0
     },
