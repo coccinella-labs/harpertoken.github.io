@@ -1,14 +1,28 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "vesper",
+    "html_url": "https://github.com/coccinella-labs/vesper",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -28,9 +42,9 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -59,13 +73,6 @@
     "name": "mlapi",
     "html_url": "https://github.com/coccinella-labs/mlapi",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,27 +138,92 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "gh-tag",
-    "html_url": "https://github.com/coccinella-labs/gh-tag",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 141,
+  "total_count": 140,
   "items": [
     {
-      "repo": "agentware",
-      "number": 174,
-      "title": "fix: establish the lease that --force-with-lease needs",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/174",
-      "updated_at": "2026-10-18T23:25:23Z",
-      "user": "bniladridas",
+      "repo": "vesper",
+      "number": 188,
+      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
+      "updated_at": "2026-10-19T10:06:23Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 138,
+      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
+      "updated_at": "2026-10-19T09:08:02Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-10-19T09:06:45Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 103,
+      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
+      "updated_at": "2026-10-19T09:07:36Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 121,
+      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
+      "updated_at": "2026-10-19T09:08:06Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 122,
+      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
+      "updated_at": "2026-10-19T09:08:14Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 194,
+      "title": "deps-dev(deps-dev): bump webmock from 3.26.2 to 3.34.0",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/194",
+      "updated_at": "2026-10-19T09:06:33Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 193,
+      "title": "deps(deps): bump the production-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/193",
+      "updated_at": "2026-10-19T09:06:31Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 934,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 7 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/934",
+      "updated_at": "2026-10-19T05:57:03Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
@@ -162,91 +234,28 @@
       "updated_at": "2026-10-18T10:42:47Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 127,
-      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=2.2.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/127",
-      "updated_at": "2026-10-18T10:42:40Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 929,
-      "title": "[chore] update rust lockfiles",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/929",
-      "updated_at": "2026-10-18T02:58:50Z",
-      "user": "coccinella-labs-harper[bot]",
-      "comments": 2
-    },
-    {
-      "repo": "agentware",
-      "number": 165,
-      "title": "chore: bump version to 0.1.8",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/165",
-      "updated_at": "2026-10-16T16:37:59Z",
-      "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 933,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 5 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/933",
-      "updated_at": "2026-10-16T05:56:19Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "release-notes",
-      "number": 12,
-      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.5",
-      "html_url": "https://github.com/coccinella-labs/release-notes/pull/12",
-      "updated_at": "2026-10-15T11:14:13Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "gh-tag",
-      "number": 11,
-      "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.5",
-      "html_url": "https://github.com/coccinella-labs/gh-tag/pull/11",
-      "updated_at": "2026-10-15T04:11:32Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "simengine",
-      "number": 23,
-      "title": "chore(deps): bump the cargo group across 1 directory with 6 updates",
-      "html_url": "https://github.com/coccinella-labs/simengine/pull/23",
-      "updated_at": "2026-10-13T12:33:38Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "organictyping",
-      "number": 109,
-      "title": "chore(deps): bump ip-address from 10.7.0 to 10.7.4 in the npm_and_yarn group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/organictyping/pull/109",
-      "updated_at": "2026-10-13T06:10:00Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 23,
+  "total_count": 24,
   "items": [
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-18T21:01:14Z",
+      "updated_at": "2026-10-19T11:48:53Z",
       "user": "bniladridas",
-      "comments": 116
+      "comments": 120
+    },
+    {
+      "repo": "agentware",
+      "number": 175,
+      "title": "Maintenance reports are generated with a doubled trailing newline, and nothing catches it",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/175",
+      "updated_at": "2026-10-19T09:35:32Z",
+      "user": "bniladridas",
+      "comments": 0
     },
     {
       "repo": "mole",
@@ -317,15 +326,6 @@
       "title": "CPU/GPU transfer and residency benchmarks v0.3",
       "html_url": "https://github.com/coccinella-labs/core/issues/4",
       "updated_at": "2026-10-13T15:49:40Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "core",
-      "number": 3,
-      "title": "Benchmark harness v0.2: warmup, repetitions, percentile stats, JSON output",
-      "html_url": "https://github.com/coccinella-labs/core/issues/3",
-      "updated_at": "2026-10-13T15:49:38Z",
       "user": "bniladridas",
       "comments": 0
     }
