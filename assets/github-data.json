@@ -1,22 +1,8 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "vesper",
     "html_url": "https://github.com/coccinella-labs/vesper",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -28,11 +14,11 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "harpertoken.github.io",
@@ -40,6 +26,20 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "bot",
@@ -147,6 +147,15 @@
   "items": [
     {
       "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-10-19T16:13:29Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
       "number": 188,
       "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
       "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
@@ -225,15 +234,6 @@
       "updated_at": "2026-10-19T05:57:03Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 128,
-      "title": "deps(deps): bump fastapi from 0.138.0 to 0.143.1",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/128",
-      "updated_at": "2026-10-18T10:42:47Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
@@ -244,18 +244,18 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-19T11:48:53Z",
+      "updated_at": "2026-10-19T15:03:13Z",
       "user": "bniladridas",
-      "comments": 120
+      "comments": 128
     },
     {
       "repo": "agentware",
       "number": 175,
       "title": "Maintenance reports are generated with a doubled trailing newline, and nothing catches it",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/175",
-      "updated_at": "2026-10-19T09:35:32Z",
+      "updated_at": "2026-10-19T14:52:53Z",
       "user": "bniladridas",
-      "comments": 0
+      "comments": 1
     },
     {
       "repo": "mole",
