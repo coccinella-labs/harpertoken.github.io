@@ -67,7 +67,7 @@ export default {
     if (!token) return errorResponse('Missing GITHUB_TOKEN secret', { status: 500 });
 
     const org = env.ORG || 'coccinella-labs';
-    const releaseRepo = env.RELEASE_REPO || `${org}/harpertoken`;
+    const releaseRepo = env.RELEASE_REPO || `${org}/harper`;
     const siteRepo = env.SITE_REPO || `${org}/harpertoken.github.io`;
     const discussionRepo = env.DISCUSSION_REPO || `${org}/harper`;
     const teamMembers = ['bniladridas', 'gpucomm-hq'];
