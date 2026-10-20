@@ -325,7 +325,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Fetch Hugging Face models
         const hfModels = document.getElementById('hf-models');
         if (hfModels) {
-            fetch('https://huggingface.co/api/models?author=harpertoken')
+            fetch('https://huggingface.co/api/models?author=coccinella-labs')
                 .then(res => res.json())
                 .then(models => {
                     if (Array.isArray(models) && models.length > 0) {
@@ -350,7 +350,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Fetch Hugging Face spaces
         const hfSpaces = document.getElementById('hf-spaces');
         if (hfSpaces) {
-            fetch('https://huggingface.co/api/spaces?author=harpertoken')
+            fetch('https://huggingface.co/api/spaces?author=coccinella-labs')
                 .then(res => res.json())
                 .then(spaces => {
                     if (Array.isArray(spaces) && spaces.length > 0) {
@@ -375,14 +375,14 @@ document.addEventListener('DOMContentLoaded', function() {
         // Fetch Docker images
         const dockerImages = document.getElementById('docker-images');
         if (dockerImages) {
-            const dockerUrl = 'https://hub.docker.com/v2/repositories/harpertoken/?page_size=10';
+            const dockerUrl = 'https://hub.docker.com/v2/repositories/coccinella-labs/?page_size=10';
             fetch('https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(dockerUrl))
                 .then(res => res.json())
                 .then(data => {
                     if (data.results && Array.isArray(data.results) && data.results.length > 0) {
                         data.results.sort((a, b) => new Date(b.last_updated) - new Date(a.last_updated));
                         dockerImages.innerHTML = data.results.slice(0, 8).map(image => {
-                            const url = `https://hub.docker.com/r/harpertoken/${image.name}`;
+                            const url = `https://hub.docker.com/r/coccinella-labs/${image.name}`;
                             const pulls = image.pull_count.toLocaleString();
                             const timeAgo = formatTimeAgo(image.last_updated);
                             return `<div><a href="${url}" target="_blank">${image.name}</a> - ${pulls} pulls - ${timeAgo}</div>`;
@@ -400,7 +400,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Fetch GitLab projects
         const gitlabProjects = document.getElementById('gitlab-projects');
         if (gitlabProjects) {
-            fetch('https://gitlab.com/api/v4/users/harpertoken/projects?per_page=10')
+            fetch('https://gitlab.com/api/v4/users/coccinella-labs/projects?per_page=10')
                 .then(res => res.json())
                 .then(projects => {
                     if (Array.isArray(projects) && projects.length > 0) {
@@ -424,7 +424,7 @@ document.addEventListener('DOMContentLoaded', function() {
         // Fetch npm packages
         const npmPackages = document.getElementById('npm-packages');
         if (npmPackages) {
-            fetch('https://registry.npmjs.org/-/v1/search?text=maintainer:harpertoken&size=10')
+            fetch('https://registry.npmjs.org/-/v1/search?text=maintainer:coccinella-labs&size=10')
                 .then(res => res.json())
                 .then(data => {
                     if (data.objects && Array.isArray(data.objects) && data.objects.length > 0) {
@@ -454,7 +454,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     const handleError = () => {
         if (sidebarRepos) {
-            sidebarRepos.innerHTML = '<a href="https://github.com/coccinella-labs">harpertoken</a>';
+            sidebarRepos.innerHTML = '<a href="https://github.com/coccinella-labs">coccinella-labs</a>';
         }
         if (mainRelease) {
             mainRelease.textContent = 'v1.27.0';

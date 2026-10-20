@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Coccinella-Labs/harpertoken.github.io/main/.github/assets/thumbnail.png" alt="harpertokengithubio" width="100%">
 </p>
 
-# harpertoken public site
+# coccinella-labs public site
 
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_message=online&url=https%3A%2F%2Fcoccinella-labs.github.io%2Fharpertoken.github.io%2F)](https://coccinella-labs.github.io/harpertoken.github.io/)
 [![License](https://img.shields.io/github/license/coccinella-labs/harpertoken.github.io)](LICENSE)
