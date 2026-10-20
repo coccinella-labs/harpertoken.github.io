@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1536" height="1024" viewBox="0 0 1536 1024" role="img" aria-label="Coccinella Labs">
+  <title>Coccinella Labs</title>
+  <desc>Editable banner. The wordmark is SVG text; the mark is vector paths. Edit text or paths directly.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#18181c" />
+      <stop offset="100%" stop-color="#23232a" />
+    </linearGradient>
+  </defs>
+  <rect width="1536" height="1024" fill="url(#bg)" />
+  <rect x="120.0" y="372.0" width="31.1" height="280.0" fill="#f34b7d" rx="4" />
+  <rect x="195.6" y="438.7" width="31.1" height="213.3" fill="#f34b7d" rx="4" />
+  <rect x="266.7" y="407.6" width="35.6" height="244.4" fill="#f34b7d" rx="4" />
+  <polygon points="342.2,412.0 346.7,407.6 351.1,407.6 355.6,407.6 360.0,407.6 364.4,407.6 368.9,412.0 373.3,425.3 377.8,443.1 382.2,456.4 386.7,469.8 391.1,483.1 395.6,496.4 400.0,509.8 404.4,527.6 408.9,540.9 413.3,554.2 417.8,567.6 422.2,585.3 426.7,598.7 431.1,612.0 435.6,625.3 435.6,643.1 431.1,647.6 426.7,652.0 422.2,652.0 417.8,652.0 413.3,647.6 408.9,643.1 404.4,634.2 400.0,616.4 395.6,603.1 391.1,589.8 386.7,576.4 382.2,558.7 377.8,545.3 373.3,532.0 368.9,518.7 364.4,505.3 360.0,492.0 355.6,478.7 351.1,460.9 346.7,447.6 342.2,434.2" fill="#f34b7d" />
+  <text x="520.0" y="492.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="150" font-weight="700" fill="#f5f5f7" letter-spacing="-4">Coccinella Labs</text>
+  <text x="520.0" y="572.0" font-family="system-ui, -apple-system, Segoe UI, sans-serif" font-size="46" font-weight="400" fill="#a0a0a8">Software tooling for developers</text>
+</svg>
