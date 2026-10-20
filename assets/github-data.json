@@ -14,16 +14,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,35 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 141,
+  "total_count": 144,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 183,
+      "title": "tool-system audit fixes: routing prefixes, grep errors, search redirects, git:diff",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/183",
+      "updated_at": "2026-10-20T18:14:11Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 185,
+      "title": "docs: agent tool-call loop design (PR-3 groundwork)",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/185",
+      "updated_at": "2026-10-20T17:51:52Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 186,
+      "title": "cmake(mac): track the system deployment target locally",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/186",
+      "updated_at": "2026-10-20T16:39:29Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 181,
@@ -207,46 +234,37 @@
       "updated_at": "2026-10-19T09:06:45Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-10-19T09:07:36Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-10-19T09:08:06Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-10-19T09:08:14Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
-  "total_count": 25,
+  "total_count": 27,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 188,
+      "title": "boot prompts: EOF handling is inconsistent (clean exit vs. re-ask/invalid choice depending on timing)",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/188",
+      "updated_at": "2026-10-20T17:54:17Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 187,
+      "title": "input: up-arrow history recall does not work in the default (non-modal) input path",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/187",
+      "updated_at": "2026-10-20T17:54:14Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-20T11:59:19Z",
+      "updated_at": "2026-10-20T17:37:14Z",
       "user": "bniladridas",
-      "comments": 129
+      "comments": 140
     },
     {
       "repo": "swe-agent",
@@ -308,24 +326,6 @@
       "title": "Integrity and lifecycle: verify, gc, prune",
       "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/3",
       "updated_at": "2026-10-13T15:49:46Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "gpucomm-fs",
-      "number": 2,
-      "title": "Artifact metadata schema and show command v0.2",
-      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/2",
-      "updated_at": "2026-10-13T15:49:44Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "core",
-      "number": 6,
-      "title": "CI and benchmark methodology docs v0.5",
-      "html_url": "https://github.com/coccinella-labs/core/issues/6",
-      "updated_at": "2026-10-13T15:49:43Z",
       "user": "bniladridas",
       "comments": 0
     }
