@@ -1,8 +1,29 @@
 {"repos": [
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -24,13 +45,6 @@
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -59,20 +73,6 @@
     "name": "vesper",
     "html_url": "https://github.com/coccinella-labs/vesper",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,17 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 140,
+  "total_count": 141,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 181,
+      "title": "Daily maintenance report 2026-10-20",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/181",
+      "updated_at": "2026-10-20T11:59:28Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
     {
       "repo": "harper",
       "number": 934,
@@ -225,20 +234,20 @@
       "updated_at": "2026-10-19T09:08:14Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 194,
-      "title": "deps-dev(deps-dev): bump webmock from 3.26.2 to 3.34.0",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/194",
-      "updated_at": "2026-10-19T09:06:33Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
   "total_count": 25,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-20T11:59:19Z",
+      "user": "bniladridas",
+      "comments": 129
+    },
     {
       "repo": "swe-agent",
       "number": 2,
@@ -256,15 +265,6 @@
       "updated_at": "2026-10-19T23:35:55Z",
       "user": "bniladridas",
       "comments": 33
-    },
-    {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-19T15:03:13Z",
-      "user": "bniladridas",
-      "comments": 128
     },
     {
       "repo": "agentware",
