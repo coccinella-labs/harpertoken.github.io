@@ -1,5 +1,19 @@
 {"repos": [
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "mole",
+    "html_url": "https://github.com/coccinella-labs/mole",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -7,9 +21,16 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -28,13 +49,6 @@
     "forks_count": 1
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
@@ -45,13 +59,6 @@
     "name": "clabot",
     "html_url": "https://github.com/coccinella-labs/clabot",
     "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -87,13 +94,6 @@
     "name": "rules",
     "html_url": "https://github.com/coccinella-labs/rules",
     "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "mole",
-    "html_url": "https://github.com/coccinella-labs/mole",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,57 +146,57 @@
   "total_count": 145,
   "items": [
     {
+      "repo": "agentware",
+      "number": 210,
+      "title": "docs: per-run observation budget removed",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/210",
+      "updated_at": "2026-10-21T11:58:04Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 209,
+      "title": "test: ToolRegistry unit tests",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/209",
+      "updated_at": "2026-10-21T11:57:33Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 208,
+      "title": "ci: wire golden suites (routing + tool-loop) into Linux/macOS tests",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/208",
+      "updated_at": "2026-10-21T11:49:34Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 206,
+      "title": "Daily maintenance report 2026-10-21",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/206",
+      "updated_at": "2026-10-21T11:27:32Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "mole",
+      "number": 127,
+      "title": "build(deps): bump follow-redirects from 1.16.0 to 1.16.1 in /frontend in the npm_and_yarn group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/127",
+      "updated_at": "2026-10-21T11:24:50Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
       "repo": "harper",
       "number": 934,
       "title": "[deps] bump the cargo-minor-patch group across 1 directory with 7 updates",
       "html_url": "https://github.com/coccinella-labs/harper/pull/934",
       "updated_at": "2026-10-21T05:55:39Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 205,
-      "title": "feat: canonical tool-call parse shared by dispatch and every refusal check",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/205",
-      "updated_at": "2026-10-21T03:22:54Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 204,
-      "title": "fix: tool-call recognition and hermetic tool-loop golden harness",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/204",
-      "updated_at": "2026-10-21T01:18:22Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 202,
-      "title": "ci: wire golden suites (routing + tool-loop) into Linux/macOS tests",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/202",
-      "updated_at": "2026-10-20T23:57:45Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 203,
-      "title": "docs: per-run observation budget removed",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/203",
-      "updated_at": "2026-10-20T23:28:58Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 200,
-      "title": "test: ToolRegistry unit tests",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/200",
-      "updated_at": "2026-10-20T23:05:00Z",
-      "user": "bniladridas",
       "comments": 0
     },
     {
@@ -244,18 +244,18 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-21T02:02:30Z",
+      "updated_at": "2026-10-21T12:18:15Z",
       "user": "bniladridas",
-      "comments": 172
+      "comments": 180
     },
     {
       "repo": "agentware",
       "number": 201,
       "title": "Audit: #195 (PR-3 seam) gaps vs #198 design note",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/201",
-      "updated_at": "2026-10-21T01:15:46Z",
+      "updated_at": "2026-10-21T11:09:50Z",
       "user": "bniladridas",
-      "comments": 2
+      "comments": 3
     },
     {
       "repo": "agentware",
