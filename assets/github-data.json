@@ -1,8 +1,22 @@
 {"repos": [
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "agentware",
     "html_url": "https://github.com/coccinella-labs/agentware",
     "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -14,23 +28,9 @@
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,33 +143,15 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 145,
+  "total_count": 142,
   "items": [
     {
       "repo": "agentware",
-      "number": 210,
-      "title": "docs: per-run observation budget removed",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/210",
-      "updated_at": "2026-10-21T11:58:04Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 209,
-      "title": "test: ToolRegistry unit tests",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/209",
-      "updated_at": "2026-10-21T11:57:33Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 208,
-      "title": "ci: wire golden suites (routing + tool-loop) into Linux/macOS tests",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/208",
-      "updated_at": "2026-10-21T11:49:34Z",
-      "user": "bniladridas",
+      "number": 165,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/165",
+      "updated_at": "2026-10-21T13:50:33Z",
+      "user": "github-actions[bot]",
       "comments": 0
     },
     {
@@ -234,6 +216,24 @@
       "updated_at": "2026-10-19T09:08:02Z",
       "user": "dependabot[bot]",
       "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-10-19T09:06:45Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 103,
+      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
+      "updated_at": "2026-10-19T09:07:36Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-21T12:18:15Z",
+      "updated_at": "2026-10-21T15:06:47Z",
       "user": "bniladridas",
-      "comments": 180
+      "comments": 191
     },
     {
       "repo": "agentware",
