@@ -1,15 +1,15 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,15 +143,69 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 142,
+  "total_count": 148,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 226,
+      "title": "test: make the remediation probes usable and run them in CI",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/226",
+      "updated_at": "2026-10-21T22:03:24Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 225,
+      "title": "test: assert the help, version and write/read behavior of the binary",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/225",
+      "updated_at": "2026-10-21T21:59:00Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 223,
+      "title": "chore: make preflight a local developer check",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/223",
+      "updated_at": "2026-10-21T21:57:23Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 165,
       "title": "chore: bump version to 0.1.8",
       "html_url": "https://github.com/coccinella-labs/agentware/pull/165",
-      "updated_at": "2026-10-21T13:50:33Z",
+      "updated_at": "2026-10-21T21:48:23Z",
       "user": "github-actions[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 215,
+      "title": "test: harden the tool-loop golden harness for the macOS runner",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/215",
+      "updated_at": "2026-10-21T21:48:20Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "agentware",
+      "number": 221,
+      "title": "ci: add per-job timeouts and a pull-request concurrency group",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/221",
+      "updated_at": "2026-10-21T21:48:17Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 222,
+      "title": "ci: stop running preflight inside the build jobs",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/222",
+      "updated_at": "2026-10-21T21:48:14Z",
+      "user": "bniladridas",
       "comments": 0
     },
     {
@@ -180,89 +234,44 @@
       "updated_at": "2026-10-21T05:55:39Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vertex",
-      "number": 5,
-      "title": "build(deps-dev): bump brace-expansion from 1.1.18 to 1.1.21 in the npm_and_yarn group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/vertex/pull/5",
-      "updated_at": "2026-10-19T20:36:09Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 191,
-      "title": "chore: update dependencies",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
-      "updated_at": "2026-10-19T16:13:29Z",
-      "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 188,
-      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
-      "updated_at": "2026-10-19T10:06:23Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-10-19T09:08:02Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-10-19T09:06:45Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-10-19T09:07:36Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 28,
+  "total_count": 33,
   "items": [
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-21T15:06:47Z",
+      "updated_at": "2026-10-21T22:03:15Z",
       "user": "bniladridas",
-      "comments": 191
-    },
-    {
-      "repo": "agentware",
-      "number": 201,
-      "title": "Audit: #195 (PR-3 seam) gaps vs #198 design note",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/201",
-      "updated_at": "2026-10-21T11:09:50Z",
-      "user": "bniladridas",
-      "comments": 3
+      "comments": 204
     },
     {
       "repo": "agentware",
       "number": 188,
-      "title": "boot prompts: EOF handling is inconsistent (clean exit vs. re-ask/invalid choice depending on timing)",
+      "title": "boot prompts: EOF handling is inconsistent (silent default, warning, or hang depending on timing)",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/188",
-      "updated_at": "2026-10-20T22:48:50Z",
+      "updated_at": "2026-10-21T21:44:01Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 175,
+      "title": "Maintenance report: the trailing-newline fix landed, but no test catches a regression",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/175",
+      "updated_at": "2026-10-21T21:44:00Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "agentware",
+      "number": 219,
+      "title": "tool loop: a refusal can reach the user as the turn's answer",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/219",
+      "updated_at": "2026-10-21T21:43:58Z",
       "user": "bniladridas",
       "comments": 0
     },
@@ -271,63 +280,54 @@
       "number": 187,
       "title": "input: up-arrow history recall does not work in the default (non-modal) input path",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/187",
-      "updated_at": "2026-10-20T22:48:48Z",
+      "updated_at": "2026-10-21T21:43:51Z",
       "user": "bniladridas",
       "comments": 0
-    },
-    {
-      "repo": "swe-agent",
-      "number": 2,
-      "title": "half() in tests/test_seed_bug.py is off by one",
-      "html_url": "https://github.com/coccinella-labs/swe-agent/issues/2",
-      "updated_at": "2026-10-20T02:55:07Z",
-      "user": "bniladridas",
-      "comments": 6
-    },
-    {
-      "repo": "dotfiles",
-      "number": 5,
-      "title": "Tracking",
-      "html_url": "https://github.com/coccinella-labs/dotfiles/issues/5",
-      "updated_at": "2026-10-19T23:35:55Z",
-      "user": "bniladridas",
-      "comments": 33
     },
     {
       "repo": "agentware",
-      "number": 175,
-      "title": "Maintenance reports are generated with a doubled trailing newline, and nothing catches it",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/175",
-      "updated_at": "2026-10-19T14:52:53Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "mole",
-      "number": 95,
-      "title": "num_mutations has no upper bound, so total request cost is unbounded",
-      "html_url": "https://github.com/coccinella-labs/mole/issues/95",
-      "updated_at": "2026-10-18T14:50:52Z",
-      "user": "bniladridas",
-      "comments": 5
-    },
-    {
-      "repo": "gpucomm-fs",
-      "number": 5,
-      "title": "Filesystem layer: read-only FUSE mount (optional)",
-      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/5",
-      "updated_at": "2026-10-13T15:49:49Z",
+      "number": 220,
+      "title": "tool loop: no real-model coverage of the consent and denylist paths",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/220",
+      "updated_at": "2026-10-21T21:43:47Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "gpucomm-fs",
-      "number": 4,
-      "title": "Sharing and transport: pack/unpack or push/pull",
-      "html_url": "https://github.com/coccinella-labs/gpucomm-fs/issues/4",
-      "updated_at": "2026-10-13T15:49:48Z",
+      "repo": "agentware",
+      "number": 218,
+      "title": "tool loop: a network timeout is a terminal answer instead of a recoverable error",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/218",
+      "updated_at": "2026-10-21T21:43:44Z",
       "user": "bniladridas",
       "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 217,
+      "title": "tool loop: the model can fabricate an observation in prose",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/217",
+      "updated_at": "2026-10-21T21:43:42Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 216,
+      "title": "tool loop: the model can claim an action it never performed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/216",
+      "updated_at": "2026-10-21T21:43:40Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 201,
+      "title": "Audit: #195 (PR-3 seam) gaps vs #198 design note",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/201",
+      "updated_at": "2026-10-21T21:38:48Z",
+      "user": "bniladridas",
+      "comments": 3
     }
   ]
 }}
