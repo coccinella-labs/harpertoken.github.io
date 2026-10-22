@@ -1,12 +1,5 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -14,16 +7,23 @@
     "forks_count": 0
   },
   {
-    "name": "clipb",
-    "html_url": "https://github.com/coccinella-labs/clipb",
-    "language": "Rust",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "clipb",
+    "html_url": "https://github.com/coccinella-labs/clipb",
+    "language": "Rust",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -237,23 +237,32 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 38,
+  "total_count": 37,
   "items": [
-    {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-22T18:13:15Z",
-      "user": "bniladridas",
-      "comments": 231
-    },
     {
       "repo": "agentware",
       "number": 29,
       "title": "e2e: the four skipped test categories were never re-enabled",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/29",
-      "updated_at": "2026-10-22T17:48:39Z",
+      "updated_at": "2026-10-22T18:27:48Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-22T18:25:28Z",
+      "user": "bniladridas",
+      "comments": 232
+    },
+    {
+      "repo": "agentware",
+      "number": 231,
+      "title": "grep: is always case-insensitive, and there is no way to ask for a case-sensitive search",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/231",
+      "updated_at": "2026-10-22T18:25:14Z",
       "user": "bniladridas",
       "comments": 0
     },
@@ -263,15 +272,6 @@
       "title": "make test-e2e is broken: the expect script needs BINARY_PATH and the target does not set it",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/232",
       "updated_at": "2026-10-22T01:02:49Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 228,
-      "title": "The native search fallback silently finds nothing for a pattern std::regex rejects",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/228",
-      "updated_at": "2026-10-22T01:01:11Z",
       "user": "bniladridas",
       "comments": 0
     },
@@ -290,15 +290,6 @@
       "title": "tool loop: a network timeout is a terminal answer instead of a recoverable error",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/218",
       "updated_at": "2026-10-22T01:00:03Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 231,
-      "title": "grep: is always case-insensitive, and there is no way to ask for a case-sensitive search",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/231",
-      "updated_at": "2026-10-22T00:54:24Z",
       "user": "bniladridas",
       "comments": 0
     },
@@ -326,6 +317,15 @@
       "title": "boot prompts: EOF handling is inconsistent (silent default, warning, or hang depending on timing)",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/188",
       "updated_at": "2026-10-21T21:44:01Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 219,
+      "title": "tool loop: a refusal can reach the user as the turn's answer",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/219",
+      "updated_at": "2026-10-21T21:43:58Z",
       "user": "bniladridas",
       "comments": 0
     }
