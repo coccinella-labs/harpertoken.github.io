@@ -1,8 +1,29 @@
 {"repos": [
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -21,20 +42,6 @@
     "forks_count": 1
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
@@ -45,13 +52,6 @@
     "name": "mole",
     "html_url": "https://github.com/coccinella-labs/mole",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,17 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 150,
+  "total_count": 141,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 165,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/165",
+      "updated_at": "2026-10-22T12:53:38Z",
+      "user": "github-actions[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 934,
@@ -155,90 +164,90 @@
       "comments": 0
     },
     {
-      "repo": "agentware",
-      "number": 230,
-      "title": "fix: an invalid search pattern is an error, not an empty result",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/230",
-      "updated_at": "2026-10-22T01:22:03Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 225,
-      "title": "test: assert the help, version and write/read behavior of the binary",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/225",
-      "updated_at": "2026-10-22T01:16:27Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 215,
-      "title": "test: harden the tool-loop golden harness for the macOS runner",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/215",
-      "updated_at": "2026-10-22T00:52:06Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 229,
-      "title": "ci: stop a stale third-party apt source from failing the jobs",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/229",
-      "updated_at": "2026-10-22T00:26:16Z",
-      "user": "bniladridas",
+      "repo": "mole",
+      "number": 127,
+      "title": "build(deps): bump follow-redirects from 1.16.0 to 1.16.1 in /frontend in the npm_and_yarn group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/127",
+      "updated_at": "2026-10-21T11:24:50Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "agentware",
-      "number": 223,
-      "title": "chore: make preflight a local developer check",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/223",
-      "updated_at": "2026-10-21T22:51:33Z",
-      "user": "bniladridas",
+      "repo": "vertex",
+      "number": 5,
+      "title": "build(deps-dev): bump brace-expansion from 1.1.18 to 1.1.21 in the npm_and_yarn group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/vertex/pull/5",
+      "updated_at": "2026-10-19T20:36:09Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "agentware",
-      "number": 226,
-      "title": "test: make the remediation probes usable and run them in CI",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/226",
-      "updated_at": "2026-10-21T22:03:24Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 165,
-      "title": "chore: bump version to 0.1.8",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/165",
-      "updated_at": "2026-10-21T21:48:23Z",
+      "repo": "vesper",
+      "number": 191,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/191",
+      "updated_at": "2026-10-19T16:13:29Z",
       "user": "github-actions[bot]",
       "comments": 0
     },
     {
-      "repo": "agentware",
-      "number": 221,
-      "title": "ci: add per-job timeouts and a pull-request concurrency group",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/221",
-      "updated_at": "2026-10-21T21:48:17Z",
-      "user": "bniladridas",
+      "repo": "vesper",
+      "number": 188,
+      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
+      "updated_at": "2026-10-19T10:06:23Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 138,
+      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
+      "updated_at": "2026-10-19T09:08:02Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
-      "repo": "agentware",
-      "number": 222,
-      "title": "ci: stop running preflight inside the build jobs",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/222",
-      "updated_at": "2026-10-21T21:48:14Z",
-      "user": "bniladridas",
-      "comments": 0
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-10-19T09:06:45Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 103,
+      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
+      "updated_at": "2026-10-19T09:07:36Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 121,
+      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
+      "updated_at": "2026-10-19T09:08:06Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
   "total_count": 41,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-22T13:24:41Z",
+      "user": "bniladridas",
+      "comments": 221
+    },
     {
       "repo": "agentware",
       "number": 235,
@@ -283,15 +292,6 @@
       "updated_at": "2026-10-22T01:02:49Z",
       "user": "bniladridas",
       "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-22T01:01:49Z",
-      "user": "bniladridas",
-      "comments": 211
     },
     {
       "repo": "agentware",
