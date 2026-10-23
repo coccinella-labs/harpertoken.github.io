@@ -7,9 +7,23 @@
     "forks_count": 0
   },
   {
+    "name": "xoi",
+    "html_url": "https://github.com/coccinella-labs/xoi",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -38,13 +52,6 @@
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,20 +138,22 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "weight",
-    "html_url": "https://github.com/coccinella-labs/weight",
-    "language": "Dart",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 142,
+  "total_count": 143,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 251,
+      "title": "feat: validate the opt-in xoi Ollama adapter",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/251",
+      "updated_at": "2026-10-23T23:24:23Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 935,
@@ -225,15 +234,6 @@
       "updated_at": "2026-10-19T09:06:45Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-10-19T09:07:36Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-23T20:56:20Z",
+      "updated_at": "2026-10-23T21:50:47Z",
       "user": "bniladridas",
-      "comments": 258
+      "comments": 259
     },
     {
       "repo": "agentware",
