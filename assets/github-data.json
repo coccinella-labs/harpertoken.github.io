@@ -1,15 +1,15 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,17 +143,8 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 144,
+  "total_count": 142,
   "items": [
-    {
-      "repo": "agentware",
-      "number": 246,
-      "title": "agent loop: label tool observations with result framing",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/246",
-      "updated_at": "2026-10-23T07:10:35Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
     {
       "repo": "harper",
       "number": 935,
@@ -161,15 +152,6 @@
       "html_url": "https://github.com/coccinella-labs/harper/pull/935",
       "updated_at": "2026-10-23T05:56:52Z",
       "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 243,
-      "title": "test: the maintenance report generator's shape has a regression test",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/243",
-      "updated_at": "2026-10-23T02:25:33Z",
-      "user": "bniladridas",
       "comments": 0
     },
     {
@@ -234,19 +216,37 @@
       "updated_at": "2026-10-19T09:08:02Z",
       "user": "dependabot[bot]",
       "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-10-19T09:06:45Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 103,
+      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
+      "updated_at": "2026-10-19T09:07:36Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 33,
+  "total_count": 32,
   "items": [
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-23T14:07:51Z",
+      "updated_at": "2026-10-23T20:56:20Z",
       "user": "bniladridas",
-      "comments": 249
+      "comments": 258
     },
     {
       "repo": "agentware",
@@ -286,15 +286,6 @@
     },
     {
       "repo": "agentware",
-      "number": 175,
-      "title": "Maintenance report: the trailing-newline fix landed, but no test catches a regression",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/175",
-      "updated_at": "2026-10-22T00:21:58Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
       "number": 220,
       "title": "tool loop: no real-model coverage of the consent and denylist paths",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/220",
@@ -328,6 +319,15 @@
       "updated_at": "2026-10-21T21:43:42Z",
       "user": "bniladridas",
       "comments": 0
+    },
+    {
+      "repo": "swe-agent",
+      "number": 2,
+      "title": "half() in tests/test_seed_bug.py is off by one",
+      "html_url": "https://github.com/coccinella-labs/swe-agent/issues/2",
+      "updated_at": "2026-10-20T02:55:07Z",
+      "user": "bniladridas",
+      "comments": 6
     }
   ]
 }}
