@@ -7,13 +7,6 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -21,9 +14,9 @@
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -31,6 +24,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -45,13 +52,6 @@
     "name": "clipb",
     "html_url": "https://github.com/coccinella-labs/clipb",
     "language": "Rust",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -147,21 +147,21 @@
   "items": [
     {
       "repo": "agentware",
-      "number": 246,
-      "title": "agent loop: label tool observations with result framing",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/246",
-      "updated_at": "2026-10-23T06:54:30Z",
-      "user": "bniladridas",
-      "comments": 0
+      "number": 247,
+      "title": "Daily maintenance report 2026-10-23",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/247",
+      "updated_at": "2026-10-23T11:17:58Z",
+      "user": "github-actions[bot]",
+      "comments": 1
     },
     {
       "repo": "agentware",
-      "number": 245,
-      "title": "tool loop: bound retries and recover model timeouts",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/245",
-      "updated_at": "2026-10-23T06:52:19Z",
+      "number": 246,
+      "title": "agent loop: label tool observations with result framing",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/246",
+      "updated_at": "2026-10-23T07:10:35Z",
       "user": "bniladridas",
-      "comments": 3
+      "comments": 0
     },
     {
       "repo": "harper",
@@ -237,25 +237,25 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 36,
+  "total_count": 33,
   "items": [
-    {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-23T06:44:14Z",
-      "user": "bniladridas",
-      "comments": 242
-    },
     {
       "repo": "agentware",
       "number": 201,
       "title": "Audit: #195 (PR-3 seam) gaps vs #198 design note",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/201",
-      "updated_at": "2026-10-23T06:43:25Z",
+      "updated_at": "2026-10-23T07:22:34Z",
       "user": "bniladridas",
-      "comments": 5
+      "comments": 6
+    },
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-23T07:06:25Z",
+      "user": "bniladridas",
+      "comments": 247
     },
     {
       "repo": "agentware",
@@ -281,15 +281,6 @@
       "title": "No non-interactive startup: scripted runs have to feed the mode and model prompts",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/227",
       "updated_at": "2026-10-22T01:00:51Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 218,
-      "title": "tool loop: a network timeout is a terminal answer instead of a recoverable error",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/218",
-      "updated_at": "2026-10-22T01:00:03Z",
       "user": "bniladridas",
       "comments": 0
     },
@@ -322,10 +313,19 @@
     },
     {
       "repo": "agentware",
-      "number": 219,
-      "title": "tool loop: a refusal can reach the user as the turn's answer",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/219",
-      "updated_at": "2026-10-21T21:43:58Z",
+      "number": 187,
+      "title": "input: up-arrow history recall does not work in the default (non-modal) input path",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/187",
+      "updated_at": "2026-10-21T21:43:51Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 217,
+      "title": "tool loop: the model can fabricate an observation in prose",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/217",
+      "updated_at": "2026-10-21T21:43:42Z",
       "user": "bniladridas",
       "comments": 0
     }
