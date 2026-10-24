@@ -1,15 +1,22 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "xoi",
+    "html_url": "https://github.com/coccinella-labs/xoi",
     "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -45,13 +52,6 @@
     "name": "rl",
     "html_url": "https://github.com/coccinella-labs/rl",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "xoi",
-    "html_url": "https://github.com/coccinella-labs/xoi",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,13 +146,13 @@
   "total_count": 144,
   "items": [
     {
-      "repo": "agentware",
-      "number": 252,
-      "title": "Daily maintenance report 2026-10-24",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/252",
-      "updated_at": "2026-10-24T10:36:09Z",
-      "user": "github-actions[bot]",
-      "comments": 1
+      "repo": "xoi",
+      "number": 70,
+      "title": "Make agent cancellation resumable (#69)",
+      "html_url": "https://github.com/coccinella-labs/xoi/pull/70",
+      "updated_at": "2026-10-24T16:58:30Z",
+      "user": "bniladridas",
+      "comments": 0
     },
     {
       "repo": "rl",
@@ -237,16 +237,34 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 32,
+  "total_count": 34,
   "items": [
+    {
+      "repo": "xoi",
+      "number": 69,
+      "title": "Return resumable conversation history when agent runs are cancelled",
+      "html_url": "https://github.com/coccinella-labs/xoi/issues/69",
+      "updated_at": "2026-10-24T16:52:31Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "xoi",
+      "number": 68,
+      "title": "Interrupt retry backoff when a request is cancelled",
+      "html_url": "https://github.com/coccinella-labs/xoi/issues/68",
+      "updated_at": "2026-10-24T16:51:50Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-24T00:03:39Z",
+      "updated_at": "2026-10-24T15:17:25Z",
       "user": "bniladridas",
-      "comments": 260
+      "comments": 262
     },
     {
       "repo": "agentware",
@@ -310,24 +328,6 @@
       "updated_at": "2026-10-21T21:43:51Z",
       "user": "bniladridas",
       "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 217,
-      "title": "tool loop: the model can fabricate an observation in prose",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/217",
-      "updated_at": "2026-10-21T21:43:42Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "swe-agent",
-      "number": 2,
-      "title": "half() in tests/test_seed_bug.py is off by one",
-      "html_url": "https://github.com/coccinella-labs/swe-agent/issues/2",
-      "updated_at": "2026-10-20T02:55:07Z",
-      "user": "bniladridas",
-      "comments": 6
     }
   ]
 }}
