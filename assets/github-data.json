@@ -7,15 +7,15 @@
     "forks_count": 0
   },
   {
-    "name": "xoi",
-    "html_url": "https://github.com/coccinella-labs/xoi",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
     "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
+    "name": "xoi",
+    "html_url": "https://github.com/coccinella-labs/xoi",
     "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
@@ -143,17 +143,8 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 144,
+  "total_count": 143,
   "items": [
-    {
-      "repo": "xoi",
-      "number": 70,
-      "title": "Make agent cancellation resumable (#69)",
-      "html_url": "https://github.com/coccinella-labs/xoi/pull/70",
-      "updated_at": "2026-10-24T16:58:30Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
     {
       "repo": "rl",
       "number": 4,
@@ -234,28 +225,28 @@
       "updated_at": "2026-10-19T09:08:02Z",
       "user": "dependabot[bot]",
       "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-10-19T09:06:45Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 34,
+  "total_count": 32,
   "items": [
     {
-      "repo": "xoi",
-      "number": 69,
-      "title": "Return resumable conversation history when agent runs are cancelled",
-      "html_url": "https://github.com/coccinella-labs/xoi/issues/69",
-      "updated_at": "2026-10-24T16:52:31Z",
+      "repo": "agentware",
+      "number": 231,
+      "title": "grep: is always case-insensitive, and there is no way to ask for a case-sensitive search",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/231",
+      "updated_at": "2026-10-24T18:35:22Z",
       "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "xoi",
-      "number": 68,
-      "title": "Interrupt retry backoff when a request is cancelled",
-      "html_url": "https://github.com/coccinella-labs/xoi/issues/68",
-      "updated_at": "2026-10-24T16:51:50Z",
-      "user": "bniladridas",
-      "comments": 0
+      "comments": 1
     },
     {
       "repo": "agentware",
@@ -274,15 +265,6 @@
       "updated_at": "2026-10-23T07:22:34Z",
       "user": "bniladridas",
       "comments": 6
-    },
-    {
-      "repo": "agentware",
-      "number": 231,
-      "title": "grep: is always case-insensitive, and there is no way to ask for a case-sensitive search",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/231",
-      "updated_at": "2026-10-23T03:10:45Z",
-      "user": "bniladridas",
-      "comments": 0
     },
     {
       "repo": "agentware",
@@ -328,6 +310,24 @@
       "updated_at": "2026-10-21T21:43:51Z",
       "user": "bniladridas",
       "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 217,
+      "title": "tool loop: the model can fabricate an observation in prose",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/217",
+      "updated_at": "2026-10-21T21:43:42Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "swe-agent",
+      "number": 2,
+      "title": "half() in tests/test_seed_bug.py is off by one",
+      "html_url": "https://github.com/coccinella-labs/swe-agent/issues/2",
+      "updated_at": "2026-10-20T02:55:07Z",
+      "user": "bniladridas",
+      "comments": 6
     }
   ]
 }}
