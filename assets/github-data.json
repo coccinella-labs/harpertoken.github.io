@@ -1,8 +1,8 @@
 {"repos": [
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -17,6 +17,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -38,13 +45,6 @@
     "name": "rl",
     "html_url": "https://github.com/coccinella-labs/rl",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,17 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 143,
+  "total_count": 144,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 252,
+      "title": "Daily maintenance report 2026-10-24",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/252",
+      "updated_at": "2026-10-24T10:36:09Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
     {
       "repo": "rl",
       "number": 4,
@@ -225,15 +234,6 @@
       "updated_at": "2026-10-19T09:08:02Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-10-19T09:06:45Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
