@@ -14,16 +14,16 @@
     "forks_count": 0
   },
   {
-    "name": "mlapi",
-    "html_url": "https://github.com/coccinella-labs/mlapi",
-    "language": "Python",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -147,12 +147,12 @@
   "items": [
     {
       "repo": "agentware",
-      "number": 254,
-      "title": "Daily maintenance report 2026-10-25",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/254",
-      "updated_at": "2026-10-25T11:02:13Z",
+      "number": 255,
+      "title": "chore: bump version to 0.1.9",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/255",
+      "updated_at": "2026-10-25T15:24:09Z",
       "user": "github-actions[bot]",
-      "comments": 1
+      "comments": 0
     },
     {
       "repo": "mlapi",
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-24T23:45:53Z",
+      "updated_at": "2026-10-25T15:24:04Z",
       "user": "bniladridas",
-      "comments": 265
+      "comments": 267
     },
     {
       "repo": "agentware",
