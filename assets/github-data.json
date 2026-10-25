@@ -7,9 +7,16 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -17,6 +24,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -40,20 +54,6 @@
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "rl",
@@ -146,6 +146,24 @@
   "total_count": 142,
   "items": [
     {
+      "repo": "harper",
+      "number": 929,
+      "title": "[chore] update rust lockfiles",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/929",
+      "updated_at": "2026-10-25T03:06:37Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 2
+    },
+    {
+      "repo": "organictyping",
+      "number": 103,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
+      "updated_at": "2026-10-25T02:34:44Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
       "repo": "rl",
       "number": 4,
       "title": "chore(deps): bump certifi from 2026.7.22 to 2026.10.19 in the uv group across 1 directory",
@@ -216,24 +234,6 @@
       "updated_at": "2026-10-19T09:08:02Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-10-19T09:06:45Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-10-19T09:07:36Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
