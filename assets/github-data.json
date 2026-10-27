@@ -1,5 +1,12 @@
 {"repos": [
   {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -7,16 +14,16 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -47,13 +54,6 @@
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   },
   {
     "name": "scout",
@@ -237,16 +237,34 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 32,
+  "total_count": 34,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 264,
+      "title": "boot and CLI surface: argument parsing, prompt-free startup, and consistent EOF",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/264",
+      "updated_at": "2026-10-27T22:27:17Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-27T18:02:19Z",
+      "updated_at": "2026-10-27T22:09:59Z",
       "user": "bniladridas",
-      "comments": 283
+      "comments": 285
+    },
+    {
+      "repo": "agentware",
+      "number": 265,
+      "title": "interactive input history (Up/Down recall) at the chat prompt",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/265",
+      "updated_at": "2026-10-27T22:09:51Z",
+      "user": "bniladridas",
+      "comments": 0
     },
     {
       "repo": "harper",
@@ -308,24 +326,6 @@
       "title": "No non-interactive startup: scripted runs have to feed the mode and model prompts",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/227",
       "updated_at": "2026-10-22T01:00:51Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 220,
-      "title": "tool loop: no real-model coverage of the consent and denylist paths",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/220",
-      "updated_at": "2026-10-22T00:21:56Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 188,
-      "title": "boot prompts: EOF handling is inconsistent (silent default, warning, or hang depending on timing)",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/188",
-      "updated_at": "2026-10-21T21:44:01Z",
       "user": "bniladridas",
       "comments": 0
     }
