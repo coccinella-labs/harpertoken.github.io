@@ -14,16 +14,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,16 +143,16 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 145,
+  "total_count": 144,
   "items": [
     {
       "repo": "agentware",
-      "number": 257,
-      "title": "Daily maintenance report 2026-10-27",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/257",
-      "updated_at": "2026-10-27T11:52:21Z",
+      "number": 255,
+      "title": "chore: bump version to 0.1.9",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/255",
+      "updated_at": "2026-10-27T16:28:22Z",
       "user": "github-actions[bot]",
-      "comments": 1
+      "comments": 0
     },
     {
       "repo": "harper",
@@ -240,6 +240,15 @@
   "total_count": 32,
   "items": [
     {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-27T18:02:19Z",
+      "user": "bniladridas",
+      "comments": 283
+    },
+    {
       "repo": "harper",
       "number": 924,
       "title": "Cancellation can be lost when a new command is queued within one poll cycle of Ctrl+C",
@@ -265,15 +274,6 @@
       "updated_at": "2026-10-27T03:26:32Z",
       "user": "bniladridas",
       "comments": 3
-    },
-    {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-27T02:49:05Z",
-      "user": "bniladridas",
-      "comments": 269
     },
     {
       "repo": "agentware",
