@@ -1,12 +1,5 @@
 {"repos": [
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -14,9 +7,37 @@
     "forks_count": 0
   },
   {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "browser",
+    "html_url": "https://github.com/coccinella-labs/browser",
+    "language": "Dart",
+    "stargazers_count": 3,
+    "forks_count": 1
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -47,20 +68,6 @@
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "mlapi",
@@ -131,13 +138,6 @@
     "language": null,
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "ai",
-    "html_url": "https://github.com/coccinella-labs/ai",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.0",
@@ -145,6 +145,15 @@
 }, "open_prs": {
   "total_count": 144,
   "items": [
+    {
+      "repo": "harper",
+      "number": 935,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/935",
+      "updated_at": "2026-10-27T05:56:57Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "vesper",
       "number": 191,
@@ -225,26 +234,44 @@
       "updated_at": "2026-10-26T09:08:19Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 935,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/935",
-      "updated_at": "2026-10-26T06:05:39Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
   "total_count": 32,
   "items": [
     {
+      "repo": "harper",
+      "number": 924,
+      "title": "Cancellation can be lost when a new command is queued within one poll cycle of Ctrl+C",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/924",
+      "updated_at": "2026-10-27T03:30:55Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
+      "number": 345,
+      "title": "Tracked roadmap",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/345",
+      "updated_at": "2026-10-27T03:28:45Z",
+      "user": "bniladridas",
+      "comments": 3
+    },
+    {
+      "repo": "harper",
+      "number": 907,
+      "title": "read_file resolves relative paths against the process working directory",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/907",
+      "updated_at": "2026-10-27T03:26:32Z",
+      "user": "bniladridas",
+      "comments": 3
+    },
+    {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-26T14:27:46Z",
+      "updated_at": "2026-10-27T02:49:05Z",
       "user": "bniladridas",
       "comments": 269
     },
@@ -301,33 +328,6 @@
       "updated_at": "2026-10-21T21:44:01Z",
       "user": "bniladridas",
       "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 187,
-      "title": "input: up-arrow history recall does not work in the default (non-modal) input path",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/187",
-      "updated_at": "2026-10-21T21:43:51Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 217,
-      "title": "tool loop: the model can fabricate an observation in prose",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/217",
-      "updated_at": "2026-10-21T21:43:42Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "swe-agent",
-      "number": 2,
-      "title": "half() in tests/test_seed_bug.py is off by one",
-      "html_url": "https://github.com/coccinella-labs/swe-agent/issues/2",
-      "updated_at": "2026-10-20T02:55:07Z",
-      "user": "bniladridas",
-      "comments": 6
     }
   ]
 }}
