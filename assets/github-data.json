@@ -14,16 +14,16 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -150,7 +150,7 @@
       "number": 942,
       "title": "[chore] enable merge queue and consolidate workflow docs",
       "html_url": "https://github.com/coccinella-labs/harper/pull/942",
-      "updated_at": "2026-10-28T16:06:04Z",
+      "updated_at": "2026-10-28T20:28:12Z",
       "user": "bniladridas",
       "comments": 0
     },
