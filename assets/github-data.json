@@ -1,5 +1,26 @@
 {"repos": [
   {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
@@ -14,23 +35,9 @@
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "rules",
     "html_url": "https://github.com/coccinella-labs/rules",
     "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -45,13 +52,6 @@
     "name": "agentware",
     "html_url": "https://github.com/coccinella-labs/agentware",
     "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -147,6 +147,15 @@
   "items": [
     {
       "repo": "harper",
+      "number": 935,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/935",
+      "updated_at": "2026-10-28T05:56:41Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
       "number": 945,
       "title": "[fix] replace stale version in website/health docs with placeholder",
       "html_url": "https://github.com/coccinella-labs/harper/pull/945",
@@ -197,15 +206,6 @@
       "html_url": "https://github.com/coccinella-labs/agentware/pull/255",
       "updated_at": "2026-10-27T16:28:22Z",
       "user": "github-actions[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 935,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/935",
-      "updated_at": "2026-10-27T05:56:57Z",
-      "user": "dependabot[bot]",
       "comments": 0
     },
     {
