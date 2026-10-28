@@ -1,15 +1,22 @@
 {"repos": [
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -21,11 +28,11 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "bot",
@@ -45,13 +52,6 @@
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,15 +143,15 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 149,
+  "total_count": 150,
   "items": [
     {
       "repo": "harper",
-      "number": 935,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/935",
-      "updated_at": "2026-10-28T05:56:41Z",
-      "user": "dependabot[bot]",
+      "number": 942,
+      "title": "[chore] enable merge queue and consolidate workflow docs",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/942",
+      "updated_at": "2026-10-28T16:06:04Z",
+      "user": "bniladridas",
       "comments": 0
     },
     {
@@ -159,7 +159,7 @@
       "number": 945,
       "title": "[fix] replace stale version in website/health docs with placeholder",
       "html_url": "https://github.com/coccinella-labs/harper/pull/945",
-      "updated_at": "2026-10-28T03:45:41Z",
+      "updated_at": "2026-10-28T15:49:02Z",
       "user": "bniladridas",
       "comments": 1
     },
@@ -168,17 +168,26 @@
       "number": 944,
       "title": "[fix] trigger homebrew tap update on release; remove stale in-repo formula",
       "html_url": "https://github.com/coccinella-labs/harper/pull/944",
-      "updated_at": "2026-10-28T03:45:29Z",
+      "updated_at": "2026-10-28T15:49:01Z",
       "user": "bniladridas",
       "comments": 1
     },
     {
+      "repo": "agentware",
+      "number": 266,
+      "title": "Daily maintenance report 2026-10-28",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/266",
+      "updated_at": "2026-10-28T12:26:37Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
       "repo": "harper",
-      "number": 942,
-      "title": "[chore] enable merge queue and consolidate workflow docs",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/942",
-      "updated_at": "2026-10-28T03:44:43Z",
-      "user": "bniladridas",
+      "number": 935,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/935",
+      "updated_at": "2026-10-28T05:56:41Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
@@ -225,20 +234,20 @@
       "updated_at": "2026-10-26T10:07:55Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-10-26T09:10:06Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
   "total_count": 39,
   "items": [
+    {
+      "repo": "harper",
+      "number": 943,
+      "title": "[chore] Enable merge queue and consolidate workflow docs",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/943",
+      "updated_at": "2026-10-28T16:02:33Z",
+      "user": "bniladridas",
+      "comments": 2
+    },
     {
       "repo": "harper",
       "number": 917,
@@ -256,15 +265,6 @@
       "updated_at": "2026-10-28T03:45:06Z",
       "user": "bniladridas",
       "comments": 2
-    },
-    {
-      "repo": "harper",
-      "number": 943,
-      "title": "[chore] Enable merge queue and consolidate workflow docs",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/943",
-      "updated_at": "2026-10-28T01:51:28Z",
-      "user": "bniladridas",
-      "comments": 1
     },
     {
       "repo": "harper",
