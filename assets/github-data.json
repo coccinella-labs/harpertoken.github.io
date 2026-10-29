@@ -7,20 +7,6 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
@@ -28,9 +14,23 @@
     "forks_count": 1
   },
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,25 +143,16 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 143,
+  "total_count": 141,
   "items": [
     {
-      "repo": "agentware",
-      "number": 267,
-      "title": "Daily maintenance report 2026-10-29",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/267",
-      "updated_at": "2026-10-29T12:35:42Z",
-      "user": "github-actions[bot]",
-      "comments": 1
-    },
-    {
       "repo": "harper",
-      "number": 950,
-      "title": "[fix] remove redundant 'harper' from ghcr image name",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/950",
-      "updated_at": "2026-10-29T08:48:19Z",
-      "user": "coccinella-admin",
-      "comments": 2
+      "number": 953,
+      "title": "[lib] release harper-workspace 0.25.2, harper-core 0.24.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/953",
+      "updated_at": "2026-10-29T18:58:37Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 1
     },
     {
       "repo": "harper",
@@ -171,15 +162,6 @@
       "updated_at": "2026-10-29T08:39:50Z",
       "user": "coccinella-labs-harper[bot]",
       "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 931,
-      "title": "[deps] bump zip from 8.6.0 to 9.1.2",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/931",
-      "updated_at": "2026-10-29T08:19:46Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     },
     {
       "repo": "agentware",
@@ -234,28 +216,46 @@
       "updated_at": "2026-10-26T09:09:43Z",
       "user": "dependabot[bot]",
       "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 138,
+      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
+      "updated_at": "2026-10-26T09:09:44Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-10-26T09:08:29Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 37,
+  "total_count": 36,
   "items": [
     {
       "repo": "harper",
       "number": 943,
       "title": "[chore] Enable merge queue and consolidate workflow docs",
       "html_url": "https://github.com/coccinella-labs/harper/issues/943",
-      "updated_at": "2026-10-29T06:08:58Z",
+      "updated_at": "2026-10-29T16:33:25Z",
       "user": "bniladridas",
-      "comments": 3
+      "comments": 4
     },
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-29T00:53:54Z",
+      "updated_at": "2026-10-29T15:42:57Z",
       "user": "bniladridas",
-      "comments": 287
+      "comments": 289
     },
     {
       "repo": "harper",
@@ -272,15 +272,6 @@
       "title": "[packaging] both Homebrew formula surfaces are behind; the served one is pinned to 0.20.1",
       "html_url": "https://github.com/coccinella-labs/harper/issues/917",
       "updated_at": "2026-10-28T03:47:45Z",
-      "user": "bniladridas",
-      "comments": 2
-    },
-    {
-      "repo": "harper",
-      "number": 914,
-      "title": "website/server.html /health example shows version 0.20.1 but harper-core is 0.23.0",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/914",
-      "updated_at": "2026-10-28T03:45:06Z",
       "user": "bniladridas",
       "comments": 2
     },
@@ -326,6 +317,15 @@
       "title": "boot and CLI surface: argument parsing, prompt-free startup, and consistent EOF",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/264",
       "updated_at": "2026-10-27T22:27:17Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 265,
+      "title": "interactive input history (Up/Down recall) at the chat prompt",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/265",
+      "updated_at": "2026-10-27T22:09:51Z",
       "user": "bniladridas",
       "comments": 0
     }
