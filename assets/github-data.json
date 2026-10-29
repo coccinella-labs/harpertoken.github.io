@@ -1,12 +1,5 @@
 {"repos": [
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -14,16 +7,37 @@
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -49,23 +63,9 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -140,18 +140,36 @@
     "forks_count": 0
   }
 ], "latest_release": {
-  "tag_name": "harper-0.24.0",
-  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
+  "tag_name": "harper-0.24.1",
+  "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 142,
+  "total_count": 143,
   "items": [
     {
+      "repo": "agentware",
+      "number": 267,
+      "title": "Daily maintenance report 2026-10-29",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/267",
+      "updated_at": "2026-10-29T12:35:42Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
       "repo": "harper",
-      "number": 945,
-      "title": "[fix] website/health docs version placeholder and ci paths for website",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/945",
-      "updated_at": "2026-10-29T08:04:26Z",
-      "user": "bniladridas",
+      "number": 950,
+      "title": "[fix] remove redundant 'harper' from ghcr image name",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/950",
+      "updated_at": "2026-10-29T08:48:19Z",
+      "user": "coccinella-admin",
+      "comments": 2
+    },
+    {
+      "repo": "harper",
+      "number": 949,
+      "title": "[lib] release harper-workspace 0.25.2, harper-core 0.24.2, harper-ui 0.22.6, harper-firmware 0.1.7, harper-mcp-server 0.1.10, harper-sandbox 0.3.6",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/949",
+      "updated_at": "2026-10-29T08:39:50Z",
+      "user": "coccinella-labs-harper[bot]",
       "comments": 1
     },
     {
@@ -159,18 +177,9 @@
       "number": 931,
       "title": "[deps] bump zip from 8.6.0 to 9.1.2",
       "html_url": "https://github.com/coccinella-labs/harper/pull/931",
-      "updated_at": "2026-10-29T08:03:39Z",
+      "updated_at": "2026-10-29T08:19:46Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 919,
-      "title": "[lib] release harper-workspace 0.25.1, harper-core 0.24.1, harper-ui 0.22.5, harper-firmware 0.1.6, harper-mcp-server 0.1.9, harper-sandbox 0.3.5",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/919",
-      "updated_at": "2026-10-29T06:52:27Z",
-      "user": "coccinella-labs-harper[bot]",
-      "comments": 1
     },
     {
       "repo": "agentware",
@@ -225,15 +234,6 @@
       "updated_at": "2026-10-26T09:09:43Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-10-26T09:09:44Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
