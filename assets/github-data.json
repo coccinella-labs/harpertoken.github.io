@@ -1,5 +1,33 @@
 {"repos": [
   {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "kilo-config",
     "html_url": "https://github.com/coccinella-labs/kilo-config",
     "language": "Shell",
@@ -12,13 +40,6 @@
     "language": "Shell",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "rules",
@@ -35,13 +56,6 @@
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
@@ -49,23 +63,9 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,34 +143,34 @@
   "tag_name": "harper-0.24.0",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.0"
 }, "open_prs": {
-  "total_count": 145,
+  "total_count": 142,
   "items": [
     {
       "repo": "harper",
-      "number": 948,
-      "title": "[deps] bump rustls from 0.23.45 to 0.23.46",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/948",
-      "updated_at": "2026-10-28T23:59:09Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
       "number": 945,
-      "title": "[fix] replace stale version in website/health docs with placeholder",
+      "title": "[fix] website/health docs version placeholder and ci paths for website",
       "html_url": "https://github.com/coccinella-labs/harper/pull/945",
-      "updated_at": "2026-10-28T15:49:02Z",
+      "updated_at": "2026-10-29T08:04:26Z",
       "user": "bniladridas",
       "comments": 1
     },
     {
       "repo": "harper",
-      "number": 935,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/935",
-      "updated_at": "2026-10-28T05:56:41Z",
+      "number": 931,
+      "title": "[deps] bump zip from 8.6.0 to 9.1.2",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/931",
+      "updated_at": "2026-10-29T08:03:39Z",
       "user": "dependabot[bot]",
       "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 919,
+      "title": "[lib] release harper-workspace 0.25.1, harper-core 0.24.1, harper-ui 0.22.5, harper-firmware 0.1.6, harper-mcp-server 0.1.9, harper-sandbox 0.3.5",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/919",
+      "updated_at": "2026-10-29T06:52:27Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 1
     },
     {
       "repo": "agentware",
@@ -244,9 +244,9 @@
       "number": 943,
       "title": "[chore] Enable merge queue and consolidate workflow docs",
       "html_url": "https://github.com/coccinella-labs/harper/issues/943",
-      "updated_at": "2026-10-29T01:13:23Z",
+      "updated_at": "2026-10-29T06:08:58Z",
       "user": "bniladridas",
-      "comments": 2
+      "comments": 3
     },
     {
       "repo": "agentware",
