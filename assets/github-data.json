@@ -1,19 +1,5 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -21,9 +7,23 @@
     "forks_count": 0
   },
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,17 +143,8 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 143,
+  "total_count": 142,
   "items": [
-    {
-      "repo": "agentware",
-      "number": 268,
-      "title": "Daily maintenance report 2026-10-30",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/268",
-      "updated_at": "2026-10-30T12:27:23Z",
-      "user": "github-actions[bot]",
-      "comments": 1
-    },
     {
       "repo": "harper",
       "number": 954,
@@ -234,11 +225,29 @@
       "updated_at": "2026-10-26T09:09:43Z",
       "user": "dependabot[bot]",
       "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 138,
+      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
+      "updated_at": "2026-10-26T09:09:44Z",
+      "user": "dependabot[bot]",
+      "comments": 0
     }
   ]
 }, "open_issues": {
   "total_count": 36,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-10-30T14:26:49Z",
+      "user": "bniladridas",
+      "comments": 291
+    },
     {
       "repo": "harper",
       "number": 943,
@@ -247,15 +256,6 @@
       "updated_at": "2026-10-29T16:33:25Z",
       "user": "bniladridas",
       "comments": 4
-    },
-    {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-29T15:42:57Z",
-      "user": "bniladridas",
-      "comments": 289
     },
     {
       "repo": "harper",
