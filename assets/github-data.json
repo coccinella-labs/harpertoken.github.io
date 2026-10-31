@@ -1,5 +1,12 @@
 {"repos": [
   {
+    "name": "hautofix",
+    "html_url": "https://github.com/coccinella-labs/hautofix",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -14,16 +21,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,29 +138,13 @@
     "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "swe-agent",
-    "html_url": "https://github.com/coccinella-labs/swe-agent",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 147,
+  "total_count": 145,
   "items": [
-    {
-      "repo": "agentware",
-      "number": 269,
-      "title": "Daily maintenance report 2026-10-31",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/269",
-      "updated_at": "2026-10-31T14:52:41Z",
-      "user": "github-actions[bot]",
-      "comments": 1
-    },
     {
       "repo": "mole",
       "number": 131,
@@ -234,6 +225,15 @@
       "updated_at": "2026-10-26T15:52:48Z",
       "user": "github-actions[bot]",
       "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 188,
+      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
+      "updated_at": "2026-10-26T10:07:55Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-31T14:52:27Z",
+      "updated_at": "2026-10-31T15:16:23Z",
       "user": "bniladridas",
-      "comments": 292
+      "comments": 293
     },
     {
       "repo": "harper",
