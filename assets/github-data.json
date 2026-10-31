@@ -7,16 +7,37 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "mole",
+    "html_url": "https://github.com/coccinella-labs/mole",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -31,20 +52,6 @@
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -119,13 +126,6 @@
     "forks_count": 0
   },
   {
-    "name": "mole",
-    "html_url": "https://github.com/coccinella-labs/mole",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "clabot",
     "html_url": "https://github.com/coccinella-labs/clabot",
     "language": "JavaScript",
@@ -143,8 +143,44 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 142,
+  "total_count": 146,
   "items": [
+    {
+      "repo": "mole",
+      "number": 131,
+      "title": "build(deps): bump axios from 1.20.0 to 1.21.0 in /frontend",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/131",
+      "updated_at": "2026-10-31T05:32:57Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mole",
+      "number": 129,
+      "title": "build(deps): bump pytest from 9.1.1 to 9.2.0 in /backend",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/129",
+      "updated_at": "2026-10-31T05:32:49Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mole",
+      "number": 130,
+      "title": "build(deps-dev): bump vite from 8.3.4 to 8.3.5 in /frontend",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/130",
+      "updated_at": "2026-10-31T05:32:49Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mole",
+      "number": 128,
+      "title": "build(deps): bump sentry-sdk from 2.72.0 to 2.73.0 in /backend",
+      "html_url": "https://github.com/coccinella-labs/mole/pull/128",
+      "updated_at": "2026-10-31T05:32:42Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "harper",
       "number": 954,
@@ -198,42 +234,6 @@
       "updated_at": "2026-10-26T10:07:55Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-10-26T09:10:06Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-10-26T09:09:58Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-10-26T09:09:43Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-10-26T09:09:44Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
@@ -244,7 +244,7 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-30T14:26:49Z",
+      "updated_at": "2026-10-31T04:48:02Z",
       "user": "bniladridas",
       "comments": 291
     },
