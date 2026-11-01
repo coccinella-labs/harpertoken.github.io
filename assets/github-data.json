@@ -7,6 +7,20 @@
     "forks_count": 0
   },
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "mlapi",
     "html_url": "https://github.com/coccinella-labs/mlapi",
     "language": "Python",
@@ -31,13 +45,6 @@
     "name": "vesper",
     "html_url": "https://github.com/coccinella-labs/vesper",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -73,13 +80,6 @@
     "name": "rules",
     "html_url": "https://github.com/coccinella-labs/rules",
     "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-10-31T15:16:23Z",
+      "updated_at": "2026-11-01T16:24:08Z",
       "user": "bniladridas",
-      "comments": 293
+      "comments": 295
     },
     {
       "repo": "harper",
