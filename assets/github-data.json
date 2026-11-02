@@ -7,9 +7,37 @@
     "forks_count": 0
   },
   {
+    "name": "rules",
+    "html_url": "https://github.com/coccinella-labs/rules",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -24,20 +52,6 @@
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -63,23 +77,9 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "vesper",
     "html_url": "https://github.com/coccinella-labs/vesper",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "rules",
-    "html_url": "https://github.com/coccinella-labs/rules",
-    "language": null,
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,97 +143,97 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 147,
+  "total_count": 151,
   "items": [
     {
-      "repo": "harper",
-      "number": 956,
-      "title": "[deps] bump zip from 9.1.2 to 9.1.3 in the cargo-minor-patch group",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/956",
-      "updated_at": "2026-11-02T06:03:49Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 271,
-      "title": "feat(grep): add opt-in case-sensitive search",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/271",
-      "updated_at": "2026-11-02T01:44:44Z",
+      "repo": "ellis",
+      "number": 64,
+      "title": "Bot verification proof check",
+      "html_url": "https://github.com/coccinella-labs/ellis/pull/64",
+      "updated_at": "2026-11-02T19:08:28Z",
       "user": "bniladridas",
-      "comments": 0
+      "comments": 18
     },
     {
-      "repo": "mlapi",
-      "number": 134,
-      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=2.3.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/134",
-      "updated_at": "2026-11-01T10:45:55Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 133,
-      "title": "deps(deps): bump fastapi from 0.138.0 to 0.162.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/133",
-      "updated_at": "2026-11-01T10:45:47Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 132,
-      "title": "deps(deps): bump transformers from 5.12.1 to 5.21.1",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/132",
-      "updated_at": "2026-11-01T10:45:40Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "path",
-      "number": 40,
-      "title": "docker(deps): bump python from 3.10-slim to 3.15-slim",
-      "html_url": "https://github.com/coccinella-labs/path/pull/40",
-      "updated_at": "2026-11-01T10:45:37Z",
-      "user": "dependabot[bot]",
+      "repo": "ellis",
+      "number": 63,
+      "title": "Bot verification smoke test",
+      "html_url": "https://github.com/coccinella-labs/ellis/pull/63",
+      "updated_at": "2026-11-02T19:08:27Z",
+      "user": "bniladridas",
       "comments": 1
     },
     {
-      "repo": "mlapi",
-      "number": 131,
-      "title": "deps(deps): bump torch from 2.9.1 to 2.15.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/131",
-      "updated_at": "2026-11-01T10:45:33Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 955,
-      "title": "[chore] update rust lockfiles",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/955",
-      "updated_at": "2026-11-01T04:15:16Z",
-      "user": "coccinella-labs-harper[bot]",
+      "repo": "ellis",
+      "number": 65,
+      "title": "Regenerate CHANGELOG from git tags",
+      "html_url": "https://github.com/coccinella-labs/ellis/pull/65",
+      "updated_at": "2026-11-02T19:08:03Z",
+      "user": "coccinella-labs-ellis[bot]",
       "comments": 2
     },
     {
-      "repo": "organictyping",
-      "number": 103,
-      "title": "chore: bump version to 0.1.8",
-      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
-      "updated_at": "2026-11-01T03:37:37Z",
+      "repo": "agentware",
+      "number": 273,
+      "title": "Daily maintenance report 2026-11-02",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/273",
+      "updated_at": "2026-11-02T15:10:03Z",
       "user": "github-actions[bot]",
       "comments": 1
     },
     {
-      "repo": "mole",
-      "number": 131,
-      "title": "build(deps): bump axios from 1.20.0 to 1.21.0 in /frontend",
-      "html_url": "https://github.com/coccinella-labs/mole/pull/131",
-      "updated_at": "2026-10-31T05:32:57Z",
+      "repo": "vesper",
+      "number": 188,
+      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
+      "updated_at": "2026-11-02T10:07:30Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 103,
+      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
+      "updated_at": "2026-11-02T09:10:16Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 122,
+      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
+      "updated_at": "2026-11-02T09:10:27Z",
       "user": "dependabot[bot]",
       "comments": 0
+    },
+    {
+      "repo": "benchmark",
+      "number": 121,
+      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
+      "updated_at": "2026-11-02T09:10:09Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 138,
+      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
+      "updated_at": "2026-11-02T09:10:02Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-11-02T09:09:02Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
