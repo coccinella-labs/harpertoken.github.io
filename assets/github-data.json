@@ -1,22 +1,15 @@
 {"repos": [
   {
-    "name": "ellis",
-    "html_url": "https://github.com/coccinella-labs/ellis",
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "rules",
-    "html_url": "https://github.com/coccinella-labs/rules",
-    "language": null,
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
+    "name": "ellis",
+    "html_url": "https://github.com/coccinella-labs/ellis",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -28,9 +21,9 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -38,6 +31,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "rules",
+    "html_url": "https://github.com/coccinella-labs/rules",
+    "language": null,
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -52,13 +59,6 @@
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,29 +146,38 @@
   "total_count": 151,
   "items": [
     {
-      "repo": "ellis",
-      "number": 64,
-      "title": "Bot verification proof check",
-      "html_url": "https://github.com/coccinella-labs/ellis/pull/64",
-      "updated_at": "2026-11-02T19:08:28Z",
+      "repo": "agentware",
+      "number": 271,
+      "title": "feat(grep): add opt-in case-sensitive search",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/271",
+      "updated_at": "2026-11-03T00:59:59Z",
       "user": "bniladridas",
-      "comments": 18
+      "comments": 0
     },
     {
       "repo": "ellis",
       "number": 63,
       "title": "Bot verification smoke test",
       "html_url": "https://github.com/coccinella-labs/ellis/pull/63",
-      "updated_at": "2026-11-02T19:08:27Z",
+      "updated_at": "2026-11-03T00:02:49Z",
       "user": "bniladridas",
       "comments": 1
+    },
+    {
+      "repo": "ellis",
+      "number": 64,
+      "title": "Bot verification proof check",
+      "html_url": "https://github.com/coccinella-labs/ellis/pull/64",
+      "updated_at": "2026-11-03T00:01:16Z",
+      "user": "bniladridas",
+      "comments": 18
     },
     {
       "repo": "ellis",
       "number": 65,
       "title": "Regenerate CHANGELOG from git tags",
       "html_url": "https://github.com/coccinella-labs/ellis/pull/65",
-      "updated_at": "2026-11-02T19:08:03Z",
+      "updated_at": "2026-11-02T23:59:35Z",
       "user": "coccinella-labs-ellis[bot]",
       "comments": 2
     },
@@ -225,20 +234,20 @@
       "updated_at": "2026-11-02T09:10:02Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 187,
-      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
-      "updated_at": "2026-11-02T09:09:02Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
   "total_count": 37,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 272,
+      "title": "Feature: native GraphQL support for Agentware",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/272",
+      "updated_at": "2026-11-03T01:03:12Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 113,
@@ -247,15 +256,6 @@
       "updated_at": "2026-11-02T01:48:09Z",
       "user": "bniladridas",
       "comments": 297
-    },
-    {
-      "repo": "agentware",
-      "number": 272,
-      "title": "Feature: native GraphQL support for Agentware",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/272",
-      "updated_at": "2026-11-02T01:43:21Z",
-      "user": "bniladridas",
-      "comments": 0
     },
     {
       "repo": "harper",
