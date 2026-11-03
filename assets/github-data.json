@@ -14,16 +14,16 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,17 +143,8 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 151,
+  "total_count": 149,
   "items": [
-    {
-      "repo": "agentware",
-      "number": 273,
-      "title": "Daily maintenance report 2026-11-02",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/273",
-      "updated_at": "2026-11-03T13:54:58Z",
-      "user": "github-actions[bot]",
-      "comments": 1
-    },
     {
       "repo": "harper",
       "number": 966,
@@ -191,15 +182,6 @@
       "comments": 2
     },
     {
-      "repo": "agentware",
-      "number": 271,
-      "title": "feat(grep): add opt-in case-sensitive search",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/271",
-      "updated_at": "2026-11-03T00:59:59Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
       "repo": "vesper",
       "number": 188,
       "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
@@ -234,11 +216,38 @@
       "updated_at": "2026-11-02T09:10:09Z",
       "user": "dependabot[bot]",
       "comments": 1
+    },
+    {
+      "repo": "benchmark",
+      "number": 138,
+      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
+      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
+      "updated_at": "2026-11-02T09:10:02Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "vesper",
+      "number": 187,
+      "title": "deps-dev(deps-dev): bump the development-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/187",
+      "updated_at": "2026-11-02T09:09:02Z",
+      "user": "dependabot[bot]",
+      "comments": 1
     }
   ]
 }, "open_issues": {
   "total_count": 48,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 113,
+      "title": "Activity Feed",
+      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
+      "updated_at": "2026-11-03T20:26:07Z",
+      "user": "bniladridas",
+      "comments": 299
+    },
     {
       "repo": "harper",
       "number": 960,
@@ -317,15 +326,6 @@
       "title": "Extend the VS Code integration into a safe agent-assisted coding workflow",
       "html_url": "https://github.com/coccinella-labs/harper/issues/959",
       "updated_at": "2026-11-03T05:48:25Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 852,
-      "title": "[feature] Expose Harper runtime tools and agent-assisted code review through MCP",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/852",
-      "updated_at": "2026-11-03T05:33:48Z",
       "user": "bniladridas",
       "comments": 0
     }
