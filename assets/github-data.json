@@ -1,8 +1,22 @@
 {"repos": [
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -14,23 +28,23 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -45,20 +59,6 @@
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,12 +146,12 @@
   "total_count": 151,
   "items": [
     {
-      "repo": "agentware",
-      "number": 271,
-      "title": "feat(grep): add opt-in case-sensitive search",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/271",
-      "updated_at": "2026-11-03T00:59:59Z",
-      "user": "bniladridas",
+      "repo": "harper",
+      "number": 966,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/966",
+      "updated_at": "2026-11-03T05:55:56Z",
+      "user": "dependabot[bot]",
       "comments": 0
     },
     {
@@ -159,7 +159,7 @@
       "number": 63,
       "title": "Bot verification smoke test",
       "html_url": "https://github.com/coccinella-labs/ellis/pull/63",
-      "updated_at": "2026-11-03T00:02:49Z",
+      "updated_at": "2026-11-03T03:48:00Z",
       "user": "bniladridas",
       "comments": 1
     },
@@ -168,7 +168,7 @@
       "number": 64,
       "title": "Bot verification proof check",
       "html_url": "https://github.com/coccinella-labs/ellis/pull/64",
-      "updated_at": "2026-11-03T00:01:16Z",
+      "updated_at": "2026-11-03T03:46:41Z",
       "user": "bniladridas",
       "comments": 18
     },
@@ -177,9 +177,18 @@
       "number": 65,
       "title": "Regenerate CHANGELOG from git tags",
       "html_url": "https://github.com/coccinella-labs/ellis/pull/65",
-      "updated_at": "2026-11-02T23:59:35Z",
+      "updated_at": "2026-11-03T03:45:22Z",
       "user": "coccinella-labs-ellis[bot]",
       "comments": 2
+    },
+    {
+      "repo": "agentware",
+      "number": 271,
+      "title": "feat(grep): add opt-in case-sensitive search",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/271",
+      "updated_at": "2026-11-03T00:59:59Z",
+      "user": "bniladridas",
+      "comments": 0
     },
     {
       "repo": "agentware",
@@ -225,107 +234,98 @@
       "updated_at": "2026-11-02T09:10:09Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-11-02T09:10:02Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
-  "total_count": 37,
+  "total_count": 48,
   "items": [
     {
-      "repo": "agentware",
-      "number": 272,
-      "title": "Feature: native GraphQL support for Agentware",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/272",
-      "updated_at": "2026-11-03T01:03:12Z",
+      "repo": "harper",
+      "number": 960,
+      "title": "[audit] Trace Harper's agent runtime and coding execution loop",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/960",
+      "updated_at": "2026-11-03T05:56:32Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
+      "number": 967,
+      "title": "[feature] Add a deterministic reliability profile for smaller models",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/967",
+      "updated_at": "2026-11-03T05:56:29Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-11-02T01:48:09Z",
-      "user": "bniladridas",
-      "comments": 297
-    },
-    {
       "repo": "harper",
-      "number": 943,
-      "title": "[chore] Enable merge queue and consolidate workflow docs",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/943",
-      "updated_at": "2026-10-29T16:33:25Z",
-      "user": "bniladridas",
-      "comments": 4
-    },
-    {
-      "repo": "harper",
-      "number": 947,
-      "title": "[follow-up] re-enable security audit action (CVSS 4.0 issue resolved upstream)",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/947",
-      "updated_at": "2026-10-28T22:50:57Z",
-      "user": "coccinella-admin",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 917,
-      "title": "[packaging] both Homebrew formula surfaces are behind; the served one is pinned to 0.20.1",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/917",
-      "updated_at": "2026-10-28T03:47:45Z",
+      "number": 958,
+      "title": "[audit] Verify agent runtime, tools, approvals, coding workflow, and orchestration",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/958",
+      "updated_at": "2026-11-03T05:50:51Z",
       "user": "bniladridas",
       "comments": 2
     },
     {
       "repo": "harper",
-      "number": 345,
-      "title": "Tracked roadmap",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/345",
-      "updated_at": "2026-10-28T00:50:09Z",
-      "user": "bniladridas",
-      "comments": 4
-    },
-    {
-      "repo": "harper",
-      "number": 907,
-      "title": "read_file resolves relative paths against the process working directory",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/907",
-      "updated_at": "2026-10-28T00:46:41Z",
-      "user": "bniladridas",
-      "comments": 4
-    },
-    {
-      "repo": "harper",
-      "number": 936,
-      "title": "[P1] add runtime regression test for sandbox-exec command execution on macOS",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/936",
-      "updated_at": "2026-10-28T00:27:56Z",
+      "number": 965,
+      "title": "[audit] Review Harper security boundaries and agent execution reliability",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/965",
+      "updated_at": "2026-11-03T05:50:34Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
       "repo": "harper",
-      "number": 939,
-      "title": "trim repeated descriptions and implementation history from the roadmap",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/939",
-      "updated_at": "2026-10-28T00:24:12Z",
+      "number": 964,
+      "title": "[audit] Assess durable jobs, planning, orchestration, and model budgets",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/964",
+      "updated_at": "2026-11-03T05:50:31Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "agentware",
-      "number": 264,
-      "title": "boot and CLI surface: argument parsing, prompt-free startup, and consistent EOF",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/264",
-      "updated_at": "2026-10-27T22:27:17Z",
+      "repo": "harper",
+      "number": 963,
+      "title": "[audit] Verify Harper's search and repository investigation capabilities",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/963",
+      "updated_at": "2026-11-03T05:50:28Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 962,
+      "title": "[audit] Verify approval profiles and safe autonomy enforcement",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/962",
+      "updated_at": "2026-11-03T05:50:25Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 961,
+      "title": "[audit] Inventory Harper tools and classify execution side effects",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/961",
+      "updated_at": "2026-11-03T05:50:22Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 959,
+      "title": "Extend the VS Code integration into a safe agent-assisted coding workflow",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/959",
+      "updated_at": "2026-11-03T05:48:25Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "harper",
+      "number": 852,
+      "title": "[feature] Expose Harper runtime tools and agent-assisted code review through MCP",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/852",
+      "updated_at": "2026-11-03T05:33:48Z",
       "user": "bniladridas",
       "comments": 0
     }
