@@ -7,16 +7,9 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -28,16 +21,37 @@
     "forks_count": 0
   },
   {
-    "name": "release-notes",
-    "html_url": "https://github.com/coccinella-labs/release-notes",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "release-notes",
+    "html_url": "https://github.com/coccinella-labs/release-notes",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -49,25 +63,11 @@
     "forks_count": 0
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "gh-tag",
     "html_url": "https://github.com/coccinella-labs/gh-tag",
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "rules",
@@ -143,16 +143,16 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 147,
+  "total_count": 146,
   "items": [
     {
-      "repo": "agentware",
-      "number": 275,
-      "title": "Daily maintenance report 2026-11-05",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/275",
-      "updated_at": "2026-11-05T14:23:14Z",
-      "user": "github-actions[bot]",
-      "comments": 1
+      "repo": "harper",
+      "number": 966,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/966",
+      "updated_at": "2026-11-06T05:56:02Z",
+      "user": "dependabot[bot]",
+      "comments": 0
     },
     {
       "repo": "release-notes",
@@ -160,15 +160,6 @@
       "title": "build(deps-dev): bump @types/node from 22.20.1 to 26.6.6",
       "html_url": "https://github.com/coccinella-labs/release-notes/pull/13",
       "updated_at": "2026-11-05T11:14:26Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 966,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/966",
-      "updated_at": "2026-11-05T05:55:59Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -234,6 +225,15 @@
       "updated_at": "2026-11-02T09:09:02Z",
       "user": "dependabot[bot]",
       "comments": 1
+    },
+    {
+      "repo": "vesper",
+      "number": 193,
+      "title": "deps(deps): bump the production-dependencies group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/193",
+      "updated_at": "2026-11-02T09:08:45Z",
+      "user": "dependabot[bot]",
+      "comments": 0
     }
   ]
 }, "open_issues": {
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-11-05T03:27:18Z",
+      "updated_at": "2026-11-06T07:04:04Z",
       "user": "bniladridas",
-      "comments": 301
+      "comments": 303
     },
     {
       "repo": "harper",
