@@ -1,5 +1,19 @@
 {"repos": [
   {
+    "name": "coccinella-labs.github.io",
+    "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -7,9 +21,9 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -17,6 +31,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -40,20 +61,6 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "release-notes",
@@ -131,13 +138,6 @@
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "xoi",
-    "html_url": "https://github.com/coccinella-labs/xoi",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.1",
@@ -145,6 +145,24 @@
 }, "open_prs": {
   "total_count": 149,
   "items": [
+    {
+      "repo": "harper",
+      "number": 955,
+      "title": "[chore] update rust lockfiles",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/955",
+      "updated_at": "2026-11-08T04:20:46Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 2
+    },
+    {
+      "repo": "organictyping",
+      "number": 103,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
+      "updated_at": "2026-11-08T03:42:05Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
     {
       "repo": "mole",
       "number": 134,
@@ -214,24 +232,6 @@
       "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
       "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
       "updated_at": "2026-11-02T09:10:16Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-11-02T09:10:27Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-11-02T09:10:09Z",
       "user": "dependabot[bot]",
       "comments": 1
     }
