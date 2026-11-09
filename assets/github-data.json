@@ -1,10 +1,17 @@
 {"repos": [
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": ".github",
@@ -17,6 +24,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -45,20 +59,6 @@
     "name": "coccinella-labs.github.io",
     "html_url": "https://github.com/coccinella-labs/coccinella-labs.github.io",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,6 +146,15 @@
   "total_count": 150,
   "items": [
     {
+      "repo": "harper",
+      "number": 966,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 2 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/966",
+      "updated_at": "2026-11-09T06:05:08Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
       "repo": "agentware",
       "number": 278,
       "title": "Daily maintenance report 2026-11-08",
@@ -214,15 +223,6 @@
       "title": "build(deps): bump python-multipart from 0.0.32 to 0.0.33 in /backend",
       "html_url": "https://github.com/coccinella-labs/mole/pull/132",
       "updated_at": "2026-11-07T05:32:44Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 966,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/966",
-      "updated_at": "2026-11-06T05:56:02Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
