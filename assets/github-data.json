@@ -1,5 +1,12 @@
 {"repos": [
   {
+    "name": "buildanywhere",
+    "html_url": "https://github.com/coccinella-labs/buildanywhere",
+    "language": "Shell",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -14,16 +21,9 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -35,16 +35,9 @@
     "forks_count": 1
   },
   {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
-    "language": "Python",
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -52,6 +45,20 @@
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "vesper",
+    "html_url": "https://github.com/coccinella-labs/vesper",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,26 +138,28 @@
     "language": "Dart",
     "stargazers_count": 3,
     "forks_count": 1
-  },
-  {
-    "name": "scout",
-    "html_url": "https://github.com/coccinella-labs/scout",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 149,
+  "total_count": 150,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 280,
+      "title": "feat(cli): add startup flags and prompt-free boot",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/280",
+      "updated_at": "2026-11-11T09:49:09Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
     {
       "repo": "harper",
       "number": 968,
       "title": "[deps] bump the cargo-minor-patch group across 1 directory with 3 updates",
       "html_url": "https://github.com/coccinella-labs/harper/pull/968",
-      "updated_at": "2026-11-10T05:56:29Z",
+      "updated_at": "2026-11-11T05:55:17Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -225,28 +234,28 @@
       "updated_at": "2026-11-08T10:42:45Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 135,
-      "title": "deps(deps): update huggingface-hub requirement from >=1.20.1 to >=2.4.0",
-      "html_url": "https://github.com/coccinella-labs/mlapi/pull/135",
-      "updated_at": "2026-11-08T10:42:40Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
-  "total_count": 48,
+  "total_count": 49,
   "items": [
+    {
+      "repo": "buildanywhere",
+      "number": 1,
+      "title": "Make this repo user-ready",
+      "html_url": "https://github.com/coccinella-labs/buildanywhere/issues/1",
+      "updated_at": "2026-11-11T10:09:19Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
     {
       "repo": "agentware",
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-11-10T22:25:22Z",
+      "updated_at": "2026-11-11T09:45:56Z",
       "user": "bniladridas",
-      "comments": 310
+      "comments": 311
     },
     {
       "repo": "harper",
@@ -317,15 +326,6 @@
       "title": "[audit] Verify approval profiles and safe autonomy enforcement",
       "html_url": "https://github.com/coccinella-labs/harper/issues/962",
       "updated_at": "2026-11-03T05:50:25Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 961,
-      "title": "[audit] Inventory Harper tools and classify execution side effects",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/961",
-      "updated_at": "2026-11-03T05:50:22Z",
       "user": "bniladridas",
       "comments": 0
     }
