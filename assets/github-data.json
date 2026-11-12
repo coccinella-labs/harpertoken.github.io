@@ -1,8 +1,29 @@
 {"repos": [
   {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -31,27 +52,6 @@
     "name": "diff-mac",
     "html_url": "https://github.com/coccinella-labs/diff-mac",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,6 +146,24 @@
   "total_count": 154,
   "items": [
     {
+      "repo": "l2",
+      "number": 2,
+      "title": "chore: update dependencies",
+      "html_url": "https://github.com/coccinella-labs/l2/pull/2",
+      "updated_at": "2026-11-12T08:58:21Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
+      "number": 969,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 4 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/969",
+      "updated_at": "2026-11-12T05:56:26Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
       "repo": "agentware",
       "number": 284,
       "title": "test(e2e): re-enable the four skipped command-surface cases",
@@ -191,15 +209,6 @@
       "comments": 1
     },
     {
-      "repo": "harper",
-      "number": 968,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/968",
-      "updated_at": "2026-11-11T05:55:17Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
       "repo": "vesper",
       "number": 188,
       "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
@@ -223,15 +232,6 @@
       "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
       "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
       "updated_at": "2026-11-09T09:09:49Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 122,
-      "title": "deps(deps): bump the transformers group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/122",
-      "updated_at": "2026-11-09T09:10:07Z",
       "user": "dependabot[bot]",
       "comments": 0
     }
