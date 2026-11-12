@@ -1,12 +1,5 @@
 {"repos": [
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
@@ -14,8 +7,8 @@
     "forks_count": 0
   },
   {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "name": "metal",
+    "html_url": "https://github.com/coccinella-labs/metal",
     "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
@@ -24,6 +17,20 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,20 +138,22 @@
     "language": "Shell",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "browser",
-    "html_url": "https://github.com/coccinella-labs/browser",
-    "language": "Dart",
-    "stargazers_count": 3,
-    "forks_count": 1
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 154,
+  "total_count": 155,
   "items": [
+    {
+      "repo": "metal",
+      "number": 20,
+      "title": "chore(deps)(deps): bump actions/add-to-project from 0.5.0 to 2.0.1",
+      "html_url": "https://github.com/coccinella-labs/metal/pull/20",
+      "updated_at": "2026-11-12T21:13:38Z",
+      "user": "dependabot[bot]",
+      "comments": 1
+    },
     {
       "repo": "agentware",
       "number": 282,
@@ -225,15 +234,6 @@
       "updated_at": "2026-11-09T09:09:56Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-11-09T09:09:49Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
