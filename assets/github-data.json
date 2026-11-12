@@ -1,10 +1,10 @@
 {"repos": [
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": ".github",
@@ -12,6 +12,27 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "bot",
@@ -28,30 +49,9 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "buildanywhere",
     "html_url": "https://github.com/coccinella-labs/buildanywhere",
     "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,6 +146,15 @@
   "total_count": 154,
   "items": [
     {
+      "repo": "agentware",
+      "number": 282,
+      "title": "Daily maintenance report 2026-11-11",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
+      "updated_at": "2026-11-12T14:53:49Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
       "repo": "l2",
       "number": 2,
       "title": "chore: update dependencies",
@@ -179,15 +188,6 @@
       "html_url": "https://github.com/coccinella-labs/agentware/pull/283",
       "updated_at": "2026-11-11T14:54:12Z",
       "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 282,
-      "title": "Daily maintenance report 2026-11-11",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
-      "updated_at": "2026-11-11T13:52:04Z",
-      "user": "github-actions[bot]",
       "comments": 1
     },
     {
