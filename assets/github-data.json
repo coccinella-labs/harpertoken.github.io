@@ -1,5 +1,26 @@
 {"repos": [
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
@@ -14,13 +35,6 @@
     "forks_count": 1
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
@@ -28,23 +42,9 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "metal",
     "html_url": "https://github.com/coccinella-labs/metal",
     "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,26 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 155,
+  "total_count": 156,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 285,
+      "title": "feat(input): add session-scoped Up/Down history",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/285",
+      "updated_at": "2026-11-13T08:09:50Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
+      "number": 969,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 4 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/969",
+      "updated_at": "2026-11-13T05:56:32Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "metal",
       "number": 20,
@@ -171,15 +189,6 @@
       "updated_at": "2026-11-12T08:58:21Z",
       "user": "github-actions[bot]",
       "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 969,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 4 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/969",
-      "updated_at": "2026-11-12T05:56:26Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     },
     {
       "repo": "agentware",
@@ -225,15 +234,6 @@
       "updated_at": "2026-11-09T10:29:55Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-11-09T09:09:56Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
@@ -244,9 +244,9 @@
       "number": 113,
       "title": "Activity Feed",
       "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-11-11T17:27:37Z",
+      "updated_at": "2026-11-13T08:06:23Z",
       "user": "bniladridas",
-      "comments": 314
+      "comments": 315
     },
     {
       "repo": "harper",
