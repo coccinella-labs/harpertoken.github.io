@@ -7,6 +7,13 @@
     "forks_count": 0
   },
   {
+    "name": "vesper",
+    "html_url": "https://github.com/coccinella-labs/vesper",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "agentware",
     "html_url": "https://github.com/coccinella-labs/agentware",
     "language": "C++",
@@ -59,13 +66,6 @@
     "name": "buildanywhere",
     "html_url": "https://github.com/coccinella-labs/buildanywhere",
     "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "vesper",
-    "html_url": "https://github.com/coccinella-labs/vesper",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -143,8 +143,26 @@
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 156,
+  "total_count": 157,
   "items": [
+    {
+      "repo": "vesper",
+      "number": 197,
+      "title": "deps-dev(deps-dev): bump addressable from 2.9.0 to 2.9.1",
+      "html_url": "https://github.com/coccinella-labs/vesper/pull/197",
+      "updated_at": "2026-11-13T16:39:16Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "agentware",
+      "number": 282,
+      "title": "Daily maintenance report 2026-11-11",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
+      "updated_at": "2026-11-13T14:16:58Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
     {
       "repo": "agentware",
       "number": 285,
@@ -170,15 +188,6 @@
       "html_url": "https://github.com/coccinella-labs/metal/pull/20",
       "updated_at": "2026-11-12T21:13:38Z",
       "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 282,
-      "title": "Daily maintenance report 2026-11-11",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
-      "updated_at": "2026-11-12T14:53:49Z",
-      "user": "github-actions[bot]",
       "comments": 1
     },
     {
@@ -224,15 +233,6 @@
       "html_url": "https://github.com/coccinella-labs/agentware/pull/280",
       "updated_at": "2026-11-11T09:49:09Z",
       "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "vesper",
-      "number": 188,
-      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
-      "updated_at": "2026-11-09T10:29:55Z",
-      "user": "dependabot[bot]",
       "comments": 1
     }
   ]
