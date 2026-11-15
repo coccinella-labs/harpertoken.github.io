@@ -7,9 +7,23 @@
     "forks_count": 0
   },
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "browser",
+    "html_url": "https://github.com/coccinella-labs/browser",
+    "language": "Dart",
+    "stargazers_count": 3,
+    "forks_count": 1
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -17,6 +31,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -47,20 +68,6 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "vesper",
@@ -131,20 +138,31 @@
     "language": "HTML",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "kilo-config",
-    "html_url": "https://github.com/coccinella-labs/kilo-config",
-    "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.1",
   "html_url": "https://github.com/coccinella-labs/harper/releases/tag/harper-0.24.1"
 }, "open_prs": {
-  "total_count": 158,
+  "total_count": 157,
   "items": [
+    {
+      "repo": "harper",
+      "number": 955,
+      "title": "[chore] update rust lockfiles",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/955",
+      "updated_at": "2026-11-15T04:46:19Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 2
+    },
+    {
+      "repo": "organictyping",
+      "number": 103,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
+      "updated_at": "2026-11-15T04:05:39Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
     {
       "repo": "agentware",
       "number": 282,
@@ -216,116 +234,98 @@
       "updated_at": "2026-11-12T08:58:21Z",
       "user": "github-actions[bot]",
       "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 284,
-      "title": "test(e2e): re-enable the four skipped command-surface cases",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/284",
-      "updated_at": "2026-11-11T17:46:04Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 283,
-      "title": "fix(file): verify the opened descriptor before reads",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/283",
-      "updated_at": "2026-11-11T14:54:12Z",
-      "user": "bniladridas",
-      "comments": 1
     }
   ]
 }, "open_issues": {
-  "total_count": 48,
+  "total_count": 133,
   "items": [
     {
-      "repo": "agentware",
-      "number": 113,
-      "title": "Activity Feed",
-      "html_url": "https://github.com/coccinella-labs/agentware/issues/113",
-      "updated_at": "2026-11-13T08:06:23Z",
-      "user": "bniladridas",
-      "comments": 315
-    },
-    {
-      "repo": "harper",
-      "number": 926,
-      "title": "sandbox-exec narrow deny profiles abort on macOS 27; cause undetermined",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/926",
-      "updated_at": "2026-11-10T05:37:24Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 960,
-      "title": "[audit] Trace Harper's agent runtime and coding execution loop",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/960",
-      "updated_at": "2026-11-03T05:56:32Z",
-      "user": "bniladridas",
-      "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 967,
-      "title": "[feature] Add a deterministic reliability profile for smaller models",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/967",
-      "updated_at": "2026-11-03T05:56:29Z",
+      "repo": "xnubuild",
+      "number": 3,
+      "title": "Fail the build when XNU compilation fails instead of publishing a mock kernel",
+      "html_url": "https://github.com/coccinella-labs/xnubuild/issues/3",
+      "updated_at": "2026-11-15T05:06:48Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 958,
-      "title": "[audit] Verify agent runtime, tools, approvals, coding workflow, and orchestration",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/958",
-      "updated_at": "2026-11-03T05:50:51Z",
-      "user": "bniladridas",
-      "comments": 2
-    },
-    {
-      "repo": "harper",
-      "number": 965,
-      "title": "[audit] Review Harper security boundaries and agent execution reliability",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/965",
-      "updated_at": "2026-11-03T05:50:34Z",
+      "repo": "dotenv-keep",
+      "number": 1,
+      "title": "Avoid counting environment variable mentions in comments as code references",
+      "html_url": "https://github.com/coccinella-labs/dotenv-keep/issues/1",
+      "updated_at": "2026-11-15T05:04:53Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 964,
-      "title": "[audit] Assess durable jobs, planning, orchestration, and model budgets",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/964",
-      "updated_at": "2026-11-03T05:50:31Z",
+      "repo": "bot",
+      "number": 4,
+      "title": "Keep report actions read-only instead of modifying every managed repository",
+      "html_url": "https://github.com/coccinella-labs/bot/issues/4",
+      "updated_at": "2026-11-15T05:04:51Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 963,
-      "title": "[audit] Verify Harper's search and repository investigation capabilities",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/963",
-      "updated_at": "2026-11-03T05:50:28Z",
+      "repo": "hub",
+      "number": 1,
+      "title": "Prevent release automation from force-moving existing version tags",
+      "html_url": "https://github.com/coccinella-labs/hub/issues/1",
+      "updated_at": "2026-11-15T05:04:50Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 962,
-      "title": "[audit] Verify approval profiles and safe autonomy enforcement",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/962",
-      "updated_at": "2026-11-03T05:50:25Z",
+      "repo": "ml",
+      "number": 2,
+      "title": "Validate task creation requests before adding dashboard tasks",
+      "html_url": "https://github.com/coccinella-labs/ml/issues/2",
+      "updated_at": "2026-11-15T05:01:35Z",
       "user": "bniladridas",
       "comments": 0
     },
     {
-      "repo": "harper",
-      "number": 961,
-      "title": "[audit] Inventory Harper tools and classify execution side effects",
-      "html_url": "https://github.com/coccinella-labs/harper/issues/961",
-      "updated_at": "2026-11-03T05:50:22Z",
+      "repo": "rl",
+      "number": 5,
+      "title": "Make the published CartPole checkpoint loadable through CMAESAgent.from_pretrained",
+      "html_url": "https://github.com/coccinella-labs/rl/issues/5",
+      "updated_at": "2026-11-15T05:01:33Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 137,
+      "title": "Load runtime model and generation settings from config.yaml",
+      "html_url": "https://github.com/coccinella-labs/mlapi/issues/137",
+      "updated_at": "2026-11-15T05:01:31Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "benchmark",
+      "number": 163,
+      "title": "Calculate word error rate using word-level edit distance",
+      "html_url": "https://github.com/coccinella-labs/benchmark/issues/163",
+      "updated_at": "2026-11-15T04:58:27Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "bitinfer",
+      "number": 1,
+      "title": "Handle empty inputs and invalid batch sizes in adaptive inference",
+      "html_url": "https://github.com/coccinella-labs/bitinfer/issues/1",
+      "updated_at": "2026-11-15T04:58:07Z",
+      "user": "bniladridas",
+      "comments": 0
+    },
+    {
+      "repo": "swe-agent",
+      "number": 21,
+      "title": "Keep pull-request creation inside the documented sandbox execution boundary",
+      "html_url": "https://github.com/coccinella-labs/swe-agent/issues/21",
+      "updated_at": "2026-11-15T04:54:39Z",
       "user": "bniladridas",
       "comments": 0
     }
