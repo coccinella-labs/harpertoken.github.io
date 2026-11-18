@@ -1,22 +1,8 @@
 {"repos": [
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -35,6 +21,13 @@
     "forks_count": 0
   },
   {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
@@ -47,6 +40,13 @@
     "language": "Rust",
     "stargazers_count": 1,
     "forks_count": 1
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "mlapi",
@@ -150,7 +150,7 @@
       "number": 282,
       "title": "Daily maintenance report 2026-11-11",
       "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
-      "updated_at": "2026-11-17T15:45:16Z",
+      "updated_at": "2026-11-18T15:24:13Z",
       "user": "github-actions[bot]",
       "comments": 1
     },
@@ -159,7 +159,7 @@
       "number": 970,
       "title": "[deps] bump the cargo-minor-patch group across 1 directory with 5 updates",
       "html_url": "https://github.com/coccinella-labs/harper/pull/970",
-      "updated_at": "2026-11-17T05:56:22Z",
+      "updated_at": "2026-11-18T05:56:14Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
