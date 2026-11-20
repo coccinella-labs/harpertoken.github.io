@@ -1,22 +1,15 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "agentware",
     "html_url": "https://github.com/coccinella-labs/agentware",
     "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -28,11 +21,11 @@
     "forks_count": 0
   },
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
   },
   {
     "name": "bot",
@@ -40,6 +33,13 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
   },
   {
     "name": "diff",
@@ -150,7 +150,7 @@
       "number": 282,
       "title": "Daily maintenance report 2026-11-11",
       "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
-      "updated_at": "2026-11-19T15:31:38Z",
+      "updated_at": "2026-11-20T15:08:09Z",
       "user": "github-actions[bot]",
       "comments": 1
     },
@@ -159,7 +159,7 @@
       "number": 971,
       "title": "[deps] bump the cargo-minor-patch group across 1 directory with 6 updates",
       "html_url": "https://github.com/coccinella-labs/harper/pull/971",
-      "updated_at": "2026-11-19T05:56:15Z",
+      "updated_at": "2026-11-20T05:56:53Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
