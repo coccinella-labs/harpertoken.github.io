@@ -1,36 +1,8 @@
 {"repos": [
   {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -49,6 +21,41 @@
     "forks_count": 0
   },
   {
+    "name": "mlapi",
+    "html_url": "https://github.com/coccinella-labs/mlapi",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "mole",
     "html_url": "https://github.com/coccinella-labs/mole",
     "language": "Python",
@@ -59,13 +66,6 @@
     "name": "buildanywhere",
     "html_url": "https://github.com/coccinella-labs/buildanywhere",
     "language": "Shell",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "mlapi",
-    "html_url": "https://github.com/coccinella-labs/mlapi",
-    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,6 +146,42 @@
   "total_count": 158,
   "items": [
     {
+      "repo": "agentware",
+      "number": 282,
+      "title": "Daily maintenance report 2026-11-11",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
+      "updated_at": "2026-11-22T14:21:42Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "mlapi",
+      "number": 143,
+      "title": "deps(deps): bump transformers from 5.12.1 to 5.23.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/143",
+      "updated_at": "2026-11-22T10:42:49Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 142,
+      "title": "deps(deps): bump fastapi from 0.138.0 to 0.165.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/142",
+      "updated_at": "2026-11-22T10:42:42Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
+      "repo": "mlapi",
+      "number": 141,
+      "title": "deps(deps): bump accelerate from 1.10.1 to 1.16.0",
+      "html_url": "https://github.com/coccinella-labs/mlapi/pull/141",
+      "updated_at": "2026-11-22T10:42:34Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
       "repo": "harper",
       "number": 955,
       "title": "[chore] update rust lockfiles",
@@ -160,15 +196,6 @@
       "title": "chore: bump version to 0.1.8",
       "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
       "updated_at": "2026-11-22T04:23:44Z",
-      "user": "github-actions[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "agentware",
-      "number": 282,
-      "title": "Daily maintenance report 2026-11-11",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
-      "updated_at": "2026-11-21T14:28:12Z",
       "user": "github-actions[bot]",
       "comments": 1
     },
@@ -207,33 +234,6 @@
       "updated_at": "2026-11-21T01:43:18Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 971,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 6 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/971",
-      "updated_at": "2026-11-20T05:56:53Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "vesper",
-      "number": 188,
-      "title": "ci(deps): bump the github-actions group across 1 directory with 3 updates",
-      "html_url": "https://github.com/coccinella-labs/vesper/pull/188",
-      "updated_at": "2026-11-16T10:06:47Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 103,
-      "title": "deps(deps): bump the audio group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/103",
-      "updated_at": "2026-11-16T09:09:49Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
