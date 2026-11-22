@@ -1,8 +1,22 @@
 {"repos": [
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -14,9 +28,9 @@
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -40,20 +54,6 @@
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "buildanywhere",
@@ -146,6 +146,24 @@
   "total_count": 158,
   "items": [
     {
+      "repo": "harper",
+      "number": 955,
+      "title": "[chore] update rust lockfiles",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/955",
+      "updated_at": "2026-11-22T04:59:27Z",
+      "user": "coccinella-labs-harper[bot]",
+      "comments": 2
+    },
+    {
+      "repo": "organictyping",
+      "number": 103,
+      "title": "chore: bump version to 0.1.8",
+      "html_url": "https://github.com/coccinella-labs/organictyping/pull/103",
+      "updated_at": "2026-11-22T04:23:44Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
       "repo": "agentware",
       "number": 282,
       "title": "Daily maintenance report 2026-11-11",
@@ -216,24 +234,6 @@
       "updated_at": "2026-11-16T09:09:49Z",
       "user": "dependabot[bot]",
       "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-11-16T09:09:56Z",
-      "user": "dependabot[bot]",
-      "comments": 1
-    },
-    {
-      "repo": "benchmark",
-      "number": 138,
-      "title": "deps(deps): bump torch from 2.9.0 to 2.14.1 in the pytorch group across 1 directory",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/138",
-      "updated_at": "2026-11-16T09:09:52Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     }
   ]
 }, "open_issues": {
