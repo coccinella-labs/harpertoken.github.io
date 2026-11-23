@@ -1,8 +1,29 @@
 {"repos": [
   {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
     "name": ".github",
     "html_url": "https://github.com/coccinella-labs/.github",
     "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -31,27 +52,6 @@
     "name": "mlapi",
     "html_url": "https://github.com/coccinella-labs/mlapi",
     "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -237,8 +237,17 @@
     }
   ]
 }, "open_issues": {
-  "total_count": 133,
+  "total_count": 134,
   "items": [
+    {
+      "repo": "harper",
+      "number": 972,
+      "title": "2 advisory ignore entries no longer match anything in `Cargo.lock`",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/972",
+      "updated_at": "2026-11-23T01:41:22Z",
+      "user": "zyl71",
+      "comments": 0
+    },
     {
       "repo": "xnubuild",
       "number": 3,
@@ -317,15 +326,6 @@
       "title": "Handle empty inputs and invalid batch sizes in adaptive inference",
       "html_url": "https://github.com/coccinella-labs/bitinfer/issues/1",
       "updated_at": "2026-11-15T04:58:07Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "swe-agent",
-      "number": 21,
-      "title": "Keep pull-request creation inside the documented sandbox execution boundary",
-      "html_url": "https://github.com/coccinella-labs/swe-agent/issues/21",
-      "updated_at": "2026-11-15T04:54:39Z",
       "user": "bniladridas",
       "comments": 0
     }
