@@ -1,33 +1,5 @@
 {"repos": [
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "bot",
     "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
@@ -42,9 +14,37 @@
     "forks_count": 1
   },
   {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,6 +146,15 @@
   "total_count": 159,
   "items": [
     {
+      "repo": "harper",
+      "number": 975,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 9 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/975",
+      "updated_at": "2026-11-25T05:56:24Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
       "repo": "agentware",
       "number": 282,
       "title": "Daily maintenance report 2026-11-11",
@@ -153,15 +162,6 @@
       "updated_at": "2026-11-24T17:16:11Z",
       "user": "github-actions[bot]",
       "comments": 1
-    },
-    {
-      "repo": "harper",
-      "number": 974,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 8 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/974",
-      "updated_at": "2026-11-24T05:57:06Z",
-      "user": "dependabot[bot]",
-      "comments": 0
     },
     {
       "repo": "vesper",
