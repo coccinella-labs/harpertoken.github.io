@@ -1,5 +1,40 @@
 {"repos": [
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "clipb",
+    "html_url": "https://github.com/coccinella-labs/clipb",
+    "language": "Rust",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "craft",
     "html_url": "https://github.com/coccinella-labs/craft",
     "language": "Rust",
@@ -21,37 +56,9 @@
     "forks_count": 1
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -131,13 +138,6 @@
     "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "gh-tag",
-    "html_url": "https://github.com/coccinella-labs/gh-tag",
-    "language": "TypeScript",
-    "stargazers_count": 0,
-    "forks_count": 0
   }
 ], "latest_release": {
   "tag_name": "harper-0.24.1",
@@ -145,6 +145,24 @@
 }, "open_prs": {
   "total_count": 159,
   "items": [
+    {
+      "repo": "agentware",
+      "number": 282,
+      "title": "Daily maintenance report 2026-11-11",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
+      "updated_at": "2026-11-26T16:40:04Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
+      "repo": "clipb",
+      "number": 3,
+      "title": "build(deps): bump clap from 4.6.6 to 4.6.9",
+      "html_url": "https://github.com/coccinella-labs/clipb/pull/3",
+      "updated_at": "2026-11-26T13:34:12Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
     {
       "repo": "craft",
       "number": 2,
@@ -162,15 +180,6 @@
       "updated_at": "2026-11-26T05:57:02Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 282,
-      "title": "Daily maintenance report 2026-11-11",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
-      "updated_at": "2026-11-25T17:00:40Z",
-      "user": "github-actions[bot]",
-      "comments": 1
     },
     {
       "repo": "vesper",
@@ -225,15 +234,6 @@
       "updated_at": "2026-11-23T09:10:25Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 121,
-      "title": "deps(deps): bump the data group across 1 directory with 2 updates",
-      "html_url": "https://github.com/coccinella-labs/benchmark/pull/121",
-      "updated_at": "2026-11-23T09:10:17Z",
-      "user": "dependabot[bot]",
-      "comments": 1
     }
   ]
 }, "open_issues": {
