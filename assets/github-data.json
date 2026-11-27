@@ -7,6 +7,27 @@
     "forks_count": 0
   },
   {
+    "name": "agentware",
+    "html_url": "https://github.com/coccinella-labs/agentware",
+    "language": "C++",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff-mac",
+    "html_url": "https://github.com/coccinella-labs/diff-mac",
+    "language": "Swift",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "harpertoken.github.io",
+    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
+    "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
     "name": "harper",
     "html_url": "https://github.com/coccinella-labs/harper",
     "language": "Rust",
@@ -21,13 +42,6 @@
     "forks_count": 0
   },
   {
-    "name": "harpertoken.github.io",
-    "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
-    "language": "JavaScript",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "diff",
     "html_url": "https://github.com/coccinella-labs/diff",
     "language": "TypeScript",
@@ -35,23 +49,9 @@
     "forks_count": 0
   },
   {
-    "name": "agentware",
-    "html_url": "https://github.com/coccinella-labs/agentware",
-    "language": "C++",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
     "name": "clipb",
     "html_url": "https://github.com/coccinella-labs/clipb",
     "language": "Rust",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "diff-mac",
-    "html_url": "https://github.com/coccinella-labs/diff-mac",
-    "language": "Swift",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -146,6 +146,15 @@
   "total_count": 159,
   "items": [
     {
+      "repo": "agentware",
+      "number": 282,
+      "title": "Daily maintenance report 2026-11-11",
+      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
+      "updated_at": "2026-11-27T16:26:36Z",
+      "user": "github-actions[bot]",
+      "comments": 1
+    },
+    {
       "repo": "harper",
       "number": 976,
       "title": "[deps] bump the cargo-minor-patch group across 1 directory with 10 updates",
@@ -153,15 +162,6 @@
       "updated_at": "2026-11-27T05:57:20Z",
       "user": "dependabot[bot]",
       "comments": 0
-    },
-    {
-      "repo": "agentware",
-      "number": 282,
-      "title": "Daily maintenance report 2026-11-11",
-      "html_url": "https://github.com/coccinella-labs/agentware/pull/282",
-      "updated_at": "2026-11-26T16:40:04Z",
-      "user": "github-actions[bot]",
-      "comments": 1
     },
     {
       "repo": "clipb",
