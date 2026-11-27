@@ -1,14 +1,21 @@
 {"repos": [
   {
-    "name": "diff",
-    "html_url": "https://github.com/coccinella-labs/diff",
-    "language": "TypeScript",
+    "name": ".github",
+    "html_url": "https://github.com/coccinella-labs/.github",
+    "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
   },
   {
-    "name": ".github",
-    "html_url": "https://github.com/coccinella-labs/.github",
+    "name": "harper",
+    "html_url": "https://github.com/coccinella-labs/harper",
+    "language": "Rust",
+    "stargazers_count": 1,
+    "forks_count": 1
+  },
+  {
+    "name": "bot",
+    "html_url": "https://github.com/coccinella-labs/bot",
     "language": "Python",
     "stargazers_count": 0,
     "forks_count": 0
@@ -17,6 +24,13 @@
     "name": "harpertoken.github.io",
     "html_url": "https://github.com/coccinella-labs/harpertoken.github.io",
     "language": "JavaScript",
+    "stargazers_count": 0,
+    "forks_count": 0
+  },
+  {
+    "name": "diff",
+    "html_url": "https://github.com/coccinella-labs/diff",
+    "language": "TypeScript",
     "stargazers_count": 0,
     "forks_count": 0
   },
@@ -47,20 +61,6 @@
     "language": "Rust",
     "stargazers_count": 0,
     "forks_count": 0
-  },
-  {
-    "name": "bot",
-    "html_url": "https://github.com/coccinella-labs/bot",
-    "language": "Python",
-    "stargazers_count": 0,
-    "forks_count": 0
-  },
-  {
-    "name": "harper",
-    "html_url": "https://github.com/coccinella-labs/harper",
-    "language": "Rust",
-    "stargazers_count": 1,
-    "forks_count": 1
   },
   {
     "name": "vesper",
@@ -146,6 +146,15 @@
   "total_count": 159,
   "items": [
     {
+      "repo": "harper",
+      "number": 976,
+      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 10 updates",
+      "html_url": "https://github.com/coccinella-labs/harper/pull/976",
+      "updated_at": "2026-11-27T05:57:20Z",
+      "user": "dependabot[bot]",
+      "comments": 0
+    },
+    {
       "repo": "agentware",
       "number": 282,
       "title": "Daily maintenance report 2026-11-11",
@@ -169,15 +178,6 @@
       "title": "build(deps): bump clap from 4.6.6 to 4.6.9",
       "html_url": "https://github.com/coccinella-labs/craft/pull/2",
       "updated_at": "2026-11-26T10:14:20Z",
-      "user": "dependabot[bot]",
-      "comments": 0
-    },
-    {
-      "repo": "harper",
-      "number": 975,
-      "title": "[deps] bump the cargo-minor-patch group across 1 directory with 9 updates",
-      "html_url": "https://github.com/coccinella-labs/harper/pull/975",
-      "updated_at": "2026-11-26T05:57:02Z",
       "user": "dependabot[bot]",
       "comments": 0
     },
@@ -241,6 +241,51 @@
   "items": [
     {
       "repo": "harper",
+      "number": 917,
+      "title": "[packaging] both Homebrew formula surfaces are behind; the served one is pinned to 0.20.1",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/917",
+      "updated_at": "2026-11-27T06:13:43Z",
+      "user": "bniladridas",
+      "comments": 3
+    },
+    {
+      "repo": "harper",
+      "number": 345,
+      "title": "Tracked roadmap",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/345",
+      "updated_at": "2026-11-27T06:13:41Z",
+      "user": "bniladridas",
+      "comments": 5
+    },
+    {
+      "repo": "harper",
+      "number": 907,
+      "title": "read_file resolves relative paths against the process working directory",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/907",
+      "updated_at": "2026-11-27T06:13:39Z",
+      "user": "bniladridas",
+      "comments": 5
+    },
+    {
+      "repo": "harper",
+      "number": 936,
+      "title": "[P1] add runtime regression test for sandbox-exec command execution on macOS",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/936",
+      "updated_at": "2026-11-27T06:13:38Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
+      "number": 939,
+      "title": "trim repeated descriptions and implementation history from the roadmap",
+      "html_url": "https://github.com/coccinella-labs/harper/issues/939",
+      "updated_at": "2026-11-27T06:13:36Z",
+      "user": "bniladridas",
+      "comments": 1
+    },
+    {
+      "repo": "harper",
       "number": 924,
       "title": "Cancellation can be lost when a new command is queued within one poll cycle of Ctrl+C",
       "html_url": "https://github.com/coccinella-labs/harper/issues/924",
@@ -281,51 +326,6 @@
       "title": "Keep report actions read-only instead of modifying every managed repository",
       "html_url": "https://github.com/coccinella-labs/bot/issues/4",
       "updated_at": "2026-11-15T05:04:51Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "hub",
-      "number": 1,
-      "title": "Prevent release automation from force-moving existing version tags",
-      "html_url": "https://github.com/coccinella-labs/hub/issues/1",
-      "updated_at": "2026-11-15T05:04:50Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "ml",
-      "number": 2,
-      "title": "Validate task creation requests before adding dashboard tasks",
-      "html_url": "https://github.com/coccinella-labs/ml/issues/2",
-      "updated_at": "2026-11-15T05:01:35Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "rl",
-      "number": 5,
-      "title": "Make the published CartPole checkpoint loadable through CMAESAgent.from_pretrained",
-      "html_url": "https://github.com/coccinella-labs/rl/issues/5",
-      "updated_at": "2026-11-15T05:01:33Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "mlapi",
-      "number": 137,
-      "title": "Load runtime model and generation settings from config.yaml",
-      "html_url": "https://github.com/coccinella-labs/mlapi/issues/137",
-      "updated_at": "2026-11-15T05:01:31Z",
-      "user": "bniladridas",
-      "comments": 0
-    },
-    {
-      "repo": "benchmark",
-      "number": 163,
-      "title": "Calculate word error rate using word-level edit distance",
-      "html_url": "https://github.com/coccinella-labs/benchmark/issues/163",
-      "updated_at": "2026-11-15T04:58:27Z",
       "user": "bniladridas",
       "comments": 0
     }
